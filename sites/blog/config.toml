@@ -1,3 +1,8 @@
-baseURL = "http://example.org/"
+baseURL = "https://blog.porcupine.studio/"
 languageCode = "en-us"
-title = "My New Hugo Site"
+title = "PS Blog"
+theme = "prickle"
+
+[params]
+  contentTypes = ["post"]
+  menuTypes = ["page"]
