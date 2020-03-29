@@ -26,8 +26,9 @@ If you play this please let me know how it went. Seriously let me know
 at porcupine@jessebmiller.com
 
 If you want to play this but don't know what the fuck I'm talking
-about down there, please let me know and I'll explain anything.  Meta
-Cast
+about down there, please let me know and I'll explain anything.
+
+## Meta Cast
 
 A Meta Tabletop Role Playing Game
 about making a game that is
