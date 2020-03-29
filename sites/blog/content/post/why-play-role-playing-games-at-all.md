@@ -1,6 +1,6 @@
 +++
 title = "Why Play Role Playing Games at All"
-date = 2020-03-4T18:47:26-05:00
+date = 2020-03-04T18:47:26-05:00
 draft = false
 description = ""
 categories = ["Why we play"]
