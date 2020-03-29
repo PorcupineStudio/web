@@ -4,5 +4,5 @@ title = "PS Blog"
 theme = "prickle"
 
 [params]
-  contentTypes = ["post"]
+  contentTypes = ["posts"]
   menuTypes = ["page"]

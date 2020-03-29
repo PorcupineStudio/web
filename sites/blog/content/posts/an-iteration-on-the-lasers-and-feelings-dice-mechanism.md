@@ -3,21 +3,25 @@ title = "An Iteration on the Lasers and Feelings Dice Mechanism"
 date = 2020-03-22T19:14:37-05:00
 draft = false
 description = ""
-categories = ["Mechanisms"]
+categories = ["Mechanics"]
 tags = [
   "Everything",
   "TTRPGs",
   "RPGs",
+  "Mechanics",
 ]
 +++
 
-In lasers and feelings, a micro RPG by John Harper, characters get a
-number between 2 and 5 expressing their position along a dichotomy
-from lasers (higher number) to feelings (lower number). When doin'
-stuff that uses lasers (fighting, reason, science) the d6s you roll
-pass when they are below the number. When doin' stuff that uses
-feelings (passion, charm, empathy) the d6s you roll succeed when they
-are above the number
+In [lasers and
+feelings](http://www.onesevendesign.com/laserfeelings/), a micro RPG
+by John Harper, characters get a number between 2 and 5 expressing
+their position along a dichotomy from lasers (higher number) to
+feelings (lower number). When doin' stuff that uses lasers (fighting,
+reason, science) the d6s you roll pass when they are below the
+number. When doin' stuff that uses feelings (passion, charm, empathy)
+the d6s you roll succeed when they are above the number
+
+<!--more-->
 
 My iteration introduces multiple dichotomies. For instance a game
 might have the following dichotomies. Put high numbers in each of

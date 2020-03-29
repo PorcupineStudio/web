@@ -6,8 +6,8 @@ description = ""
 categories = ["Mechanics"]
 tags = [
   "Everything",
-  "TTRPG",
-  "RPG",
+  "TTRPGs",
+  "RPGs",
   "Mechanics",
   "Dice",
 ]
