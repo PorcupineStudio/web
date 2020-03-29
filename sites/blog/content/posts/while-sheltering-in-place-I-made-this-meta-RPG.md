@@ -107,9 +107,6 @@ mechanism, advancement, and some questions to kick start the setting
 
 Write the "write a move" move
 
-Thanks for reading!
-
-
 ## Inspired by
 
 Apocalypse World - Meguey and Vincent Baker
@@ -117,3 +114,5 @@ Apocalypse World - Meguey and Vincent Baker
 The Strategy of Conflict - Thomas C. Schelling
 
 Radical Markets - Eric A. Posner and Glen Weyl
+
+*Thanks for reading!*
