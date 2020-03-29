@@ -3,10 +3,4 @@
   <h1><a href={{ .Site.BaseURL }}>\\Porcupine Studio</a></h1>
   <h2>meaningful play</h2>
 
-  <ul id="menu">
-  {{ range where site.RegularPages "Type" "in" site.Params.menuTypes }}
-    <li><a href={{ .Permalink }}>{{ .Title }}</a></li>
-  {{ end }}
-  </ul>
-
 </header>

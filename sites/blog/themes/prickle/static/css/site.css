@@ -46,21 +46,38 @@ header h1 {
 }
 
 footer {
-    border-bottom: 1em solid red;
+    border-bottom: 1em solid black;
     padding-bottom: 5vw;
-    margin-bottom: -1em;gi
+    margin-bottom: -1em;
 }
 
 #page {
-    width: 68vw;
-    margin-left: auto;
-    margin-right: auto;
+
+}
+
+#left {
+    width: 19%;
+    float: left;
+    min-height: 100vh;
 }
 
 #main {
-    max-width: 40em;
+    width: 50%;
+    float: left;
+    min-height: 100vh;
+}
+
+#right {
+    width: 29%;
+    float: left;
+    min-height: 100vh;
 }
 
 #menu {
-    float: right;
+    margin-top: 42vh;
+    margin-left: 5vw;
+}
+
+#social {
+    margin-top: 100vh;
 }

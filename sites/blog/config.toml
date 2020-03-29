@@ -5,4 +5,3 @@ theme = "prickle"
 
 [params]
   contentTypes = ["posts"]
-  menuTypes = ["page"]

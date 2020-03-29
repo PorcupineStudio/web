@@ -1,13 +1,23 @@
 <!DOCTYPE html>
 <html>
-    {{- partial "head.html" . -}}
-    <body>
-      <div id="page">
+  {{- partial "head.html" . -}}
+  <body>
+    <div id="page">
+      <div id="left">
+        {{- block "left" . }}
+          {{- partial "default-left.html" . }}
+        {{- end }}
+      </div>
+      <div id="main">
         {{- partial "header.html" . -}}
-        <div id="main">
         {{- block "main" . }}{{- end }}
-        </div>
         {{- partial "footer.html" . -}}
       </div>
-    </body>
+      <div id="right">
+        {{- block "right" . }}
+          {{- partial "default-right.html" . -}}
+        {{- end }}
+      </div>
+    </div>
+  </body>
 </html>
