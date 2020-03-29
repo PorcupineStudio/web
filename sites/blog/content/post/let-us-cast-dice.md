@@ -3,13 +3,13 @@ title = "Let Us Cast Dice"
 date = 2020-02-24T15:07:05-05:00
 draft = false
 description = ""
-tags = ["post"]
-categories = [
-  "everything",
+categories = ["Mechanics"]
+tags = [
+  "Everything",
   "TTRPG",
   "RPG",
-  "mechanics",
-  "dice",
+  "Mechanics",
+  "Dice",
 ]
 +++
 

@@ -3,12 +3,12 @@ title = "Getting Better at Stuff"
 date = 2020-02-27T17:28:38-05:00
 draft = false
 description = ""
-tags = ["post"]
-categories = [
-  "everything",
-  "RPG",
-  "TTRPG",
-  "advancement",
+categories = ["Mechanics"]
+tags = [
+  "Everything",
+  "TTRPGs",
+  "RPGs",
+  "Advancement",
 ]
 +++
 

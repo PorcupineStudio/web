@@ -9,7 +9,7 @@ html {
 
 h1, h2, h3 {
     font-family: 'Playfair Display', serif;
-    font-weight: 900;
+    font-weight: 400;
     margin-top: 2em;
 }
 
@@ -32,11 +32,11 @@ a:visited {
 }
 
 header {
-    border-bottom: 1vw solid red;
     padding-top: 1vw;
 }
 
 header h1 {
+    font-weight: 900;
     display: inline;
     font-size: 3em;
     font-style: italic;
