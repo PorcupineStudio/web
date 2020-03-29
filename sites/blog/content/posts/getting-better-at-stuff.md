@@ -57,7 +57,7 @@ all the time, take no risks and still advance. Instead you have to
 find opportunities in the narrative to push your character, to find
 appropriate risks and take them!
 
-It *discourages mini-maxing* by making a breadth of abilities more
+It *discourages minmaxing* by making a breadth of abilities more
 feasible to get than a single track. It increases the opportunity cost
 of specialization
 
