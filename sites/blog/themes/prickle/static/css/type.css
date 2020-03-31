@@ -1,0 +1,48 @@
+@import url('https://fonts.googleapis.com/css2?family=Abril+Fatface&family=Merriweather:ital,wght@0,300;0,400;0,700;0,900;1,300;1,400;1,700;1,900&family=Montserrat:ital,wght@0,100;0,200;0,300;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
+
+html {
+    font-family: 'Merriweather', serif;
+    font-size: 16px;
+    line-height: 1.4em;
+    color: black;
+}
+
+h1, h2, h3 {
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 400;
+    font-size: calc(1em + 1.5vw);
+    margin-top: 2em;
+    margin-bottom: 1em;
+}
+
+em {
+    font-weight: 700;
+    font-style: italic;
+}
+
+header h1, header h2 {
+    font-family: 'Abril Fatface', cursive;
+}
+
+header h1 {
+    margin-top: 2vw;
+    margin-bottom: 0vw;
+    font-size: 7.3vw;
+    letter-spacing: -0.08em;
+}
+
+header h2 {
+    margin-top: 0;
+    font-family: 'Abril Fatface', cursive;
+    font-size: 3vw;
+    position: relative;
+    left: 21vw;
+    line-height: 2.8vw;
+}
+
+p {
+    margin: 1em 0em;
+    line-height: 1.3em;
+}
+
+

@@ -1,26 +1,13 @@
-@import url('https://fonts.googleapis.com/css2?family=Nunito:ital,wght@0,400;0,700;0,900;1,400;1,700;1,900&family=Playfair+Display:ital,wght@0,400;0,500;0,900;1,400;1,500;1,900&display=swap');
-
 html {
-    font-family: 'Nunito', sans-serif;
-    font-size: 16pt;
-    color: black;
     background: white;
 }
 
-h1, h2, h3 {
-    font-family: 'Playfair Display', serif;
-    font-weight: 400;
-    margin-top: 2em;
-}
-
-em {
-    font-weight: 700;
-    font-style: italic;
-}
-
 h1 a, h2 a, h3 a {
-    color: black;
     text-decoration: none;
+}
+
+a {
+    color: black;
 }
 
 a:hover {
@@ -35,49 +22,11 @@ header {
     padding-top: 1vw;
 }
 
-header h1, header h2 {
-    font-style: italic;
-    display: inline;
-}
-
-header h1 {
-    font-weight: 900;
-    font-size: 3em;
-}
-
 footer {
-    border-bottom: 1em solid black;
     padding-bottom: 5vw;
     margin-bottom: -1em;
 }
 
-#page {
-
-}
-
-#left {
-    width: 19%;
-    float: left;
-    min-height: 100vh;
-}
-
-#main {
-    width: 50%;
-    float: left;
-    min-height: 100vh;
-}
-
-#right {
-    width: 29%;
-    float: left;
-    min-height: 100vh;
-}
-
-#menu {
-    margin-top: 42vh;
-    margin-left: 5vw;
-}
-
-#social {
-    margin-top: 100vh;
+.hidden {
+    display: none;
 }
