@@ -2,9 +2,9 @@
 
 html {
     font-family: 'Merriweather', serif;
-    font-size: 16px;
-    line-height: 1.4em;
+    font-size: 20px;
     color: black;
+    background-color: #fffafa;
 }
 
 h1, h2, h3 {
@@ -24,25 +24,32 @@ header h1, header h2 {
     font-family: 'Abril Fatface', cursive;
 }
 
+header {
+    font-size: 5vw;
+}
+
 header h1 {
-    margin-top: 2vw;
-    margin-bottom: 0vw;
-    font-size: 7.3vw;
+    margin-top: -0.2em;
+    margin-bottom: 0em;
+    font-size: 3em;
     letter-spacing: -0.08em;
+}
+
+.aff-p-kern {
+    letter-spacing: -0.23em;
 }
 
 header h2 {
     margin-top: 0;
     font-family: 'Abril Fatface', cursive;
-    font-size: 3vw;
-    position: relative;
-    left: 21vw;
-    line-height: 2.8vw;
+    font-size: 1.4em;
 }
 
 p {
     margin: 1em 0em;
-    line-height: 1.3em;
+    line-height: 1.62em;
 }
 
-
+h1 {
+    line-height: 1.62em;
+}

@@ -29,3 +29,8 @@
     margin-left: 2%;
     min-height: 1vw;
 }
+
+p {
+    max-width: 60ch;
+    min-width: 40ch;
+}
