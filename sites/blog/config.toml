@@ -5,3 +5,4 @@ theme = "prickle"
 
 [params]
   contentTypes = ["posts"]
+  gaTrackingID = "UA-162439805-1"
