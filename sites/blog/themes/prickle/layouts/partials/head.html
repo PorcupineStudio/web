@@ -2,13 +2,13 @@
   <title>\\{{ .Title }}</title>
 
   <!-- Global site tag (gtag.js) - Google Analytics -->
-  <script async src="https://www.googletagmanager.com/gtag/js?id={{ .Site.Params.GaTrackingID }}"></script>
+  <script async src="https://www.googletagmanager.com/gtag/js?id={{ .Site.Params.gaTrackingID }}"></script>
   <script>
     window.dataLayer = window.dataLayer || [];
     function gtag(){dataLayer.push(arguments);}
     gtag('js', new Date());
     
-    gtag('config', '{{ .Site.Params.GaTrackingID }}');
+    gtag('config', '{{ .Site.Params.gaTrackingID }}');
   </script>
 
   <link rel="stylesheet" type="text/css" href="/css/reset.css">
