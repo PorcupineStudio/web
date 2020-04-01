@@ -1,7 +1,16 @@
 <footer>
-  <ul>
-    {{ range where site.Pages "Kind" "taxonomyTerm" }}
-      <li><a href="{{ .Permalink }}">{{ .Title }}</a></li>
+  <div class="half-width">
+    <ul>
+      {{ range where site.Pages "Kind" "taxonomyTerm" }}
+        <li><a href={{ .Permalink }}>{{ .Title }}</a></li>
+      {{ end }}
+    </ul>
+  </div>
+  <div class="half-width">
+    {{ range .Site.Params.socialLinks }}
+      <p>
+        <img class="list-icon" style={{ .style | safeCSS }} src={{.Icon}}>
+        <a target="_blank" href={{ .Permalink }}>{{ .Title }}</a>
+      </p>
     {{ end }}
-  </ul>
 </footer>

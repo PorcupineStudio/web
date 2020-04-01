@@ -30,7 +30,17 @@
     min-height: 1vw;
 }
 
+.half-width {
+    width: calc(50% - 2vw);
+    margin-right: 1.9w;
+    display: inline-block;
+}
+
 p {
     max-width: 60ch;
     min-width: 40ch;
+}
+
+.list-icon {
+    float: left;
 }

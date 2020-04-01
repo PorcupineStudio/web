@@ -24,6 +24,7 @@ Margin A + Column + Margin B = Viewport width
 * `margin-a`: Viewport dependant width, viewport - (margin b + column)
 * `margin-b`: Viewport dependant widtn, viewport - (margin a + column)
 * `content`: Viewport dependant width, viewport - margin a + b
+* `half-width`: 50% width with a gutter
 
 #### Grid modules (future work)
 
