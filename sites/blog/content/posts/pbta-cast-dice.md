@@ -3,13 +3,14 @@ title = "PbtA Cast Dice"
 date = 2020-04-01T09:17:06-05:00
 draft = false
 description = ""
-categories = ["Mechanics"]
+categories = ["Mechanics", "Cast"]
 tags = [
   "Everything",
   "TTRPGs",
   "RPGs",
   "Dice",
   "PbtA",
+  "Cast",
 ]
 +++
 
@@ -100,31 +101,31 @@ moves. That's what I want to keep
 
 Here is a move that doesn't scale with ability
 
-> ENDURE PHYSICAL VIOLENCE
-
+> ENDURE PHYSICAL SHOCK
+>
 > When you've been punched, shot, fall off a high ledge, or otherwise
-> are physically hurt *endure physical violence*.
-
+> are physically hurt *endure physical shock*.
+>
 > * Difficulty is damage taken (specified by the weapon or GM)
 > * Complexity is 1
 > * Roll Tough
-
+>
 > No matter what the roll is mark exhaustion for each damage
 > taken. Whenever exhaustion is marked as part of this move if exhaustion
 > is greater than 5 mark a wound, greater than 11 mark a maiming, if
 > greater than 17 you die.
-
+>
 > You also die if you get 6 wounds or are maimed 3 times without rest
-
+>
 > If it gets complicated the GM may choose 1:
-
+>
 > * Damage a piece of armor
 > * Mark 2 more exhaustion
 > * Lose track of an important item
 > * etc.
-
+>
 > If you fail, the GM may choose 1 from the above, and one from below:
-
+>
 > * Destroy a piece of armor
 > * Mark 5 more exhaustion
 > * Permanently lose an important item
@@ -140,21 +141,21 @@ abilities improved, they could push it farther and farther.
 
 The version that scales is similar but with a choice
 
-> ENDURE PHYSICAL VIOLENCE (2.0)
-
+> ENDURE PHYSICAL SHOCK (2.0)
+>
 > When you've been punched, shot, fall off a high ledge, or otherwise
-> are physically hurt *endure physical violence* and choose how much
-> damage to shrug off.
-
+> are suddenly physically hurt *endure physical shock* and choose how
+> much damage to shrug off.
+>
 > * Difficulty is damage taken (specified by the weapon or GM)
 > * Complexity is 1 + the damage you shrug off
 > * Roll Tough
-
+>
 > No matter what the roll is mark exhaustion for each damage not shrugged
 > off. Whenever exhaustion is marked as part of this move if exhaustion
 > is greater than 5 mark a wound, greater than 11 mark a maiming,
 > greater than 17 you die.
-
+>
 > ... (everything else is the same)
 
 In this version the player may press their luck and try for a better
@@ -185,5 +186,10 @@ If you are into it, throw some dice around and let me know how it
 works out on Twitter [@jessebmiller](https://twitter.com/jessebmiller)
 or in the [cast discord server](https://discord.gg/pCQ44h). I promise
 I'll respond.
+
+I'd love for designers to use this mechanic in their games and while
+mechanics are not covered by Copyright, I'd ask that you attribute the
+design to me. "Cast dice mechanic by Jesse B. Miller" or something
+like that. If you do please let me know! I'll help spread the word.
 
 *Thanks for reading!*
