@@ -3,7 +3,7 @@ title = "{{ replace .Name "-" " " | title }}"
 date = {{ .Date }}
 draft = true
 description = ""
-categories = ["Mechanisms"]
+categories = ["Mechanics"]
 tags = [
   "Everything",
   "TTRPGs",

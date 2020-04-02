@@ -9,8 +9,10 @@
   <div class="half-width">
     {{ range .Site.Params.socialLinks }}
       <p>
-        <img class="list-icon" style={{ .style | safeCSS }} src={{.Icon}}>
-        <a target="_blank" href={{ .Permalink }}>{{ .Title }}</a>
+        <a target="_blank" href={{ .Permalink }}>
+          <img class="list-icon" style={{ .style | safeCSS }} src={{.Icon}}>
+          {{ .Title }}
+        </a>
       </p>
     {{ end }}
 </footer>

@@ -18,3 +18,9 @@ theme = "prickle"
   Permalink = "https://twitter.com/jessebmiller"
   Icon = "/img/Twitter_Logo_Blue.png"
   style = "height:1.8em;"
+
+[[params.socialLinks]]
+  Title = "Come hang out!"
+  Permalink = "https://discord.gg/pCQ44h"
+  Icon = "/img/Discord-Logo+Wordmark-Black.png"
+  style = "height:1.8em;"

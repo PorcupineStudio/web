@@ -3,16 +3,33 @@
 html {
     font-family: 'Merriweather', serif;
     font-size: 20px;
-    color: black;
+    color: #23272A;
     background-color: #fffafa;
 }
 
 h1, h2, h3 {
     font-family: 'Montserrat', sans-serif;
     font-weight: 400;
-    font-size: calc(1em + 1.5vw);
     margin-top: 2em;
     margin-bottom: 1em;
+}
+
+h1 {
+    font-size: calc(1em + 1.5vw);
+}
+
+h2 {
+    font-size: calc(0.5em + 1.25vw);
+}
+
+h3 {
+    font-size: calc(0.5em + 1vw);
+}
+
+blockquote {
+    padding-left: 1em;
+    border-left: 1ch solid lightgray;
+    font-family: 'Montserrat', sans-serif;
 }
 
 em {
@@ -31,12 +48,16 @@ header {
 header h1 {
     margin-top: -0.5em;
     margin-bottom: 0em;
-    font-size: 3em;
-    letter-spacing: -0.08em;
+    font-size: 3.08em;
+    letter-spacing: -0.09em;
 }
 
 .aff-p-kern {
     letter-spacing: -0.23em;
+}
+
+.aff-s-kern {
+    letter-spacing: -0.13em;
 }
 
 header h2 {
@@ -45,20 +66,29 @@ header h2 {
     font-size: 1.4em;
 }
 
-p, li {
-    margin: 1em 0em;
+p, ul {
     line-height: 1.62em;
 }
+
+p {
+    margin-top: 1em;
+}
+
 
 h1 {
     line-height: 1.62em;
 }
 
 footer {
-    border-top: 1em solid black;
+    border-top: 1em solid #23272A;
     margin-top: 3em;
+    vertical-align: text-top;
 }
 
 li {
     list-style-type: square;
+}
+
+code {
+    font-family: monospace;
 }

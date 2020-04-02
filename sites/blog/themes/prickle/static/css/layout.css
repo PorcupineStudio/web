@@ -36,9 +36,14 @@
     display: inline-block;
 }
 
-p {
+p, li {
     max-width: 60ch;
     min-width: 40ch;
+}
+
+ul {
+    padding-left: 0em;
+    margin-left: 1em;
 }
 
 .list-icon {
