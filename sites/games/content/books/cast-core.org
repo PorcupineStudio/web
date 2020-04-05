@@ -1,0 +1,153 @@
++++
+title = "Cast Core"
+subtitle = "System Reference Document"
+date = 2020-04-05T13:25:20-05:00
+draft = false
+categories = [
+  "System Refrence Document (SRD)",
+]
++++
+
+* Why Cast
+  Cast games are role-playing games about people, they are about who
+  we might be or who we might become. They about about human flaws,
+  values, progress, tragedy, villiany, and heroism.  Play to find out
+  who they are, how their relationships develop, what they achieve,
+  what they believe. All role-playing gmaes can get intense and go
+  farthur than players might be expecting and so being explicit about
+  safety is important for any game but Cast games are designed to dig
+  deep
+
+  The safety rules in this book are not optional. All Cast games must
+  include them or their equivilant.
+
+* Safety
+  These safety rules are the only rules that it’s not acceptable to
+  play any Cast game without
+
+  Lines, Veils, Rewind, Fast Forward, and The X Card. These are personal
+  boundaries made explicit that are against the rules to cross, push,
+  or test. It’s against the rules to question the necessity of
+  any Line or Veil that anyone has set, but it is important to
+  understand clearly what the boundary is so clarifying questions are
+  fine. DO NOT give examples of things that might be over the line or
+  behind the veil to clarify. That’s crossing boundaries. Don’t push
+  or test anyone’s boundaries. There are two acceptable responses to
+  someone setting a boundary. Accept, understand, and respect it, or
+  leave the game
+
+* The Conversation
+  A Cast game is a conversation between players held in order to find
+  out about their characters and their society. Who they are, how
+  their relationships develop, what they achieve, what they
+  believe. It’s conducted by the players, structured by The Agenda,
+  driven forward by The Moves and guided by The Dice.
+
+** Fictional Positioning
+** How the players, characters, story, and rules interact
+   Thr roller coaster and the clouds boxes and arrows.
+** Plot and Verisimilitude
+*** GM (come up with something other than game master)
+    One player does not play a protagonist but is responsible for all
+    Agendas and supporting characters
+*** Co-op
+    All players play protagonists and share responsibility for
+    Agendas and supporting characters
+*** Solo
+    You do everything, play a protagonist, supporting characters, set
+    agendas, and keep a log. Of course anyone can keep a log in GM and
+    Co-op play too.
+* Moves and Agendas
+** Verisimilitude has agendas
+   An agenda is a list of thigns to be done.
+*** Session Zero Agenda
+*** Characterization Agendas
+  Prompts for creating powerful, colorful, cool, flawed, interesting
+  characters with room to grow And connections with each other
+*** Worldbuilding Agendas
+*** Scene Agendas
+**** In medias res
+**** Mise en scene
+     - Who, what, when, where? Play to find out why and how.
+       - Inclusions and Exclusions
+     - Mood
+     - What's at stake
+     - A gun of Chechov
+     - A bomb of Hitchcock
+** Characters have moves
+*** Escilation, Avoidance, and Resolution
+    The playgroup should discuss the arenas in terms of safety. Some
+    people might not feel safe playing with any sexual conflict, or
+    social wiholding, or emotional violence.
+
+    [{implicit, explicit} Threat of]
+    <Arena>...
+    {<Escilation>, <Avoidance>, <Resolution>}
+
+    - Arenas (the ways we can be hurt)
+      - Social
+      - Physical
+      - Sexual
+      - Emotional
+      - Intellectual
+    - Escilation (the modes we can use to control)
+      - Holding accountable
+      - Expectation
+      - Demand
+      - Witholding
+      - Domination
+      - Violence
+    - Avoidance
+      - Trickery
+      - Misdirection
+      - Flee
+      - Reframe (move conflict to another arena)
+      - Delay
+    - Resolution
+      - Dispell
+      - Resolve
+      - Negotiate
+      - Agree
+      - Discuss
+      - Calm
+*** Dice
+    Look at the language in The Burning Wheel Page 12
+
+*** Advancement
+**** Retroactive advancement
+**** Active Advancement
+***** In Flashbacks
+
+** Sheets
+* Suppliments
+** Tables
+** Moves List
+* Open Questions
+** How will we handle money? Is that for specific games to decide?
+** How will we handle equipment? Is that for specific games to decide?
+** What specific games am I designing this system for?
+*** Opulent red
+*** The one about Tragedy and Epic with the Chorus
+
+* Design Goals and Constraints
+** General Goals
+*** Simplicity (not necessarily ease)
+*** Efficient expert execution to minimize being taken out of flow out of character etc.
+**** State Management
+**** Mechanism selection
+**** Mechanism resolution
+**** Result interpretation
+*** Accessibility
+** Specific Constraints
+*** All Mechanical Stats Come from Play in order to
+**** efficiency of expert execution
+**** accessibility
+*** Introduce mechanics and stats like a videogame
+**** accessibility
+*** Flux Architecture (Moves, Fictional Position, Sheets)
+**** Efficiency of expert execution
+**** Simplicity
+
+* References
+  - https://lumpley.games/2019/12/30/powered-by-the-apocalypse-part-1/
+
