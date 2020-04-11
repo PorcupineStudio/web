@@ -4,7 +4,7 @@ subtitle = "System Reference Document"
 date = 2020-04-05T13:25:20-05:00
 draft = false
 categories = [
-  "System Refrence Document (SRD)",
+  "System Refrence Documents",
 ]
 +++
 

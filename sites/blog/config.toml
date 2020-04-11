@@ -1,6 +1,6 @@
 baseURL = "https://blog.porcupine.studio/"
 languageCode = "en-us"
-title = "PS Blog"
+title = "Blog | Porcupine Studio"
 theme = "prickle"
 
 [params]

@@ -1,0 +1,15 @@
++++
+title = "Immortal Frontier"
+subtitle = "Operations"
+date = 2020-04-11T15:53:03-05:00
+draft = true
+categories = [
+  "Zines",
+]
++++
+
+* Squadron Ops
+* Fleet Ops
+* Special Ops
+
+

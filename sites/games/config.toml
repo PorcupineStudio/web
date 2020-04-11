@@ -1,3 +1,26 @@
-baseURL = "http://example.org/"
+baseURL = "http://games.porcupine.studio/"
 languageCode = "en-us"
-title = "My New Hugo Site"
+title = "Games | Porcupine Studio"
+theme = "quil"
+
+[params]
+  contentTypes = ["posts"]
+  gaTrackingID = "UA-162439805-1"
+
+[[params.socialLinks]]
+  Permalink = "https://www.patreon.com/castrpg"
+  Title = "Cast RPG on Patreon"
+  Icon = "/img/Patreon_Mark_Primary.png"
+  style = "height:1em;margin: .3em .5em;"
+
+[[params.socialLinks]]
+  Title = "@jessebmiller"
+  Permalink = "https://twitter.com/jessebmiller"
+  Icon = "/img/Twitter_Logo_Blue.png"
+  style = "height:1.8em;"
+
+[[params.socialLinks]]
+  Title = "Come hang out!"
+  Permalink = "https://discord.gg/xm6e4TA"
+  Icon = "/img/Discord-Logo+Wordmark-Black.png"
+  style = "height:1.8em;"

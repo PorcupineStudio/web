@@ -1,0 +1,164 @@
++++
+title = "Immortal Frontier"
+subtitle = "Introduction"
+date = 2020-04-11T14:03:02-05:00
+draft = true
+categories = [
+  "Zines",
+]
++++
+
+Immortal Frontier is a table-top role playing game about badass
+spaceships, imperialism, and revolution.
+
+Play to find out what humanity becomes and what becomes of your
+humanity
+
+* The Basics
+
+  Gather a group of 2 to 6 friends who are into this game and talk
+  through this whole section as a group. Then jump into *The Kickoff*
+  You’ll create characters, give them skills, gear up, then start
+  a *Small Gang Roam*
+
+  Everyone's job is to keep everyone safe and to keep the tension,
+  discomfort, and antagonism in the fiction.
+
+** Safety
+   There is one rule that it’s not acceptable to play without. *You
+   must use safety tools.* Consider Lines/Veils and The X Card. Look
+   up others. Choose with your group. These are personal boundaries
+   made explicit and it’s against the rules to cross, push, or test
+   them. It’s against the rules to question the necessity of any
+   boundary that anyone has set, but it is important to understand
+   clearly what the boundary is so clarifying questions are good. *DO
+   NOT* give examples of things that might cross the boundary to
+   clarify. That iself crosses the boundary. Don’t push or test
+   anyone’s boundaries. There are two acceptable responses to someone
+   setting a boundary. Accept, understand, and respect it, or leave
+   the game.
+** The Conversation
+** The Player's Agenda
+** The Rules
+*** Skills
+*** Gear
+*** Dice Pools
+* The Kickoff
+
+  Read *Gifts of Eris*. Aloud if y'all want
+
+  Everyone *Create Your Immortal*
+
+  Do a *Frigate Squadron Operation*
+
+** Gifts of Eris
+
+   /Neither gifts–the immortality, nor the infinite frontier–have granted
+   humanity freedom or peace./
+   /- Satis Tyr. The first questioner of promise. Oldedenlander/
+
+   Once humanity built jump drives with enough range to get to the
+   scattered belt, we went to Eris. An infection was waiting for us
+   that would both kill everyone on earth and spread humanity
+   throughout the universe. Eris offered two gifts that we have never
+   come to understand, despite learning to use them.
+
+*** The Gift of the Infinite Frontier
+
+    We saw as soon as we arrived that Eris was a gate to another sun
+    and almost forgot we ever called it a dwarf planet. A simple
+    exploration mission was quickly assembled and successfully
+    executed, uncovering an impossible promise. The infinite
+    frontier. There were more Eris Gates in the system on the other
+    side and there were worlds we knew how to terraform and live on. We
+    believed we were imminently free from territory scarcity and the
+    social oppression that it has always meant. We somehow still
+    believe we are imminently free of it, even after discovering and
+    expanding through thousands of Eris Gates. We are, however, still
+    wrong.
+
+*** The Gift of Immortality
+    The stargates infect about two percent of those who pass through
+    them. This contagious nano-implant infection cannot be removed, has
+    never been understood, has no cure, spreads like a flu, and is
+    eventually lethal to anyone who does not regularly pass through
+    Eris gates. This is how we lost Earth (play to find out the
+    details). Each Eris gate has a single satellite whose only known
+    function is to store the memories of everyone who passes through
+    the gate and regrow them–along with a small, strange, but
+    spacefaring capsule–if they die from anything other than the
+    nano-implant infection. Both Earth’s doom and humanities
+    immortality.
+
+    We early explorers begat all of post earth humanity. About half of
+    our children do not inherit the infection. Those that do join us in
+    immortality, those that don’t have the option settle whatever
+    planets and space stations we’ve been able to terraform and build
+    and quarantine. Of course the further out they decide to go, the
+    more likely they are to be infected by the Eris Gates. We have
+    never been able to outpace our own population growth with
+    expansion, and thus have never escaped the perpetual territorial
+    conflicts that started on Earth.
+
+** Create Your Immortal
+*** Name
+    Choose or make up a name. Could be fun to roll once for a first
+    name then again for a last name. Immortals often end up with
+    strange names.
+    * Titus Afranius
+    * Kali Mars
+    * Calamity Rat
+    * Minnie Rambunctious
+    * Justice Lovely
+    * Once Twice
+
+*** Look
+
+    Choose or make up one (or two, or three) looks. Describe them.
+    * Face Tats
+    * Gorgeous
+    * Goth
+    * Severe
+    * Punk
+    * Clean Cut
+
+*** Goal
+
+    Choose or make up a personal long term goal
+    * Command a Fleet
+    * Found a nation
+    * Start a revolution
+    * Become known and beloved (or feared)
+    * Bring an enemy to ruin (name the enemy)
+    * Get rich
+
+*** Skills
+
+    1. Assign 4 skill points to Frigate
+    2. Choose the most badass and assign three skill points to it
+       * Lasers
+       * Missiles
+       * Railguns
+    3. Choose the most badass and assign 2 skill points to it
+       * Shields
+       * Armor
+    4. Assign 1 skill point each to Overheat and Warp Jammers
+
+*** Spaceship
+
+    Everyone fill out a Frigate sheet
+    1. Fill in the weapon you chose in one weapons hardpoint
+       * If you chose Lasers write "Small Laser"
+       * If you chose Missiles write "Small Missile Battery"
+       * If you chose Railguns write "Small Railgun"
+    2. Write "Warp Jammer" in the another
+    3. Fill in the defense module hardpoint with "Small Shield" or "Small Armor"
+
+** Frigate Squadron Operation
+* The Operatic Arc
+  The operatic arc drives and directs the building and releaseing of
+  narrative tension, it regulates the stakes, mood, seriousness,
+  danger etc.
+*** Scenes
+*** Moves
+
