@@ -8,103 +8,201 @@ categories = [
 ]
 +++
 
-Immortal Frontier is a table-top role playing game about badass
-spaceships, imperialism, and revolution.
+Immortal Frontier is a space opera tabletop role-playing game about
+badass spaceships, capatalism, imperialism, and revolution.
 
 Play to find out what humanity becomes and what becomes of your
 humanity
 
 * The Basics
 
-  Gather a group of 2 to 6 friends who are into this game and talk
-  through this whole section as a group. Then jump into *The Kickoff*
-  You’ll create characters, give them skills, gear up, then start
-  a *Small Gang Roam*
+  Gather a group of 2 to 6 friends who are into this game. Talk
+  through this whole section as a group then jump into *The Kickoff*
+  where you’ll create characters, give them skills, gear up, then play
+  a Frigate Squadron Operation
 
-  Everyone's job is to keep everyone safe and to keep the tension,
-  discomfort, and antagonism in the fiction.
+  This book is written for people familiar with tabletop role-playing
+  games. I don't reccomend playing this game if it's everyone's first
+  tabletop role-playing game. If it is, I'd suggest first playing one
+  of the exelent TRPG games that inspired it.
+
+  Apocalypse World by Vincent and Meguey Baker
+
+  Blades in the Dark by John Harper
 
 ** Safety
-   There is one rule that it’s not acceptable to play without. *You
-   must use safety tools.* Consider Lines/Veils and The X Card. Look
-   up others. Choose with your group. These are personal boundaries
-   made explicit and it’s against the rules to cross, push, or test
+
+   There is one rule that's unacceptable to play without. *You must
+   use safety tools.* Research and consider Lines/Veils and The X
+   Card. Choose with the group. These are personal boundaries made
+   explicit and it’s against the rules to cross, push, or test
    them. It’s against the rules to question the necessity of any
-   boundary that anyone has set, but it is important to understand
-   clearly what the boundary is so clarifying questions are good. *DO
-   NOT* give examples of things that might cross the boundary to
-   clarify. That iself crosses the boundary. Don’t push or test
-   anyone’s boundaries. There are two acceptable responses to someone
-   setting a boundary. Accept, understand, and respect it, or leave
-   the game.
+   boundary that anyone has set, but it is important to understand the
+   boundary clearly so clarifying questions are good. *DO NOT* give
+   examples of things that might cross the boundary to clarify. That
+   iself crosses the boundary. Don’t push or test anyone’s boundaries.
+   There are two acceptable responses to someone setting a boundary.
+   Accept, understand, and respect it, or leave the game.
+
 ** The Conversation
-** The Player's Agenda
-** The Rules
-*** Skills
-*** Gear
-*** Dice Pools
+
+   the game is a conversation. If you're used to tabletop role-playing
+   games you are used to this converation. One of you will be *The
+   Space Conductor (SC)*---this game's MC or GM---and everyone else
+   will be a *Player* and play a *Protagonist* which they'll create in
+   *The Kickoff*. You all discuss and tell each other about the
+   circumstances and developments of your space opera. You and build
+   the fiction together through conversation. The players are each
+   responsible for and have full authority over their Protagonist's
+   choices, goals, and striving. The SC is responsible for and has
+   full authority over the rest of the characters and fictional
+   elements thouth the Players play the only protagonists. Everyone
+   follows the same game rules regardless of their responsibilities
+   for the fiction.
+
+   Tweet @jessebmiller and tell me how you got here and how it goes.
+
+** Everyone's Agenda
+
+   * Keep the table safe for everyone involved
+   * Belt out Space Opera
+   * Commit to the play, or take a break
+   * Trust the rules long enough to have the benefic of hindsignt
+     before you hack them
+   * Honor the characters, let them live, strive, succeed, and fail
+   * Name everyone
+   * Play to find out what happens
+   * Play to find out who the characters are
+   * Play to find out what they build and what it costs them
+   * Play to find out what of them is in you
+
+** The Basic Rules
+
+   This is a quick overview of the basic rules. These will be
+   referenced and expanded on later. There will also be more rules
+   than this, but those are more specific to their situation and will
+   be introduced when they are needed. These are the basic rules.
+
+*** Cash and Gear
+
+    Your Spaceships are goddamn everything. You can't do anything
+    without one. They don't do much without being equiped with
+    weapons, and other gear. You'll start with a ship and enough gear
+    to start earning some Cash. All Spaceships and Gear can be bought
+    and sold on the market, get destroyed in combat, and built through
+    *Industry*.  All the details are described in the *Cash and Gear*
+    section later, or in the *Industry* book. Don't worry about
+    reading them until after you play *The Kickoff*
+
+*** Experience and Skills
+
+    Characters have Ranks in Skills which are prerequisites for using
+    Gear which is how Characters do everything. You'll give your
+    Character some Ranks in some Skills in *The Kickoff* and they'll
+    earn Experience Points through play that you can spend on more
+    Skill Ranks when you can afford it. The specifics are all
+    described in the *Experience and Skills* section later. Don't
+    worry about reading it until after you play *The Kickoff*
+
+*** Dice
+
+    The rules will often call for rolling some dice to see how
+    something turns out. Always roll d6es. Roll them in pools with a
+    number of dice determined by a stat. There are a few forms it may
+    take but the rules will always tell you what to roll and how to
+    intrepret the result. A pool might be 1d6 or 20d6 depending on the
+    situation. Either get lots of dice of a few different colors (I
+    reccomend 12mm dice so you can hold a lot of them) or use an
+    online dice roller.
+
+    When you roll a pool look for hits. A hit is a 5 or
+    a 6. Everything else is a miss. Often you'll total up the hits and
+    do something depending on that number, other times you'll spend
+    your hits one for one on some effect or just check to see if you
+    have any hits or not. The rule calling for the roll will tell you
+    how to intrepret the hits.
+
+    The pool forms are:
+
+    *Roll X*: The simplest form is to just roll the pool.
+
+    *Roll X and Y*: Roll two pools at once using different color dice
+    for each or keep them separate by rolling them one at a time.
+
+    *Roll X against Y*: Roll two pools and compare the number of
+    hits. If one has more hits it beats the other.
+
+    *Assign X dice to Y and Z pools and roll*: Split X's dice into
+    pools Y and Z any way you want. Roll Y and Z. For example: Assign
+    Engine to Speed and Maneuverability and roll. If your Engine stat
+    is a 7 you could put 0 in speed and 7 in Maneuverability, or 3 in
+    speed and 4 in Maneuverability as long as the two pools added up
+    to 7. Once the pool is devided, roll them both.
+
 * The Kickoff
 
   Read *Gifts of Eris*. Aloud if y'all want
 
-  Everyone *Create Your Immortal*
+  Players *Create Your Immortal*
 
-  Do a *Frigate Squadron Operation*
+  The SC runs a *Frigate Squadron Operation* scene
 
 ** Gifts of Eris
 
-   /Neither gifts–the immortality, nor the infinite frontier–have granted
-   humanity freedom or peace./
-   /- Satis Tyr. The first questioner of promise. Oldedenlander/
+   /Neither gifts–--the immortality, nor the infinite frontier---have
+   granted humanity freedom or peace./
+       /- Satis Tyr. The first questioner of promise. Oldedenlander/
 
-   Once humanity built jump drives with enough range to get to the
-   scattered belt, we went to Eris. An infection was waiting for us
-   that would both kill everyone on earth and spread humanity
-   throughout the universe. Eris offered two gifts that we have never
-   come to understand, despite learning to use them.
+   As soon as we built jump drives with enough range to get to the
+   scattered belt we went to Eris. It was supposed to be a dwarf
+   planet that we would study but it was something else entirely. An
+   infection was waiting there for us that would both kill everyone on
+   earth and spread humanity throughout the galaxy. Eris offered two
+   gifts that we have never come to understand.
 
 *** The Gift of the Infinite Frontier
 
-    We saw as soon as we arrived that Eris was a gate to another sun
-    and almost forgot we ever called it a dwarf planet. A simple
-    exploration mission was quickly assembled and successfully
-    executed, uncovering an impossible promise. The infinite
-    frontier. There were more Eris Gates in the system on the other
-    side and there were worlds we knew how to terraform and live on. We
-    believed we were imminently free from territory scarcity and the
-    social oppression that it has always meant. We somehow still
-    believe we are imminently free of it, even after discovering and
-    expanding through thousands of Eris Gates. We are, however, still
-    wrong.
+    We saw as soon as we arrived that Eris was a gate to another sun.
+    Had we called it a dwarf planet? A simple exploration mission
+    through the gate was quickly assembled and successfully executed,
+    revealing an impossible promise. The infinite frontier. There were
+    more Eris Gates in the system on the other side and there were
+    worlds we knew how to terraform and live on. We believed we were
+    imminently free from territory scarcity and the oppressive
+    imperialism that has always meant. We somehow still believe we are
+    imminently free of it, even after discovering and expanding
+    through thousands of Eris Gates. We are, of course, as always,
+    still wrong.
 
 *** The Gift of Immortality
-    The stargates infect about two percent of those who pass through
-    them. This contagious nano-implant infection cannot be removed, has
-    never been understood, has no cure, spreads like a flu, and is
-    eventually lethal to anyone who does not regularly pass through
-    Eris gates. This is how we lost Earth (play to find out the
-    details). Each Eris gate has a single satellite whose only known
-    function is to store the memories of everyone who passes through
-    the gate and regrow them–along with a small, strange, but
-    spacefaring capsule–if they die from anything other than the
-    nano-implant infection. Both Earth’s doom and humanities
-    immortality.
+
+    A contagious nano-implant infection infects about two percent of
+    those who pass through the Eris Gates. It has never been
+    understood, has no cure, spreads like a flu, and is eventually
+    lethal to anyone who does not regularly pass through Eris
+    gates. This is how we lost Earth. Each Eris gate is orbited by a
+    single satellite that somehow stores the memories of everyone who
+    passes through the gate. It regrows them---along with a small,
+    strange, but spacefaring capsule---if they die from anything other
+    than the nano-implant infection. Humanity's immortality for
+    Earth's doom.
 
     We early explorers begat all of post earth humanity. About half of
-    our children do not inherit the infection. Those that do join us in
-    immortality, those that don’t have the option settle whatever
-    planets and space stations we’ve been able to terraform and build
-    and quarantine. Of course the further out they decide to go, the
-    more likely they are to be infected by the Eris Gates. We have
-    never been able to outpace our own population growth with
-    expansion, and thus have never escaped the perpetual territorial
-    conflicts that started on Earth.
+    an immprtal's children do not inherit the infection. Those that do
+    join their parents in immortality, those that don’t have the
+    option to settle whatever planets we’ve been able to terraform. Of
+    course the further out from their birthplace they go, the more
+    likely they are to be infected by the Eris Gates. We have never
+    been able to outpace our own population growth with expansion, and
+    thus have never escaped the perpetual territorial conflicts that
+    started on Earth.
 
 ** Create Your Immortal
 *** Name
-    Choose or make up a name. Could be fun to roll once for a first
-    name then again for a last name. Immortals often end up with
-    strange names.
+
+    Choose, make up, or roll for a name. If you roll, Roll once and
+    take the first name then again and take the last name. Immortals
+    often end up with fantastic strange names.
     * Titus Afranius
     * Kali Mars
     * Calamity Rat
@@ -112,14 +210,26 @@ humanity
     * Justice Lovely
     * Once Twice
 
+*** Pronouns
+
+    Roll from this list, or choose any pronouns you want, you can
+    change them any time.
+    * zie/hir/hir/hirs/hirself
+    * xe/xem/xyr/xyrs/xemself
+    * they/them/their/theirs/themself
+    * ve/ver/vis/vis/verself
+    * ey/em/eir/eirs/eirself
+    * fae/faer/faer/faers/faerself
+
 *** Look
 
-    Choose or make up one (or two, or three) looks. Describe them.
+    Choose or make up one (or two, or three) looks. Describe them
+    breifly.
     * Face Tats
     * Gorgeous
     * Goth
     * Severe
-    * Punk
+    * Gutterpunk
     * Clean Cut
 
 *** Goal
@@ -130,7 +240,7 @@ humanity
     * Start a revolution
     * Become known and beloved (or feared)
     * Bring an enemy to ruin (name the enemy)
-    * Get rich
+    * Get filthy rich
 
 *** Skills
 
@@ -151,14 +261,123 @@ humanity
        * If you chose Lasers write "Small Laser"
        * If you chose Missiles write "Small Missile Battery"
        * If you chose Railguns write "Small Railgun"
-    2. Write "Warp Jammer" in the another
-    3. Fill in the defense module hardpoint with "Small Shield" or "Small Armor"
+    2. Write "Warp Jammer" in another weapons hardpoint
+    3. Fill in a defense module hardpoint with "Small Shield" or "Small Armor"
 
 ** Frigate Squadron Operation
+
+   The SC facilitates a discussion to establish a scene about a small
+   frigate operation. Perhaps its a currier job, mining an astroid, or
+   a salvage mission. This discussion will include telling the whole
+   group information that none of their characers know. This is
+   fine. Be an adult about it.
+
+   Each player says a reason that their character openly admits to for
+   being here and the real reason they are here.
+
+   Decide what's to gain (consider Cash or Gear), what it costs
+   (consider Cash, time, and opportunity cost), and what's at stake
+   for the group
+
+   Each player breifly describes the last nice thing and the last mean
+   thing their character did or said to another protagonist. Be
+   clear about which characters are aware of this.
+
+   Each player says what their charcter was doing just before the
+   scene starts
+
+   The SC says what ad is showing on what screen on the nearest space
+   station just before the scene starts
+
+   Play out the scene, say what happens, have the conversation. Warp
+   around the system, jump through some gates, carry out your
+   operation. When the time is right The SC will introduce an enemy
+   squadron and you'll use *The Basic Moves* to play out the
+   fight. You might lose your ships but that's okay. You can afford to
+   replace it. Starting ships are free and always available.
+
+   Quickly finish up the narration of the operation and decide what
+   was gained, what it cost, and what stakes were lost
+
 * The Operatic Arc
+
   The operatic arc drives and directs the building and releaseing of
   narrative tension, it regulates the stakes, mood, seriousness,
   danger etc.
+
 *** Scenes
 *** Moves
+* Experience and Skills
+
+  Skill Points may be bought, at any time, if a Character has enough
+  Experience points to pay for them. Each rank in a skill costs the
+  skills Level plus the Rank you are buying. For example: you have 3
+  ranks in Battlecruiser and want to buy the fourth.  Battlecruiser is
+  a level two skill and you want to buy the fourth rank. So that costs
+  6 Experience Points. The Level (2) plus the Rank (4)
+
+* Cash and Gear
+
+  Cash is an abstracted stat that each character has. It represents
+  that character's purchasing power and is a pool of dice that's
+  rolled to see what you can afford at a given time, if it's even
+  available. Gear availability is also an abstracted dice pool. Each
+  item is either Common (always available) or it has an Availability
+  stat. To see if something is available and if you can afford it,
+  roll the items Availability against your Cash. If your Cash roll
+  beats the Availability roll you can afford it. You can reduce your
+  Cash stat as much as you want one for one for hits. You'll have the
+  opportunity to increase your Cash stat during scenes
+* The Basic Moves
+** Engage
+
+   When enemy ships are in your local area you may *engage* them, or
+   they may *engage* you. Both sides of the engagement follow the
+   procedure simultaneously with each each step informing the
+   following steps.
+
+   *Observe*
+   * Describe the engagement
+   * Say what is obvious
+   * Assign Sensors dice to Strength and Lock Speed pools then roll
+   * If there is a Lock Speed success you may gain a lock on any ship
+     for each Strength success up to a maximum number of locks equal
+     to your Targeting rank + 1.
+
+   *Maneuver*
+   * Assign Engine dice to Speed and Maneuverability pools then roll
+     them
+   * For each success in the Speed pool you may increase, decrease, or
+     maintain range between you and any other ship
+   * For each success in the Maneuverability pool you may increase,
+     decrease, or maintain radial velocity between you and another
+     ship
+
+   *Attack*
+   * Assign Weapons dice to Range, Tracking, and Damage pools. Set the
+     damage pool aside
+   * Choose a ship that you have locked to fire on.
+   * Perform the Range and Tracking roll described in your installed
+     weapon type
+
+   *Defend*
+   * All ships that are hit roll their Armor and Shield pools against
+     the Damage pool(s) of the Weapon(s) that hit them.
+   * Reference the Weapon(s) and the ships defense modules to see if
+     the successes in the Armor and/or Shield pools negate the
+     incoming damage.
+   * For each damage suffered, choose a system–Defense, Engines, or
+     Weapons–and mark damage against that system
+
+   If the engagement isn't over players may make one or two other
+   moves first but *engage* again soon
+
+** Warp Off
+
+    When a ship is not warp jammed, they may *warp off*. Any ship that
+    was in an engagement with them may *engage* again. If no one does,
+    they warp wherever within the system they want. If someone does
+    *engage*, and at the end of the engagement the ship is still not
+    warp jammed, they roll their Engines pool and warp wherever within
+    the system they want if there is a hitf.
 
