@@ -21,10 +21,11 @@ humanity
   where you’ll create characters, give them skills, gear up, then play
   a Frigate Squadron Operation
 
-  This book is written for people familiar with tabletop role-playing
-  games. I don't reccomend playing this game if it's everyone's first
-  tabletop role-playing game. If it is, I'd suggest first playing one
-  of the exelent TRPG games that inspired it.
+  This manual assumes that someone in your group is familiar with
+  tabletop role-playing games (TRPGs). It's best if they are familiar
+  with ones that are Powered by the Apocalypes (PbtA). If it is
+  everyone's first fime I'd suggest playing one of the exelent PbtA
+  games that inspired it first.
 
   Apocalypse World by Vincent and Meguey Baker
 
@@ -91,7 +92,7 @@ humanity
     to start earning some Cash. All Spaceships and Gear can be bought
     and sold on the market, get destroyed in combat, and built through
     *Industry*.  All the details are described in the *Cash and Gear*
-    section later, or in the *Industry* book. Don't worry about
+    section later, or in the *Industry* manual. Don't worry about
     reading them until after you play *The Kickoff*
 
 *** Experience and Skills
@@ -138,6 +139,16 @@ humanity
     is a 7 you could put 0 in speed and 7 in Maneuverability, or 3 in
     speed and 4 in Maneuverability as long as the two pools added up
     to 7. Once the pool is devided, roll them both.
+
+*** Range and Radial Velocity
+
+    ///// REWRITE THIS HOLY CRAP ///// If you haven't established
+    range and radial velocity between you and the other ships do that
+    first. Every player rolls a D6 for every other ship. Either ship
+    may increase or decrease that roll by one a number of times equal
+    to their Engines rank. Keep track of these numbers as they change
+    through the engagement. The minimum range and radial velocity
+    is 1. The max is 6
 
 * The Kickoff
 
@@ -197,14 +208,14 @@ humanity
     thus have never escaped the perpetual territorial conflicts that
     started on Earth.
 
-** Create Your Immortal
+** The Players Become Immortal
 *** Name
 
     Choose, make up, or roll for a name. If you roll, Roll once and
     take the first name then again and take the last name. Immortals
     often end up with fantastic strange names.
-    * Titus Afranius
     * Kali Mars
+    * Titus Afranius
     * Calamity Rat
     * Minnie Rambunctious
     * Justice Lovely
@@ -246,25 +257,52 @@ humanity
 
     1. Assign 4 skill points to Frigate
     2. Choose the most badass and assign three skill points to it
-       * Lasers
-       * Missiles
-       * Railguns
+       * Laser Combat Operations
+       * Missile Combat Operations
+       * Flak Cannon Combat Operations
     3. Choose the most badass and assign 2 skill points to it
-       * Shields
-       * Armor
-    4. Assign 1 skill point each to Overheat and Warp Jammers
+       * Shield Defense
+       * Armor Defense
+    4. Assign 1 skill point each to Overheating and Warp Jamming
 
 *** Spaceship
 
-    Everyone fill out a Frigate sheet
+    Everyone fill out a Peice of Shit Frigate sheet
     1. Fill in the weapon you chose in one weapons hardpoint
        * If you chose Lasers write "Small Laser"
        * If you chose Missiles write "Small Missile Battery"
-       * If you chose Railguns write "Small Railgun"
+       * If you chose Flak Cannons write "Small Flak Cannon"
     2. Write "Warp Jammer" in another weapons hardpoint
-    3. Fill in a defense module hardpoint with "Small Shield" or "Small Armor"
+    3. Fill in a defense module hardpoint with "Small Shield
+       Generator" or "Small Armor Plates"
+    4. Give your ship a name and a look
 
-** Frigate Squadron Operation
+** The Space Conductor Establishes the Adversary
+
+   While the players are creating their characters, The Space
+   Conductor creates an NPC Frigate Squadron to use in the next phase.
+
+   Get through at least step 2 and do as much more as you have time
+   for until the players finishe their characters
+
+   1. Roll Xd6 where X is the number of players
+   2. Create an one NPC Frigate for each player and one NPC Frigate
+      for each hit on that roll (instructions below)
+   3. Give each pilot and ship a name and look
+   4. Name their gang
+   5. Deside what their gang and personal goals are
+   6. Belt out Space Opera into the gang
+
+*** Create an NPC Frigate
+
+    1. Roll 2d6 for the Frigates size
+    2. Roll 2d6-5 for the NPC Rank (they have all basic skills at this rank)
+    3. Assign Size to Sensors, Engines, Weapons, and Defense
+    4. Choose and write down Gear following the instructions for
+       creating a character (but leave the name and look for once
+       you've made all the Frigates)
+
+** Execute a Frigate Squadron Operation
 
    The SC facilitates a discussion to establish a scene about a small
    frigate operation. Perhaps its a currier job, mining an astroid, or
@@ -299,14 +337,6 @@ humanity
    Quickly finish up the narration of the operation and decide what
    was gained, what it cost, and what stakes were lost
 
-* The Operatic Arc
-
-  The operatic arc drives and directs the building and releaseing of
-  narrative tension, it regulates the stakes, mood, seriousness,
-  danger etc.
-
-*** Scenes
-*** Moves
 * Experience and Skills
 
   Skill Points may be bought, at any time, if a Character has enough
@@ -316,18 +346,133 @@ humanity
   a level two skill and you want to buy the fourth rank. So that costs
   6 Experience Points. The Level (2) plus the Rank (4)
 
+** Frigate Combat Operations
+
+   Rank: 0
+
+** Laser Combat Operations
+
+   Rank: 0
+
+** Missile Combat Operations
+
+   Rank: 0
+
+** Flak Cannon Combat Operations
+
+   Rank: 0
+
+** Warp Jamming
+
+   Rank: 0
+
+** Overheating
+
+   Rank: 0
+
+** Shield Defense
+
+   Rank: 0
+
+** Armor Defense
+
+   Rank: 0
+
 * Cash and Gear
 
-  Cash is an abstracted stat that each character has. It represents
-  that character's purchasing power and is a pool of dice that's
-  rolled to see what you can afford at a given time, if it's even
-  available. Gear availability is also an abstracted dice pool. Each
-  item is either Common (always available) or it has an Availability
-  stat. To see if something is available and if you can afford it,
-  roll the items Availability against your Cash. If your Cash roll
-  beats the Availability roll you can afford it. You can reduce your
-  Cash stat as much as you want one for one for hits. You'll have the
-  opportunity to increase your Cash stat during scenes
+  Cash is an abstracted stat that each character has, though they
+  start with zero. It represents that character's purchasing power and
+  is a pool of dice that's rolled to see what you can afford at a
+  given time, if it's even available. Gear availability is also an
+  abstracted dice pool. Each item is either Common (always available)
+  or it has a Rarity stat. It's either Cheap (always affordable) or it
+  has an Price stat. Whenever you want to buy something roll your
+  Cash, the item's Rarity, and its Price. If your Cash hits *times*
+  the Rarity hits is greater than the Price hits, then its available
+  and affordable. If there are any Rarity hits then it's available and
+  you can permenantly reduce your Cash stat by one to increase your
+  number of Cash hits by one. You'll have the opportunity to increase
+  your Cash stat through the course of playing scenes
+
+** Peice of Shit Frigate
+
+   Price: Cheap
+   Rarity: Common
+   Size: 7
+   Defense Hardpoints: 1
+   Weapon Hardpoints: 2
+   Prerequisites: Frigate Combat Operations 1
+
+   Shitty small Frigate. It'll get you station to station, and carry a
+   gun, but it's pretty bad and you'll want to replace it as soon as
+   you can. Aparently that's why they are always available
+
+** Small Laser
+
+   Price: Cheap
+   Rarity: Common
+   Range: 2
+   Damage: 2
+   Prerequisites: Laser Combat Operations 1
+
+   put them on your spaceship and they pew pew, what more do you want?
+
+   Damage reduced with Shields
+
+** Small Missile Battery
+
+   Price: Cheap
+   Rarity: Common
+   Range: 3
+   Tracking: 2
+   Damage: 1
+   Prerequisites: Missile Combat Operations 1
+
+   A battery of 6 missiles that autotrack a locked target and blow up on impact
+
+   For Attack rolls treat their Speed pool as Radial Velocity
+
+   Attacker chooses either Armor or Shield durring the attack. Damage
+   reduced with that.
+
+** Small Flak Cannon
+
+   Price: Cheap
+   Rarity: Common
+   Range: 1
+   Tracking: 3
+   Damage: 2
+   Prerequisites: Flak Cannon Combat Operations 1
+
+   Close range simple and reliable brawling weaponry. Cannons fire
+   proximity mortars that explode near targets spraying shrapnel
+   towards them
+
+   Damage reduced with Armor
+
+** Warp Jammer
+
+   Price: Cheap
+   Rarity: Common
+   Range: 2
+   Prerequisites: Warp Jamming 1
+
+** Small Shield Generator
+
+   Shield: 2
+   Prerequisites: Shield Defense 1
+
+   Generates a force field that dicipates electromagnetic and theamal
+   attacks efficiently
+
+** Small Armor Plates
+
+   Armor: 2
+   Prerequisites: Armor Defense 1
+
+   Thick plates of graphine epoxy-fullerene laminate and concrete
+   bolted to the exterrior of the ship. Heavy and reliable
+
 * The Basic Moves
 ** Engage
 
@@ -348,24 +493,30 @@ humanity
    * Assign Engine dice to Speed and Maneuverability pools then roll
      them
    * For each success in the Speed pool you may increase, decrease, or
-     maintain range between you and any other ship
-   * For each success in the Maneuverability pool you may increase,
-     decrease, or maintain radial velocity between you and another
+     maintain Range between you and any other ship
+   * For each hit in the Maneuverability pool you may increase,
+     decrease, or maintain Radial Velocity between you and another
      ship
+   * If there are no hits in the Maneuverability pool every opponent
+     may adjust Radial Velocity in any direction by one
 
    *Attack*
-   * Assign Weapons dice to Range, Tracking, and Damage pools. Set the
-     damage pool aside
+   * Assign Weapons Systems dice to Range, Tracking, and Damage pools. Set the
+     damage pool aside.
+   * Add bonus Range, Tracking, and Damage dice from your installed
+     weapons stats
    * Choose a ship that you have locked to fire on.
-   * Perform the Range and Tracking roll described in your installed
-     weapon type
+   * Subtract your Range from the Range pool and your Radial Velocity
+     (or their current Speed pool if firing Missiles) from the
+     Tracking pool.
+   * Roll Range and Tracking. If there are hits in both the attack
+     hits.
 
    *Defend*
    * All ships that are hit roll their Armor and Shield pools against
      the Damage pool(s) of the Weapon(s) that hit them.
-   * Reference the Weapon(s) and the ships defense modules to see if
-     the successes in the Armor and/or Shield pools negate the
-     incoming damage.
+   * Reference the Weapon(s) and the ships defense modules to see
+     which hits reduce the damage
    * For each damage suffered, choose a system–Defense, Engines, or
      Weapons–and mark damage against that system
 
@@ -379,5 +530,5 @@ humanity
     they warp wherever within the system they want. If someone does
     *engage*, and at the end of the engagement the ship is still not
     warp jammed, they roll their Engines pool and warp wherever within
-    the system they want if there is a hitf.
+    the system they want if there is a hit.
 
