@@ -1,4 +1,4 @@
-+++ag
++++
 title = "Life Vigilante"
 subtitle = "What will you risk to fight for justice"
 date = 2020-04-21T08:11:12-05:00
@@ -277,6 +277,13 @@ make to society, and what they give up to do it.
 *** Get in the Ring
 
 *** Finish It Once and For All
+
+  Notes:
+  * This is a roll to try and defeat a villain and "complete the front"
+  * If it succeeds you make an amount of progress towards changing the
+    system equal to their resources
+  * It should be hard to get enough ahead of a villains resources to make
+    this roll easy wihtout a lot of work.
 
 ** Mainstream Takes
 *** See the Injustice in the System
