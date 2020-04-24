@@ -1,4 +1,4 @@
-+++
++++ag
 title = "Life Vigilante"
 subtitle = "What will you risk to fight for justice"
 date = 2020-04-21T08:11:12-05:00
@@ -28,8 +28,8 @@ make to society, and what they give up to do it.
 
 ** Vigilante
 
-   Write about your secret identity. Choose an *Alias* and describe
-   your *Costume*. Write a few *Convictions*. Make them things you
+   Write about your secret identity. Choose an /alias/ and describe
+   your /costume/. Write a few *convictions*. Make them things you
    really care about. Things you would be willing to risk your life to
    defend and uphold. Write one vigilante thing you've done to uphold
    one of your *Convicions*. Don't make it too risky. Keep track of
@@ -57,9 +57,10 @@ make to society, and what they give up to do it.
   systems of injustice. Feel free to name some more as you find use
   for more throughout play. Drown them in pulp, grit, and slime.
 
-  Write six *mainstream values* that maintain the systems of injustice.
+  Write six *mainstream values* that maintain the systems of
+  injustice.
 
-** Villianous Machinations
+** Villainous Machinations
 
 * The Rules
 
@@ -77,8 +78,8 @@ make to society, and what they give up to do it.
    die for each *accomplishment* you are using for *advantage* in the
    roll. Only use *accomplishments* you can reasonably justify as
    advantagous. Roll them both. If your dice show more fives and sixes
-   you got a *hit*, if it has more than twice as many, you got a
-   *strong hit*. Otherwise you *missed*.
+   than what you are rolling against you got a *hit*, if it has more
+   than twice as many, you got a *strong hit*. Otherwise you *missed*.
 
    *Acomplishments* can only be used for advantage if they don't have
    a *impediment*
@@ -158,7 +159,7 @@ make to society, and what they give up to do it.
 
     *Miss*: GM chooses one.
     * *See the Injustice in the System*
-    * *The Villians Do Their Work*
+    * *The Villains Do Their Work*
 
 *** Deepen a Personal Connection
 
@@ -196,11 +197,11 @@ make to society, and what they give up to do it.
     write an acomplishment related to what you did and your answer to
     the question
 
-    *Hit* It pays off as above, but it took a long time. *The Villians
+    *Hit* It pays off as above, but it took a long time. *The Villains
     Do Their Work*
 
     *Miss* It does not pay off, don't write an *acomplishment* but it
-    did take time so *The Villians Do Their Work*
+    did take time so *The Villains Do Their Work*
 
 *** Make a Purchase
 
@@ -224,12 +225,12 @@ make to society, and what they give up to do it.
    their player wants them to. This is a game about making the change
    you want to see in the world not about survival.
 
-   Roll against Risk, defeat villians, slow or stop their fronts,
+   Roll against Risk, defeat villains, slow or stop their fronts,
    create complications
 
 *** Sweep the City
 
-   When you want to uncover some villiany in the city to try to do
+   When you want to uncover some villainy in the city to try to do
    something about *sweep the city*. Choose one of the *mainstream
    values* that frustrates you and say what kinds of things or places
    around the city you are looking for and what you are doing to look
@@ -281,33 +282,33 @@ make to society, and what they give up to do it.
    Increase *Frustration* by one for the protagonist(s) the scene was
    about
 
-*** The Villians Do Their Work
+*** The Villains Do Their Work
 
     The GM describes evidence of *villainous machinations* and the
     manuvering of the city's systems of injustice. Use the city
     beuraucrats and media you've created to spew pulp, grit, and slime
 
-    The GM chooses a relevant *villianous machination* and *progresses*
+    The GM chooses a relevant *villainous machination* and *progresses*
 
 *** See the Change You've Made
 
-    When you think you've resolved one of the *villianous
+    When you think you've resolved one of the *villainous
     machinations* you may *see the change you've made*
 
     Roll
 
     Reset *frustration* to zero
 
-    Remove the *mainstream value* associated with the *villianous
+    Remove the *mainstream value* associated with the *villainous
     machination* and replace it with one of your convictions. Decide
-    if it should act as the focus of a new *villianous machincation*
+    if it should act as the focus of a new *villainous machincation*
 
-** Villianous Machinations
+** Villainous Machinations
 
    No prep lazily evaluated fronts
 
    Each of the original *mainstream values* acts as the focus of a
-   *Villianous Machination*
+   *Villainous Machination*
 
 *** Create a Machination
 *** Progress a Machination
