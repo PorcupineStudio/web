@@ -62,11 +62,13 @@ make to society, and what they give up to do it.
 
 ** Villainous Machinations
 
-  Choose a *mainstream value* and discuss it with the group. How
-  does it turn people to villainy? What villainous behaviors does it
-  allow to flourish? How does it turn people villainous? How do
-  alraeady villianous people take advantage? Note down some of these
-  ideas with the rest of the foci for the group to refer back to 
+  Discuss the *mainstream values* with the group. How do they turn
+  people to villainy? What villainous behaviors do they allow to
+  flourish? How do they turn people villainous? How do alraeady
+  villianous people take advantage? Note down some of these ideas
+  with the rest of the foci for the group to refer back to and for
+  the GM to use as inspiration when establishing villains and their
+  machinations when the truth of the narrative demands.  
 
 * The Rules
 
@@ -295,6 +297,20 @@ make to society, and what they give up to do it.
     beuraucrats and media you've created to spew pulp, grit, and slime
 
     The GM chooses a relevant *villainous machination* and *progresses*
+
+    Remember to note specific details of the villains as they are
+    revealed and described. Name them when appropriate, describe and
+    write down all of the *resources* that have been revealed and
+    described.
+
+**** How Villains are Revealed
+
+     Villains are revealed through play they could always have more
+     resources that haven't been discovered yet. As a GM don't decide
+     how powerful a villain is, just let the play progress and let the
+     dice and the course of play determine their power. Use the foci
+     and especially the discussion about the mainstream values guide
+     what you reveal when *the villains do their work*
 
 *** See the Change You've Made
 
