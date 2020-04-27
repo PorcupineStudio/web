@@ -29,7 +29,8 @@ make to society, and what they give up to do it.
     goals*. Make them things you really care about. Things that would
     be tragic to give up. For example: "Start a family" or "Build a
     rewarding career". Write your starting acomplishments and keep
-    track of your *frustration* level starting at three.
+    track of your *frustration* level starting at the number of
+    acomplishments you've written.
 
 *** Vigilante
 
@@ -65,11 +66,24 @@ make to society, and what they give up to do it.
    Write six *mainstream values* that maintain the systems of
    injustice.
 
+
 *** Villainous Machinations
+
+  Write two to six *mainstream values* that maintain the systems of
+  injustice.
+
 
 * Play by the Rules
 
-  
+  Discuss the *mainstream values* with the group. How do they turn
+  people to villainy? What villainous behaviors do they allow to
+  flourish? How do they turn people villainous? How do alraeady
+  villianous people take advantage? Note down some of these ideas
+  with the rest of the foci for the group to refer back to and for
+  the GM to use as inspiration when establishing villains and their
+  machinations when the truth of the narrative demands.
+
+* The Rules
 
   Play occurs in one of three modes. *Real Messy Life*, *Vigilante
   Action* or *Media Takes*. Start wherever you have a vision of and
@@ -320,6 +334,13 @@ make to society, and what they give up to do it.
     * *The villains do their work*
     * *See the system for what it is*
 
+  Notes:
+  * This is a roll to try and defeat a villain and "complete the front"
+  * If it succeeds you make an amount of progress towards changing the
+    system equal to their resources
+  * It should be hard to get enough ahead of a villains resources to make
+    this roll easy wihtout a lot of work.
+
 ** Mainstream Takes
 
 *** See the System for What it is
@@ -339,6 +360,21 @@ make to society, and what they give up to do it.
     pulp, grit, and slime.
 
     Increase *frustration*
+    Remember to note specific details of the villains as they are
+    revealed and described. Name them when appropriate, describe and
+    write down all of the *resources* that have been revealed and
+    described.
+
+**** How Villains are Revealed
+
+     Villains are revealed through play they could always have more
+     resources that haven't been discovered yet. As a GM don't decide
+     how powerful a villain is, just let the play progress and let the
+     dice and the course of play determine their power. Use the foci
+     and especially the discussion about the mainstream values guide
+     what you reveal when *the villains do their work*
+
+*** See the Change You've Made
 
 *** The Villains Do Their Work
 
