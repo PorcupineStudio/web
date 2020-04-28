@@ -25,21 +25,21 @@ make to society, and what they give up to do it.
 
 *** Life
 
-    Write about your real life. Choose a /Real Name/. Write a few *life
-    goals*. Make them things you really care about. Things that would
-    be tragic to give up. For example: "Start a family" or "Build a
-    rewarding career". Write your starting acomplishments and keep
-    track of your *frustration* level starting at the number of
-    acomplishments you've written.
+    Write about your real life. Choose a /Real Name/. Write a few
+    /life goals/. Make them things you really care about. Things that
+    would be tragic to give up. For example: "Start a family" or
+    "Build a rewarding career". Write two starting *acomplishments*
+    and keep track of your *frustration* level starting at 1.
 
 *** Vigilante
 
     Write about your secret identity. Choose an /alias/ and describe
-    your /costume/. Write a few *convictions*. Make them things you
-    really care about. Things you would be willing to risk your life to
-    defend and uphold. Write one vigilante thing you've done to uphold
-    one of your *Convicions*. Don't make it too risky. Keep track of
-    your *Risk* level starting at 1
+    your /costume/. Write a few /convictions/. Make them things you
+    really care about. Things you would be willing to risk your life
+    to defend and uphold. Write one vigilante deed you did to uphold
+    your /convicions/, write this along with your other
+    *acomplishments*. Don't make it too risky. Keep track of your
+    *Risk* level starting at 1
 
 ** Systems of Injustice
 
@@ -57,330 +57,261 @@ make to society, and what they give up to do it.
    times better when everyone is on the same page about the systems of
    injustice you'll be exploring and fighting against.
 
-   Name the *City* the *mayor* and the *cheif of police*. Name an
-   *investigative reporter*, a *tabloid reporter* and a *pop culture
-   influencer*. Use these as foci for envisioning the city and its
-   systems of injustice. Feel free to name some more as you find use
-   for more throughout play. Drown them in pulp, grit, and slime.
+   Write some details about the city. Name the /city/ the /mayor/ and
+   the /cheif of police/. Name an /investigative reporter/, a /tabloid
+   reporter/ and a /pop culture influencer/. Use these as foci for
+   envisioning the city and its systems of injustice. Feel free to
+   write more details as you find use for more throughout play. Drown
+   everything in pulp, grit, and camp.
 
-   Write six *mainstream values* that maintain the systems of
+   Write two /mainstream values/ that maintain the systems of
    injustice.
 
-
-*** Villainous Machinations
-
-  Write two to six *mainstream values* that maintain the systems of
-  injustice.
-
-
-* Play by the Rules
-
-  Discuss the *mainstream values* with the group. How do they turn
-  people to villainy? What villainous behaviors do they allow to
-  flourish? How do they turn people villainous? How do alraeady
-  villianous people take advantage? Note down some of these ideas
-  with the rest of the foci for the group to refer back to and for
-  the GM to use as inspiration when establishing villains and their
-  machinations when the truth of the narrative demands.
+   Discuss the /mainstream values/ with the group. How do they turn
+   people to villainy? What villainous behaviors do they allow to
+   flourish? How do they turn people villainous? How villianous people
+   take advantage? Note down some of these ideas with the rest of the
+   city details for the group to refer back to and for the GM to use
+   as inspiration when establishing villains and their machinations
+   when the truth of the narrative demands.
 
 * The Rules
 
+  Play by the rules long enough to get good at running them so you see
+  how they run when everyone knows how. Then if you see something you
+  want to change, change it. Just give these rules the old college try
+  first.
+
   Play occurs in one of three modes. *Real Messy Life*, *Vigilante
-  Action* or *Media Takes*. Start wherever you have a vision of and
+  Action* or *Mainstream Takes*. Start wherever you have a vision of and
   follow the rules for the mode. They will tell you how to play it and
   how to transition to the others.
 
 ** The Dice
 
    The various rules will sometimes tell you to /roll *advantages*
-   against a stat./ That means to assemble two handfulls of dice---use
-   different color dice for each pool but always use six sided
-   dice. One is for the stat you are rolling against and is a number
-   of dice equal to the stat. The other is yours and it's one die for
-   each *accomplishment* you are using to your *advantage* in the
+   against some stat or another./ That means to assemble two pools
+   (handfulls) of dice---use different color six sided dice for each
+   pool. One is for the stat you are rolling against, it's the
+   *opposing pool* and is a number of dice equal to the stat that the
+   rule called for. The other is yours and it's one die for each
+   *accomplishment* you are using to your *advantage* in the
    situation. Only use *accomplishments* you can reasonably justify as
-   advantagous. Roll them both. If your dice show more fives and sixes
-   than what you are rolling against you got a *hit*, if it has more
-   than twice as many, you got a *strong hit*. Otherwise you *missed*.
+   advantagous and are willing to risk *comlicating* (discussed
+   below). Roll them both. If *your pool* rolls more fives and sixes
+   (5+) than the *opposing pool* rolled you got a *hit*, if it has
+   more than twice as many, you got a *strong hit*. Otherwise you
+   *missed*.
 
    *Acomplishments* can only be used for advantage if they don't have
    a *complication*
 
 *** Acomplishments
 
-    Things protagonists have achieved working towards their *life
-    goals* are written on their character sheet as *acomplishments*
-    and are the source of advantage for rolls. Each protagonist writes
-    some during character creation.
+    Sometimes throughout play you'll make and write down
+    *acomplishments*. These can be used in rolls when they are an
+    *advantage* in the situation. All protagonists wrote some during
+    character creation.
 
-    For example, *acomplishments* for /Start a Family/ could be:
+    For example, *acomplishments* could be:
     * Built a stable partnerhsip with Alex
     * Took a job as a lawyer at Noether and Nash
     * Got a 30 year mortgage on a three bedroom in Parkwood Heights
 
     *Acomplishments* can be repeated or expanded, keep track of how
-    many times this has happened. They can have that many
-    complications, and can add up to that many dice to pools when used
-    for *advantage*. For example you could mark multiple
-    *acomplishments* on the mortgage to represent paying it down or
-    mark multiple *acomplishments* on the job to represent
-    promotions. Choose whatever makes sense to the fiction.
+    many times this has happened. Each counts as its own
+    *acomplishment* so each can have a *complication*, and each can be
+    used for for dice when they are *advantagious* given the
+    situation. For example you could mark multiple *acomplishments* on
+    the mortgage to represent paying it down or mark multiple
+    *acomplishments* on the job to represent promotions. Choose
+    whatever makes sense to the fiction.
 
 *** Complications
 
-    Things that get in the way of progress towards *life goals* and
-    that make it impossible to use your acomplishments to your
-    advantage. They keep you from using the *complicated*
-    *accomplishment* as *advantage* in rolls. When an *accomplishment*
-    gets *complicated* write the *complication* next to the
-    *acomplishment*.
+    *Complications* get in the way of using acomplishments to your
+    *advantage*. You may not use a *complicated* *accomplishment* as
+    *advantage* in any rolls. When an *accomplishment* gets
+    *complicated* write the *complication* next to the *acomplishment*.
 
     For example:
     * A mortgage is complicated by a lien or a cracked foundation.
     * A job is complicated by poor performance reviews
 
-** Real Messy Life Scenes
+** Real Messy Life
 
-   TODO consider something like a For the Queen deck to draw and
-   answer from for every scene
+   When a character intends to *acomplish* something meaningful or
+   intends to resolve a *complication* that's *real messy life*.
+   You'll frame the scene, roll to see where it needs to end up then
+   play it out. You can make this roll sometime within the scene at
+   its critical moment if you prefer
 
-*** Period of Self Reflection
+   This may be something like making friends, deepening a persional
+   connection etc. It could be building or buying something, learning
+   something, practicing something, or progressing your career
 
-    Choose one:
-    * Write a new *life goal*
-    * Complete an existing *life goal*
-    * Abandon an existing *life goal*
+   1. State your intent. What you want the outcome to be? Specify what
+      you want to *acomplish* or the *complication* you want to
+      resolve
+   2. Describe how you are going to do it. Say what *acomplishments*
+      you are using to your *advantage*, and how they are
+      advantagous. This frames the scene you'll play out after you...
+   3. Roll against *frustration*
 
-    Say why and how this change of goals will be better for your
-    life. roll *advantages* against
-    *frustration*.
+   *Strong Hit*
+   * Play out the scene and write an *acomplishment* or resolve the
+     *complication*
 
-    Make the change to the goals no matter what the results of the dice.
+   *Hit*
+   * Play out the scene and write an *acomplishment* or resolve the
+     *complication*
+   * GM does a *Mainstream Take*
 
-    *Strong Hit* No ill effect. This period was quick and efficient
+   *Miss*
+   * Play out the scene and the GM writes a *complication*
+   * GM does a *Mainstream Take*
 
-    *Hit* You figured it out, but it was troublesome. GM does a *media
-    take*
-
-    *Miss* We can't always see what we need to in ourselves. The GM
-    *complicates* your next *advancement* (make a note) and does a
-    **media take*
-
-*** Get Your Shit Together
-
-    Say what *complication* you want to resolve and how you plan to
-    resolve it. roll *advantages*
-    against *frustration*
-
-    *Strong Hit*: Resolve it. Remove the *complication*
-
-    *Hit*: Both effects of a *hit* and a *miss*
-
-    *Miss*: GM does a *media take*
-
-*** Deepen a Personal Connection
-
-    Name a character with whome you want to *deepen a personal
-    connection*. Then with their player's consent (or the GM's consent
-    if they are not a progatonist) narrate or play a scene that leaves
-    both characters with a deeper personal connection. Start that
-    scene by framing it with a leading question like "How do the two
-    of us come to trust each other?" or "How do we fall in love?".
-    Check in and make sure everyone is enthusiastic about the
-    direction the question leads and change it if someone is not.
-
-    roll *advantages* against *Frustration*. If the character you
-    named is a protagonist, they may also roll their *advantages*
-    against their *Frustration*
-
-    *Strong Hit* Write an *acomplishment* gaining a friend,
-    lover, ally, confidant, etc. Name the other in the acomplishment.
-
-    *Hit* Write an *acomplishment* as above but also write a
-    *complication* arising from it.
-
-    *Miss* GM does a *media take*
-
-*** Invest in Yourself
-
-    Say how you are investing in yourself. What are you studying? What
-    are you training to do? What are you doing for your career?
-    Remember that this can be a flashback to introduce past
-    acomplishments you want to bring into the game if that makes more
-    sense for the story.
-
-    Roll *advantages* against *frustration*
-
-    *Strong Hit* The time you took to pays off. Write an *acomplishment*
-    related to what you did
-
-    *Hit* It pays off as above, but it took a long time. The GM does a
-    *media take*
-
-    *Miss* It does not pay off. Don't write an *acomplishment* but it
-    did take time so the GM does a *media take*
-
-*** Make Something
-
-    Make something (or if you've got more money than time and
-    aptitude, make a purchase) Say what you want to have like a home,
-    business, or some other investment. Make it realistic given the
-    conceit of your narrative.  If it's something big like a home, you
-    can break it up into multiple scenes by starting small and
-    expanding it over time (or taking out a loan or mortgage and
-    paying over time).
-
-    Roll *advantages* against *Frustration*
-
-    *Strong Hit* You made the thing. Write an acomplishment.
-
-    *Hit* You made it as above, but it was troublesome. *See the
-    injustice in the system*
-
-    *Miss* You don't get the thing but the GM does a *media take*
-
-** Vigilante Action Moves
+** Vigilante Action
 
    /All protagonists have plot armor!/ They can't die unless their
    player wants them to. This is a game about making the change you
    want to see in the world and what it costs you rather than
    survival.
 
-   roll *advantages* against Risk, defeat villains, slow or stop their fronts,
-   create complications
-
-   TODO Consider earning ranks in action moves when you use them at
-   the edge of your ability, these could be written as acomplishments
-   like "got good at sweeping the city" though we might want to narrow
-   that down to something specific to the way they swept it like "by
-   following the money" or "by doing patrolls"
-
-*** Learn From Your Failures
-
-    When you roll a *miss* on a vigilante action move, *learn from
-    your failures*
-
-    Roll 2 against 1
-
-    *Strong Hit* Write an *acomplishment* about what you learned. It
-    should relate to what you were trying to do when you rolled the
-    miss that caused this move
-
-    *Hit* As above, but the GM also *complicates* it
+   When the character is fed up---too frustrated to ignore the
+   injustice---they turn to *vigilante action*. Don't plan too
+   much. Just go for it. The game and GM are not here to catch you out
+   on poor planning.
 
 *** Search and Investigate
 
-   When you want to uncover some villainy or expand on some villainy
-   you already know about you *search and investigate*. This might be
-   patrolling, steakouts, asking around, following the money, or
-   whatever. Choose one of the *mainstream values* that frustrates you
-   or some villains you want to look into and say what kinds of things
-   or places around the city you are looking for and what you are
-   doing to look
+    When you look for information about villainous machinations you
+    *search and investigate*. This might be patrolling, steakouts,
+    asking around, following the money, digging through public records
+    or whatever.
 
-   Roll *advantages* against *risk*
+    Describe what you want know more about and say what
+    kinds of things or places around the city you are looking for and
+    what you are doing to look.
 
-   *Strong Hit* Discover what you were looking for. The GM describes
-   it and asks questions of the group to help envision it
+    Roll *advantages* against *risk*
 
-   *Hit* Discover as above, but the GM complcates an *achievement*
-   that was used for *advantage* in the roll
+    *Strong Hit* Discover what you were looking for. The GM describes
+    it and asks questions of the group to help envision it
+    * If you looked for the cause of your frustration or for something
+      to do about your frustrations, reveal some related villianous
+      activities.
+    * If you were trying to find out who is behind certain activities
+      reveal which villain and which of their resrouces is behind it.
+    * If you looked for information about what a villain is doing and
+      that villain has unrevealed resources, reveal a resource
+    * If you looked for information about what a villain is going and
+      your approach could reveal a weakness, reveal a weakness
 
-   *Miss*
-   * The GM *complicates* an *achievement* used for the roll
-   * Increase *risk* by one
+    *Hit*
+    * Discover as above
+    * GM does a *mainstream take*
+
+    *Miss*
+    * The GM *complicates* an *achievement* used for the roll
+    * GM does a *mainstream take*
 
 *** Fight
 
-    When you try to weaken a villain who is resisting and trying to
-    weaken you too that's a *fight*. It can be done physically,
-    phychologically, emotionally, finantially, etc. Say how you are
-    fighting them and state the weakened position you want to put them
-    in. If you want to deal with them permenantly you are *taking them
-    out* instead
+    When you try to weaken or hurt a villain, their resources, their
+    plans, their relationships, etc. you *fight* them. This could be
+    anything from releasing damaging footage, to destroying their
+    warehouse, to beating up their associates. Anything that weakens
+    their position.
 
-    *Strong Hit* Write a *weakness* for the villain describing the
-    position you put them in
+    State your intent, what weakenss are you trying to create?
+    Describe what you are doing to achieve that outcome.
+
+    *Strong Hit* The GM writes a *weakness* for of the villians resources.
 
     *Hit*
-    * Write the *weakness* as above.
-    * The GM *complicates* and *achievement* used for the roll.
+    * *Weaken* as above
+    * GM does a *mainstream take*
 
     *Miss*
-    * The GM *complicates* and *achievement* used for the roll.
-    * *The villains do their work*
+    * GM does a *mainstream take*
 
 *** Take Them Out
 
-    Finish a section of a front increase risk, complicate, write
-    accomplishment like "drove off drunken assholes" or "killed the
-    kingpin"
+    When your intent is to shut the villain down for good, either by
+    sending them to jail, killing them, or banishing them to an
+    alternate dimention you are trying to *take them out*.
 
-    When you think a villain is weak enough *take them out*
+    Say what you are trying to do and how you intend to do it. You can
+    use both your *acomplishments* and their *weaknesses* to your
+    *advantage* as long as you are in a position to take advantage of
+    them.
 
-    Roll *advantages* against *risk* + (*resiliance* - *weaknesses*)
+    Roll *advantage* against *risk* + their *resources*
 
-    *Strong Hit*
-    * Reset *frustration* to zero
-    * Mark the villain's number of *resources* against a *mainstream
-      value* that the villain represented. If there are more than 10
-      marked, replace the *mainstream value* with any of your
-      convictions. Any progatonist may take this conviction
+    *Strong Hit* You take them out. This *villainous machination* is
+    complete and resolved. Reset your *frustration* to zero
 
-    *Hit* As above but don't reset *frustration*
+    *Hit*
+    * *Take them out* as above but don't reset *frustration*
+    * GM does a *mainstream take*
 
     *Miss*
-    * Increase *risk* by one
-    * *The villains do their work*
-    * *See the system for what it is*
+    * Increase their *resources* by 2
+    * GM does a *mainstream take*
 
-  Notes:
-  * This is a roll to try and defeat a villain and "complete the front"
-  * If it succeeds you make an amount of progress towards changing the
-    system equal to their resources
-  * It should be hard to get enough ahead of a villains resources to make
-    this roll easy wihtout a lot of work.
+*** Hard-Fought Experience
 
-** Mainstream Takes
+    When you *miss* or *hit* by exactly one---when *your pool* and the
+    *opposing pool* have either exactly the same number of hits (5+),
+    or *your pool* has exactly one fewer---on a vigilante action move
+    you get *hard-fought experience*
 
-*** See the System for What it is
+    Roll 3 against 2
 
-    Roll the number of convictions you share with mainstream values
-    against 1
+    *Strong Hit* Write an *acomplishment* about what you learned. It
+    should relate to what you were doing when you learned
 
-    *Strong Hit* Discuss and celebrate the change you've made to the
-    system. Reset *frustration* to zero.
+    *Hit* As above, but the GM also *complicates* it
 
-    *Hit* Discuss and celebrate the change you've made to the system
+** Mainstream Take
 
-    *Miss* The GM describes the injustice that the players see
-    inherent in the system. This could be related to the scene that
-    it's associated with, or it could be a transitional vignette. Use
-    the city beuraucrats and reporters you've already created to spew
-    pulp, grit, and slime.
+   The GM works with the players to frame a scene that will highlight
+   the *mainstream take* on what just happened. It may be related
+   specifically to the story or it may be an unrelated vignette making
+   the point. This is a good place to give the players some direction.
+   The mechanical result depends on what just happened and is up to
+   the GM to determine though they should discuss what makes sense to
+   the players. Use the city beuraucrats and reporters you've already
+   created to as a focus for the scene and spew pulp, grit, and camp.
 
-    Increase *frustration*
-    Remember to note specific details of the villains as they are
-    revealed and described. Name them when appropriate, describe and
-    write down all of the *resources* that have been revealed and
-    described.
+   * If the character was avoiding the injustice in the
+     system increase *frustration*
+   * If the character is threatening the mainstream values or
+     threatening the villains that are enabled by mainstream values
+     increase *risk*
+   * If the character used an *accomplishment* to their advantage
+     outside of normal expectations (friends will help to a point, a
+     given level of income can afford so much etc.) *complcate* that
+     *accomplishment*
+   * If they've been left alone, advance the villain's plans
+
+** Villainous Machinations
 
 **** How Villains are Revealed
 
-     Villains are revealed through play they could always have more
-     resources that haven't been discovered yet. As a GM don't decide
-     how powerful a villain is, just let the play progress and let the
-     dice and the course of play determine their power. Use the foci
-     and especially the discussion about the mainstream values guide
-     what you reveal when *the villains do their work*
-
-*** See the Change You've Made
+     Villains are revealed through play and they could always have
+     more resources that haven't been discovered yet. As a GM don't
+     decide how powerful a villain is, just let the play progress and
+     let the dice and the course of play determine their power. Use
+     the foci and especially the discussion about the mainstream
+     values guide what you reveal when *the villains do their work*
 
 *** The Villains Do Their Work
 
     The GM describes evidence of *villainous machinations* and the
     manuvering of the city's systems of injustice. Use the city
-    beuraucrats and media you've created to spew pulp, grit, and slime
+    beuraucrats and media you've created to spew pulp, grit, and camp
 
     The GM chooses a relevant *villainous machination* to progress.
 
@@ -392,6 +323,6 @@ make to society, and what they give up to do it.
 
      Envision a villain, a paragon of one of the mainstream values not
      shared by any protagonist. Write them a few resources. Spew pulp,
-     grit, and slime
+     grit, and camp
 
 
