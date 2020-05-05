@@ -40,7 +40,7 @@ deliberately, BUT two of them really are very good!
 
 Over the years I've done thousands of these things, and a lot of them
 are okay, but these are the two that are good. That's what I want to
-talk about. Proposition and curaiont are sufficient for progress. I
+talk about. Proposition and curation are sufficient for progress. I
 can do one of these in 15 seconds. so I can make a lot of
 propositions.  It's easy, cheap. I've curated that list of a thousand
 to get here, progress, good art
