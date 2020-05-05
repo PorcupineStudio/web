@@ -9,7 +9,7 @@ categories = [
 +++
 
 The object of the game is to become attached to the life you've built
-then complicate or lose it to fight injustice. The object of the game
+then complicate or destroy it to fight injustice. The object of the game
 is to get a lot to lose, and lose it to uphold your convictions.
 
 Play to find out what they accomplish in their lives, what change they

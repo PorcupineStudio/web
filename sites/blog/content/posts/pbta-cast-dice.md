@@ -19,7 +19,7 @@ mechanic with a lot of properties I want out of one. But it doesn't
 work well for games Powered by the Apocalypse because it doesn't
 support weak hits
 
-Let's iterate and add change that
+Let's iterate and change that
 
 <!--more-->
 
