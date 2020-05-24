@@ -1,0 +1,421 @@
++++
+title = "Quill"
+subtitle = ""
+date = 2020-05-22T07:44:45-05:00
+draft = true
+categories = [
+  "Games",
+]
++++
+
+I'm assuming that you are familiar with the classic and OSR role
+playing games. Quill won't explain much of what is common to them so
+If you are new to roleplaying, I hope a little internet research will
+clear anything up. If not please let me know either on Twitter
+(@jessebmiller), through email <jesse@jessebmiller.com> or on the
+[Porcupine Studio chat](chat.porcupine.studio) (Discord at the time of
+this writing).
+
+Quill was heavily influenced by a bunch of great prior work.
+
+The *OSR* generaly; *Knave* by Ben Milton specifically; *D&D*
+obviously
+
+*Ironsworn* by Shawn Tomkin
+
+*Blades in the Dark* by John Harper
+
+*Apocalypse World* by Meguey and D. Vincent Baker
+
+Thank you for the path you blazed!
+
+* Design Goals
+  - *People like us play games like this*. Quill is not for everyone,
+    but if it is, it *really* is.
+  - *Minimal quick math* Move as many calculations out of the flow of
+    play and into character creation or session downtime
+  - *OSR Compatibility* Make all the fantastic content out there
+    simple to translate for and use in Quill games
+  - *Simple rule set* Minimal cross references and look ups,
+    especially during the flow of play.
+  - *Large design space* Support hacking and custom content.
+  - *Efficient expert execution* Once a group masters the system, they
+    all should easily maintain continuity and agreement the whole of
+    the fiction
+  - *Enjoyable* Even groups that haven't yet mastered the system
+    should none the less enjoy their time playing.
+  - *Rules that drive the game* Rules should always drive the goals
+    of the game, and may take players out of their characters to do
+    so.
+
+* The Basics
+
+  There are Player Characters (PC) and a Game Master (GM) as is
+  classic.
+
+** The Player Characters
+
+   This is what makes up a PC. The procedure for creating
+   characters and using these ques are covered later.
+
+*** Ability Scores
+
+    - *STR*
+    - *DEX*
+    - *CON*
+    - *INT*
+    - *WIS*
+    - *CHA*
+
+*** Talents
+
+    Quill characters have *talents* that represent the powerful
+    and uncertain things they can do and get better at through
+    experience. Things like attacking with certain weapons,
+    perception, intimidation, casting wizard or cleric spells, sneak
+    attacks, and even keeping animal companions are all *talents*.
+
+*** Defense
+
+    What is often known as Armor Class (AC) Quill calls Defense
+    (*DEF*) because it represents things like parrying, dodging, and
+    luck as well as armor. You'll learn how to calculate *DEF* when
+    you create your characters.
+
+*** Movement
+
+    Your movement is 30 minus your strain and you can hike a number of
+    miles equal to CON - strain before needing a short rest. You can
+    make that hike twice before needing a long rest.
+
+*** Other Details
+
+    There are other details on the character sheets that you'll learn
+    about in the chapters on Creating Quill Characters and Playing
+    Quill. Things wounds, stress, and strain.
+
+*** The Change
+
+    In a campaign, Quill characters all have a change they want to see
+    in the status quo. You can have these in short games too, they add
+    spice, but they aren't spotlighted outside of a campaign.
+
+** The Adventure
+
+   Adventures in Quill are made up of an Objective, a number of
+   Obstacles, and a few People who want to stop you because they
+   believe, rightly or wrongly, that the characters goals and their
+   goals are incompatible. They are working against the change the
+   characters want.
+
+   Adventures are metaphors for fighting for the change the characters
+   want to see in their worlds, which of course are metaphors of their
+   own. When we fight the Troll, that might represent the gatekeepers
+   keeping the disenfranchised out of power.
+
+** The Campaign
+
+   Campaigns in Quill are made up of a Status Quo, the people in power
+   maintaining it, the comfortable masses, some number of
+   countercultures with complicated relationships and a mix of
+   cooperation and opposition to each others goals.
+
+* Creating Characters
+
+** Roll Ability Scores
+
+   Roll 12d6 and assign them any way you want to your abilities (max 3
+   min 1 die per stat). Each stat is the greater of the sum of the
+   assigned dice and 5.
+
+   ...or...
+
+   roll 6d6 and assign each to an ability. Each ability is twice the
+   die assigned to it or 5 whichever is higher.
+
+   ...or...
+
+   assign this array to your abilities [5, 5, 6, 8, 10, 12]
+
+** Assign Talent Dice
+
+   - Choose two talents and assign a d6 to each
+   - Choose two talents and assign a d8 to each
+   - Choose two talents and assign a d10 to each
+
+** Gear Up
+
+   Choose any commonly available gear you want that you can carry with
+   you.
+
+** Calculate Strain
+
+   You can carry a load equal to your STR comfortably. Anything more
+   is *excess load*. Excess load = load - STR or 0 whichever is higher.
+
+   Strain = load of equipped armor + excess load + stress + (wounds * 5)
+
+** Calculate Defense
+
+    A character's Defense is the greater of their DEX minus their
+    *strain* their CON plus their *armor*
+
+    *DEF* = Max of (DEX - *strain*) and (CON + *armor*)
+
+    For example: If your DEX is 8, CON is 6, you are wearing *load 3*
+    armor and have no *strain*; your *DEF* is 9 because your CON +
+    armor, 6 + 3 = 9 is greater than your DEX - strain, 8 - 0
+    = 8. Without the armor, your *DEF* would be 8 because the 8 DEX is
+    greater than the 6 CON all alone with no armor. If you start
+    getting *strain*, *DEF* will drop until your CON is higher than your
+    DEX - *strain*. At 1 *strain* your *DEF* is 8 - 1 = 7. At 2 *strain*
+    it's 8 - 2 = 6. At 3 strain CON + armor is greater than DEX -
+    *strain* at 6 so your *DEF* is 6.
+
+** Calculate Movement
+
+   Movement = 30 - strain
+
+* Playing
+
+** Talent Checks and Ability Saves
+
+*** Talent Checks
+
+   When the outcome is uncertain, roll a check of an appropriate
+   talent which will list an ability for its use. The GM will give a
+   difficulty for the check based on the fictional situation. Roll the
+   die. If you roll under the difficulty, that's a *miss*. If you roll
+   over the ability, that's a *bust*. Otherwise it's a *hit*. Talents
+   will say what happens in those three situations.
+
+   The standard difficulty is 3; hard but possible for someone with no
+   training. 4 is impossible with no training, hard with a little
+   training, 6 is impossible with just a little training hard for a
+   natural with a little training, possible with good training, likely
+   for an expert specialist. 10 is iffy for an expert specialist and
+   impossible for most. anything from 13 - 19 is impossible for any
+   but the gods or mortals who would challenge them.
+
+*** Ability Saves
+
+   Sometimes a rule or the GM will call for an *ability save*. Roll a
+   d20 under the ability to succeed. For example if you have a CON of
+   12 and were asked to roll a CON save to avoid being poisoned, you'd
+   roll a d20 and avoid being poisoned on a 1-11 but would be poisoned
+   on a 12-20.
+
+** Stress and Pushing Yourself
+
+   You can push yourself and take as many of the following as you want
+   as many times as you want for any talent check or ability save.
+
+   - take 5-d6 stress and gain advantage or lose disadvantage (take
+     this twice to go from disadvantage to advantage)
+   - take 4-d6 stress and roll one die level higher
+   - take 4-d6 stress and reduce the difficulty by 1
+   - take 4-d6 stress and increase your effective ability score by 1
+     for this check
+   - take 12-d12 stress to get an automatic *hit*
+   - take 10-d10 stress to get an automatic *bust*
+
+   When stress is greater than your third highest ability score you
+   take 6-d6 wounds and you pass out for 20 minutes or until attended
+   to for at least 1 minute. Upon waking you must immediately take a
+   short rest (which means eat and drink) or pass out again.
+
+** Combat
+
+   Determine the initiative order at the start of combat. If someone
+   is initiating combat they go first. If a group is coordinated and
+   initiate combat together they go first in whatever order they
+   want. Everyone else goes in order of DEX highest first. Ties are
+   broken by a die roll. During every PCs turn they can move up to
+   their movement and use a talent.
+
+*** Range
+
+    Ranged weapons can attack without penalty within their listed
+    range. For every 10 feet beyond their range however; their target
+    gets +1 Defense.
+
+** Rest and Recovery
+
+   There are *short rests* and *long rests*. Each require you to eat 1
+   load of food and drink. Short rests take about an hour. Long rests
+   take 8 or 10 hours.
+
+   Recover 1 stress on a short rest
+
+   Recover all stress and 1 wound (2 if you are being tended to) on a
+   long rest.
+
+** Advancement
+
+   When you *push yourself* on an *ability save* and fail mark generic
+   XP. When you *push yourself* and *miss* using a *talent* mark XP in
+   that *talent*. Once you've marked enough XP in a talent you may
+   *advance the talent*. When you have enough experience from anywhere
+   you may *advance an ability*. Advance only during a long rest.
+
+*** Advance the talent
+
+    When you've got enough XP in a *talent* you may *advance the
+    talent* to the next highest die by paying an amount of experience
+    equal to its max (6, 8, 10, 12, or 20).
+
+    If the *talent* lists a stat or *talent* "to advance" (INT to
+    advance for example) you need to roll that next highest die under
+    that stat or *talent*. If you do, *advance the talent* to that
+    die. If you bust, don't advance but do refund yourself an amount
+    of experience equal to your roll.
+
+*** Advance an Ability Score
+
+    You may *advance an ability score* by one by paying an amount of
+    XP equal to the resulting stat. Advancing CON from 7 to 8 costs 8
+    XP. You may spend XP that was marked against any *talent* to
+    *advance an ability score*.
+
+** Hold
+
+   Some rules will say "hold 1" or "hold 2" or something. That means
+   that someone has 1 or 2 things they can use in the future. The rule
+   will say what the hold can be used for and when it expires.
+
+* Running the Game
+
+** The Safety Ritual
+
+   At the beginning of every session, mention the X card, and ask if
+   anyone has any lines or veils they want to have in place for the
+   session.
+
+** Monsters and NPCs
+
+   Monsters and NPCs are different from PCs. They don't push
+   themselves, they are simple and have simple and obvious
+   motivations. TODO write up how to make monsters and NPCs. figure it
+   out in the play test.
+
+** Conditions
+
+*** Staggered
+
+    Make a d20 check against the highest of your STR, DEX, and CON
+    with the difficulty specified by the rule that called for the
+    stagger. For example if the rule said "*stagger 5*", the difficulty
+    of the check is 5
+
+    Miss: fall prone
+    Bust: All checks next round have disadvantage
+
+*** Prone
+
+    You've fallen to the ground either purposely or otherwise. If you
+    were prone this round, attacks against you have advantage if the
+    attacker is close, and have disadvantage otherwise. It takes half
+    your movement to stand up.
+
+* Appendices
+
+** Talents
+
+*** Perception
+
+    WIS to use
+
+    When a PC might miss something or you try to notice something
+    you've missed make a *perception* check. GM Note: When a player
+    makes a perception check they are asking for a clue, or to ensure
+    they are safe. If they do it somewhere mundane that's an
+    opportunity to invent something interesting or to bring something
+    else in here.
+
+    Hit: The GM answers two of the following questions. Their choice
+    based on the situation.
+    - What dangers haven't I noticed?
+    - What of value around here haven't I noticed?
+    - Who or what nearby haven't I noticed?
+    - What opportunities haven't I noticed?
+    - What important clue haven't I noticed?
+
+    Miss: the GM holds 2 and may spend them to surprise the PC with
+    something they missed and complicates their situation, maybe the
+    railing is missing a section or there is a wolf stalking them. The
+    hold expires when the situation changes, they move to another
+    area, or a good while passes
+
+    Bust: The GM holds 1 and answers one of the questions.
+
+*** Sneak Attack
+
+    If you attack from concealment you get a second attack rolled with
+    the lower of the attack die and your sneak attack die.
+
+** Spells
+
+** Equipment
+
+*** Armor
+
+    - Padded: 1 load
+    - Leather: 2 load
+    - Studded Leather: 3 load
+    - Hide: 3 load
+    - Chain Shirt: 4 load
+    - Half Plate: 6
+    - Full Plate: 8 load
+
+*** Weapons
+
+    On a hit, weapons deal damage as rolled
+
+*** Weapon Qualities
+
+    - *Reload*: On a *miss*, loose your rhythm, take one stress and the
+      next round to reload
+    - *Charge*: On a *hit*, deal double the roll in damage if you are
+      charging, moving at least 60 feet in a round.
+    - *Melee* Attack enemies 5 feet away
+    - *Reach* Attack enemies between 5 and 10 feet away
+    - *Brace* When braced against a charge; on a *hit* deal double the
+      roll in damage, and on a *miss* take 1 stress
+
+*** Crossbow
+
+    - WIS to use
+    - Range: 160
+    - Hit: Damage as rolled
+    - Reload
+
+*** Heavy War Hammer
+
+    - STR - Strain to use
+    - STR to advance
+    - Min difficulty 5
+    - Hit: Damage as rolled
+    - Miss: You are off balance *stagger R* yourself where R is your roll
+    - Bust: push the target back 5 feet or *stagger 5* them
+
+*** Long Bow
+
+    - Lower of STR and WIS to use
+    - Range: 140
+    - Hit: Damage as rolled
+    - Miss: take 1 stress
+
+*** Spear
+
+    - in Melee the higher of STR and DEX to use
+    - Bust: The target may take damage as rolled or be pushed back
+      outside of 5 feet
+
+    - at Range the lower of STR, DEX, and WIS to use
+    - Range 40
+
+** Monsters
+
+** Traps
+
+** Oracles

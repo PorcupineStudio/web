@@ -6,7 +6,7 @@ draft = true
 categories = [
   "Zines",
 ]
-title-font = https://fonts.google.com/specimen/Poiret+One?category=Sans+Serif,Display,Monospace&preview.text=IMMORT%D0%9BL+FRONTIER&preview.text_type=custom&preview.size=120&preview.layout=row&sidebar.open&selection.family=Poiret+One&query=poi
+title-font = "https://fonts.google.com/specimen/Poiret+One?category=Sans+Serif,Display,Monospace&preview.text=IMMORT%D0%9BL+FRONTIER&preview.text_type=custom&preview.size=120&preview.layout=row&sidebar.open&selection.family=Poiret+One&query=poi"
 +++
 
 Immortal Frontier is a space opera tabletop role-playing game about
