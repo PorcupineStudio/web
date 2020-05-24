@@ -119,8 +119,9 @@ Thank you for the path you blazed!
     stagger. For example if the rule said "*stagger 5*", the difficulty
     of the check is 5
 
-    Miss: fall prone
-    Bust: All checks next round have disadvantage
+    *Miss*: fall prone
+
+    *Bust*: All checks next round have disadvantage
 
 *** Prone
 
@@ -159,31 +160,44 @@ Thank you for the path you blazed!
 
 ** Calculate Strain
 
-   You can carry a load equal to your STR comfortably. Anything more
-   is *excess load*. Excess load = load - STR or 0 whichever is higher.
+   You can carry a *load* equal to your *STR* comfortably. Anything more
+   is *excess load*. *Excess load* = *load - *STR* or 0 whichever is higher.
 
-   Strain = load of equipped armor + excess load + stress + (wounds * 5)
+   Strain = *load* of equipped armor + *excess load* + *stress* + (*wounds* * 5)
 
 ** Calculate Defense
 
-    A character's Defense is the greater of their DEX minus their
-    *strain* their CON plus their *armor*
+   TODO make this obvious with a good character sheet
 
-    *DEF* = Max of (DEX - *strain*) and (CON + *armor*)
+   A character's Defense is the greater of their DEX minus their
+   *strain* and their CON plus their *armor*
 
-    For example: If your DEX is 8, CON is 6, you are wearing *load 3*
-    armor and have no *strain*; your *DEF* is 9 because your CON +
-    armor, 6 + 3 = 9 is greater than your DEX - strain, 8 - 0
-    = 8. Without the armor, your *DEF* would be 8 because the 8 DEX is
-    greater than the 6 CON all alone with no armor. If you start
-    getting *strain*, *DEF* will drop until your CON is higher than your
-    DEX - *strain*. At 1 *strain* your *DEF* is 8 - 1 = 7. At 2 *strain*
-    it's 8 - 2 = 6. At 3 strain CON + armor is greater than DEX -
-    *strain* at 6 so your *DEF* is 6.
+   *DEF* = The higher of (DEX - *strain*) and (CON + *armor*)
+
+   For example:
+
+   If your *DEX* is 8, *CON* is 6, you are wearing *load 3*
+   armor and have no *strain*;
+
+   Then your *DEF* is 9 because your *CON* + *armor*, 6 + 3 = 9 is
+   greater than your *DEX* - *strain*, 8 - 0 = 8.
+
+   Without the armor, your *DEF* would be 8 because the 8 *DEX* is
+   greater than the 6 *CON* all alone with no armor.
+
+   If you start getting *strain*, *DEF* will drop until your *CON* is
+   higher than your DEX - *strain*.
+
+   At 1 *strain* your *DEF* is 8 - 1 = 7.
+
+   At 2 *strain* it's 8 - 2 = 6.
+
+   At 3 strain *CON* + *armor*, 6 + 0 = 6 is greater than *DEX* -
+   *strain*, 8 - 3 = 5 so your *DEF* is 6.
 
 ** Calculate Movement
 
-   Movement = 30 - strain
+   *Movement* = 30 - *strain*
 
 * Playing
 
@@ -200,11 +214,29 @@ Thank you for the path you blazed!
 
    The standard difficulty is 3; hard but possible for someone with no
    training. 4 is impossible with no training, hard with a little
-   training, 6 is impossible with just a little training hard for a
-   natural with a little training, possible with good training, likely
-   for an expert specialist. 10 is iffy for an expert specialist and
-   impossible for most. anything from 13 - 19 is impossible for any
-   but the gods or mortals who would challenge them.
+   training, 6 is impossible with just a little training, possible
+   with good training, 50/50 for an expert specialist. 10 is
+   very hard even for an expert specialist and impossible for
+   most. anything from 13 - 19 is impossible for any but the gods or
+   mortals who would challenge them.
+
+**** Talent Expertise Levels
+
+   d4: No training
+   d6: Some training
+   d8: Good training
+   d10: Expert
+   d12: Expert Specialist
+   d20: Godlike
+
+   TODO turn talents (including gear) into a specialization tree train
+   d6 in Weapons, History, Social Skills or whatever. Then from there
+   train a d8 in swords, axes, clubs/hammers, bows, intimidation,
+   bargaining, political history or whatever. then from there a d10 in
+   long swords, battle axes, maces, compound bows, bribery, spice
+   trade, local political history, or whatever. then the d12 (and d20)
+   in a custom made personal weapon, a specific political family, the
+   spice prices in a specific market, or whatever
 
 *** Ability Saves
 
@@ -219,14 +251,14 @@ Thank you for the path you blazed!
    You can push yourself and take as many of the following as you want
    as many times as you want for any talent check or ability save.
 
-   - take 5-d6 stress and gain advantage or lose disadvantage (take
+   - take 5 - 1d6 stress and gain advantage or lose disadvantage (take
      this twice to go from disadvantage to advantage)
-   - take 4-d6 stress and roll one die level higher
-   - take 4-d6 stress and reduce the difficulty by 1
-   - take 4-d6 stress and increase your effective ability score by 1
+   - take 4 - 1d6 stress and roll one die level higher
+   - take 4 - 1d6 stress and reduce the difficulty by 1
+   - take 4 - 1d6 stress and increase your effective ability score by 1
      for this check
-   - take 12-d12 stress to get an automatic *hit*
-   - take 10-d10 stress to get an automatic *bust*
+   - take 12 - 1d12 stress to get an automatic *hit*
+   - take 10 - 1d10 stress to get an automatic *bust*
 
    When stress is greater than your third highest ability score you
    take 6-d6 wounds and you pass out for 20 minutes or until attended
@@ -238,7 +270,7 @@ Thank you for the path you blazed!
    Determine the initiative order at the start of combat. If someone
    is initiating combat they go first. If a group is coordinated and
    initiate combat together they go first in whatever order they
-   want. Everyone else goes in order of DEX highest first. Ties are
+   want. Everyone else goes in order of *DEX*, highest first. Ties are
    broken by a die roll. During every PCs turn they can move up to
    their movement and use a talent.
 
