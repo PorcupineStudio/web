@@ -94,12 +94,6 @@ Thank you for the path you blazed!
     about in the chapters on Creating Quill Characters and Playing
     Quill. Things wounds, stress, and strain.
 
-*** The Change
-
-    In a campaign, Quill characters all have a change they want to see
-    in the status quo. You can have these in short games too, they add
-    spice, but they aren't spotlighted outside of a campaign.
-
 ** The Adventure
 
    Adventures in Quill are made up of an Objective, a number of
@@ -119,6 +113,31 @@ Thank you for the path you blazed!
    maintaining it, the comfortable masses, some number of
    countercultures with complicated relationships and a mix of
    cooperation and opposition to each others goals.
+
+** Hold
+
+   Some rules will say "hold 1" or "hold 2" or something. That means
+   that someone has that many things they can do in the future. The
+   rule will say what the hold can be used for and when it expires.
+
+** Conditions
+
+*** Staggered
+
+    Make a d20 check against the highest of your STR, DEX, and CON
+    with the difficulty specified by the rule that called for the
+    stagger. For example if the rule said "*stagger 5*", the difficulty
+    of the check is 5
+
+    Miss: fall prone
+    Bust: All checks next round have disadvantage
+
+*** Prone
+
+    You've fallen to the ground either purposely or otherwise. If you
+    were prone this round, attacks against you have advantage if the
+    attacker is close, and have disadvantage otherwise. It takes half
+    your movement to stand up.
 
 * Creating Characters
 
@@ -277,12 +296,6 @@ Thank you for the path you blazed!
     XP. You may spend XP that was marked against any *talent* to
     *advance an ability score*.
 
-** Hold
-
-   Some rules will say "hold 1" or "hold 2" or something. That means
-   that someone has 1 or 2 things they can use in the future. The rule
-   will say what the hold can be used for and when it expires.
-
 * Running the Game
 
 ** The Safety Ritual
@@ -297,25 +310,6 @@ Thank you for the path you blazed!
    themselves, they are simple and have simple and obvious
    motivations. TODO write up how to make monsters and NPCs. figure it
    out in the play test.
-
-** Conditions
-
-*** Staggered
-
-    Make a d20 check against the highest of your STR, DEX, and CON
-    with the difficulty specified by the rule that called for the
-    stagger. For example if the rule said "*stagger 5*", the difficulty
-    of the check is 5
-
-    Miss: fall prone
-    Bust: All checks next round have disadvantage
-
-*** Prone
-
-    You've fallen to the ground either purposely or otherwise. If you
-    were prone this round, attacks against you have advantage if the
-    attacker is close, and have disadvantage otherwise. It takes half
-    your movement to stand up.
 
 * Appendices
 
