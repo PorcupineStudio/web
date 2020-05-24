@@ -94,6 +94,16 @@ Thank you for the path you blazed!
     about in the chapters on Creating Quill Characters and Playing
     Quill. Things wounds, stress, and strain.
 
+** Advantage and Disadvantage
+
+   Some rules will say that you have either advantage or
+   disadvantage. When you have advantage roll 2 dice and take the
+   better die. When you have disadvantage roll 2 and take the worse.
+
+   For Talent Checks, *hit* is better than *bust* is better than *miss*
+
+   For Saves, higher is better.
+
 ** Hold
 
    Some rules will say "hold 1" or "hold 2" or something. That means
