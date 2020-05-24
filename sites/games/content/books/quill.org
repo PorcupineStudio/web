@@ -94,26 +94,6 @@ Thank you for the path you blazed!
     about in the chapters on Creating Quill Characters and Playing
     Quill. Things wounds, stress, and strain.
 
-** The Adventure
-
-   Adventures in Quill are made up of an Objective, a number of
-   Obstacles, and a few People who want to stop you because they
-   believe, rightly or wrongly, that the characters goals and their
-   goals are incompatible. They are working against the change the
-   characters want.
-
-   Adventures are metaphors for fighting for the change the characters
-   want to see in their worlds, which of course are metaphors of their
-   own. When we fight the Troll, that might represent the gatekeepers
-   keeping the disenfranchised out of power.
-
-** The Campaign
-
-   Campaigns in Quill are made up of a Status Quo, the people in power
-   maintaining it, the comfortable masses, some number of
-   countercultures with complicated relationships and a mix of
-   cooperation and opposition to each others goals.
-
 ** Hold
 
    Some rules will say "hold 1" or "hold 2" or something. That means
