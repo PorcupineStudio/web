@@ -1,8 +1,9 @@
 +++
 title = "Quill"
+version = "0.0.0"
 subtitle = ""
 date = 2020-05-22T07:44:45-05:00
-draft = true
+draft = false
 categories = [
   "Games",
 ]
@@ -20,8 +21,6 @@ Quill was heavily influenced by a bunch of great prior work.
 
 The *OSR* generaly; *Knave* by Ben Milton specifically; *D&D*
 obviously
-
-*Ironsworn* by Shawn Tomkin
 
 *Blades in the Dark* by John Harper
 
@@ -79,8 +78,9 @@ Thank you for the path you blazed!
 
     What is often known as Armor Class (AC) Quill calls Defense
     (*DEF*) because it represents things like parrying, dodging, and
-    luck as well as armor. You'll learn how to calculate *DEF* when
-    you create your characters.
+    luck, and even a difficult situation for the attacker, as well as
+    armor. You'll learn how to calculate *DEF* when you create your
+    characters.
 
 *** Movement
 
@@ -134,18 +134,7 @@ Thank you for the path you blazed!
 
 ** Roll Ability Scores
 
-   Roll 12d6 and assign them any way you want to your abilities (max 3
-   min 1 die per stat). Each stat is the greater of the sum of the
-   assigned dice and 5.
-
-   ...or...
-
-   roll 6d6 and assign each to an ability. Each ability is twice the
-   die assigned to it or 5 whichever is higher.
-
-   ...or...
-
-   assign this array to your abilities [5, 5, 6, 8, 10, 12]
+   roll 1d6 + 3 six times and assign each to an ability.
 
 ** Assign Talent Dice
 
@@ -246,24 +235,64 @@ Thank you for the path you blazed!
    roll a d20 and avoid being poisoned on a 1-11 but would be poisoned
    on a 12-20.
 
-** Stress and Pushing Yourself
+** Damage
 
-   You can push yourself and take as many of the following as you want
-   as many times as you want for any talent check or ability save.
+   When a PC takes *damage* they roll a *CON* save with a difficulty
+   of the damage taken.
+   - *Miss* take a wound
+   - *Bust* take a stress
 
-   - take 5 - 1d6 stress and gain advantage or lose disadvantage (take
-     this twice to go from disadvantage to advantage)
-   - take 4 - 1d6 stress and roll one die level higher
-   - take 4 - 1d6 stress and reduce the difficulty by 1
-   - take 4 - 1d6 stress and increase your effective ability score by 1
-     for this check
-   - take 12 - 1d12 stress to get an automatic *hit*
-   - take 10 - 1d10 stress to get an automatic *bust*
+   When an NPC takes *damage* roll a number of d10s equal to their hit dice
+
+** Stress
 
    When stress is greater than your third highest ability score you
    take 6-d6 wounds and you pass out for 20 minutes or until attended
    to for at least 1 minute. Upon waking you must immediately take a
    short rest (which means eat and drink) or pass out again.
+
+*** Pushing Yourself
+
+    You can push yourself and take as many of the following as you
+    want as many times as you want before you roll any talent check or
+    ability save.
+
+    - take 5 - 1d6 stress and gain advantage or lose disadvantage
+      (take this twice to go from disadvantage to advantage)
+    - take 6 - 1d6 stress and roll 1 level higher than the die on your
+      sheet
+    - take 8 - 1d8 stress and roll 2 levels higher than the die on your sheet
+    - take 10 - 1d10 stress and roll 3 levels higher than the die on your sheet
+    - take 4 - 1d6 stress and reduce the difficulty by 1
+    - take 4 - 1d6 stress and increase your effective ability score by 1
+     for this check
+    - take 12 - 1d12 stress to get an automatic *hit*
+    - take 10 - 1d10 stress to get an automatic *bust*
+
+*** Resisting Outcomes
+
+    After you roll you can resist the consequence of a *bust* or a
+    *miss* by paying stress. Narrate how you are avoiding it then roll
+    to see how much stress you take to do it.
+
+    take x - 1dx *stress* where x is the same die you rolled for a
+    *miss* and one level lower for a *bust*.
+
+
+** Wounds and Death
+
+   For every wound you take, mark one of the unmarked wound boxes on
+   your character sheet. Each one comes with it's own particular
+   drawback. When all wounds are marked you die.
+
+*** The Wounds
+
+    - *Torn Muscles*: Make checks with effective *STR* of 4
+    - *Broken Bones*: Make checks with effective *DEX* of 4
+    - *Internal Bleeding*: Make checks with effective *CON* of 4
+    - *Delirious Confusion*: Make checks with effective *INT* of 4
+    - *Traumatic Brain Injury*: Make checks with effective *WIS* of 4
+    - *Wounded Pride*: Make checks with effective *CHA* of 4
 
 ** Combat
 
@@ -326,6 +355,20 @@ Thank you for the path you blazed!
    anyone has any lines or veils they want to have in place for the
    session.
 
+** Talent Checks
+
+   Talent checks are what drive the game forward. Each one can be a
+   *hit*, a *miss*, or a *bust* and every one should drive the game
+   forward in its own way.
+   - *Hit*: let the player narrate their success
+   - *Miss*: narrate the complication, setback, or obstacle that the
+     failure causes. If the talent specifies something use it,
+     otherwise come up with something relevant to the situation.
+   - *Bust*: narrate the stated effect of a bust if it's there,
+     otherwise narrate a partial, incomplete, or fatally flawed
+     success and possibly also a complication, setback, or obstacle it
+     causes. This shouldn't be as bad as a *miss*.
+
 ** Monsters and NPCs
 
    Monsters and NPCs are different from PCs. They don't push
@@ -336,6 +379,71 @@ Thank you for the path you blazed!
 * Appendices
 
 ** Talents
+
+*** Related Talents
+
+    Expertise with one thing almost always offers some ability with
+    related things. Talents are related to the categories they are
+    in. For example: Spells in the same lists are related to each
+    other. Wizard spells are related to other Wizard spells and Cleric
+    to Cleric. Melee weapons are related to Melee weapons and missile
+    to missile.
+
+    You may use any related talent at 1 die level below the related
+    talent.
+
+**** Talent Categories
+
+     - Spells in the same list are related to spells up to 1 level
+       higher than they are.
+     - Melee weapon talents are related
+     - Missile weapon talents are related
+     - Other talents are related if they are used by identical
+       Abilities.
+
+     Feel free to change these categories up. Maybe it makes more
+     sense to you if Swords are related to Swords and Axes to Axes. or
+     that categories with nested categories, like the schools of magic
+     or weapon properties are related. Perhaps Wizard Abjuration is
+     not related to Cleric Abjuration or Wizard Necromancy or that
+     Light Swords are not related to Heavy Swords. Perhaps you just
+     want to use the nested category. Abjuration is related to
+     Abjuration whether or not the spells come from Cleric or Wizard
+     lists.
+
+*** Home Brew Talents
+
+    The minimum you need to make a talent is what Ability Score it
+    takes to use it, and an effect on hit. You can bring in things
+    from other games easily. For example you could bring in skills
+    from D&D by saying that they are used with their modifier (*WIS*
+    for survival, *CHA* for intimidate, etc.), and the effect happens
+    on *hit*.  You don't need to specify anything for a *miss* or a
+    *bust* but remember that the GM can improvise a partial,
+    incomplete, or fatally flawed success for a *bust* and a tough
+    situation or complication for a *miss* whenever the talent doesn't
+    specify anything else.
+
+    Rules in other games that don't have a modifier that obviously
+    translates take a little more work but they shouldn't be too bad.
+
+    Weapon ranges are based on medium range in B/X D&D. As soon as you
+    would take an attack penalty in B/X you start giving your target a
+    *DEF* bonus (see p. ???) in Quill
+
+    You can bring in spells from games that use a 1-9 spell level
+    system by choosing an appropriate Ability to use the spells in the
+    list. Cleric spells might use *WIS* while Wizard spells might use
+    *INT* The minimum difficulty to cast a spell should be its level.
+    Each spell is its own Talent.
+
+    Any talent with a minimum difficulty above 5 must be related to a
+    talent with a minimum of at most 5 so that there is a path to
+    learn the talent. Same for 7, 9, 11, and I guess 19.
+
+    Talents can reference and modify other talents. As long as the
+    result has an ability for its use and a result for a *hit* that
+    works (see Sneak Attack p. ???).
 
 *** Perception
 
@@ -366,10 +474,15 @@ Thank you for the path you blazed!
 
 *** Sneak Attack
 
-    If you attack from concealment you get a second attack rolled with
-    the lower of the attack die and your sneak attack die.
+    If you attack from concealment with a weapon that isn't heavy you
+    get a second attack rolled with the lower of the attack die and
+    your sneak attack die.
 
 ** Spells
+
+   - *Miss* The spell backfires making your goal more difficult and
+     take the spells level in stress
+   - *Bust* The spell backfires making your goal more difficult.
 
 ** Equipment
 
@@ -410,6 +523,7 @@ Thank you for the path you blazed!
     - STR - Strain to use
     - STR to advance
     - Min difficulty 5
+    - Heavy
     - Hit: Damage as rolled
     - Miss: You are off balance *stagger R* yourself where R is your roll
     - Bust: push the target back 5 feet or *stagger 5* them
@@ -423,11 +537,13 @@ Thank you for the path you blazed!
 
 *** Spear
 
-    - in Melee the higher of STR and DEX to use
+    - Melee
+    - Higher of STR and DEX to use
     - Bust: The target may take damage as rolled or be pushed back
       outside of 5 feet
 
-    - at Range the lower of STR, DEX, and WIS to use
+    - Missile
+    - Lower of STR, DEX, and WIS to use
     - Range 40
 
 ** Monsters
