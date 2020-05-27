@@ -82,6 +82,21 @@ you could fucking die.
 
 ** Ability Scores
 
+   TODO consider what other sets of abilities (and maybe call them
+   stats) could work better than referencing D&D then not using
+   anything from it.
+   - Courage
+   - Fortitude
+   - Acumen
+   - Calm
+   - Concentration
+   - Grit
+   - Foresight/Insight
+   - Strength
+   - Cunning
+   - Cleverness
+   - Charm
+
    PCs also have the classic ability scores representing their natural
    ability in six areas.
 
@@ -368,6 +383,8 @@ you could fucking die.
       a copy of this spreadsheet or follow its calculations on a sheet
       of paper
       https://docs.google.com/spreadsheets/d/1Kk8qv-6OAniIrIJ5gkK1HLH9N-pHM04qMQi9lM2Juhk/edit?usp=sharing
+      Don't worry... there will be a real character sheet some day,
+      it's just too early in development right now.
 
 ** Stress
 
