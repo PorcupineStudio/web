@@ -29,8 +29,8 @@ obviously
 Thank you for the path you blazed!
 
 The object of Quill is to become powerful by the experience of
-surviving dangerous adventures but you might not because the danger is
-real and you could fucking die
+dangerous adventure but you might not because the danger is real and
+you could fucking die.
 
 * Design Goals
   - *People like us play games like this*. Quill is not for everyone,
