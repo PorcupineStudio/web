@@ -311,9 +311,9 @@ Thank you for the path you blazed!
 
 ** Rest and Recovery
 
-   There are *short rests* and *long rests*. Each require you to eat 1
-   load of food and drink. Short rests take about an hour. Long rests
-   take 8 or 10 hours.
+   There are *short rests* and *long rests*. Each require you to eat
+   half a load of food and drink. Short rests take about an hour. Long
+   rests take 8 or 10 hours.
 
    Recover 1 stress on a short rest
 

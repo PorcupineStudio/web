@@ -1,6 +1,6 @@
 +++
 title = "Quill"
-version = "0.1.0-draft"
+version = "0.1.1-draft"
 subtitle = ""
 date = 2020-05-22T07:44:45-05:00
 draft = true
@@ -27,6 +27,10 @@ obviously
 *Apocalypse World* by Meguey and D. Vincent Baker
 
 Thank you for the path you blazed!
+
+The object of Quill is to become powerful by the experience of
+surviving dangerous adventures but you might not because the danger is
+real and you could fucking die
 
 * Design Goals
   - *People like us play games like this*. Quill is not for everyone,
@@ -509,7 +513,7 @@ Thank you for the path you blazed!
    7 to 8 costs 8 *XP*. You may spend *XP* that was marked against any
    *talent* for this.
 
-* Hacking
+* Hacking Quill
 
   TODO Not needed for the play test, but you should be able to bring
   in spells at least pretty easy. Might need some guidance using
