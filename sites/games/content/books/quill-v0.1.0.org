@@ -33,8 +33,7 @@ dangerous adventure but you might not because the danger is real and
 you could fucking die.
 
 * Design Goals
-  - *People like us play games like this*. Quill is not for everyone,
-    but if it is, it *really* is.
+  - *Oppinionated*. Strong choices for a focused audience
   - *Minimal quick math* Move as many calculations out of the flow of
     play and into character creation or session downtime
   - *OSR Compatibility* Make all the fantastic content out there
