@@ -232,7 +232,7 @@ Thank you for the path you blazed!
     Weapons are a specific kind of gear so all gear rules apply as
     well as the following general rules for all weapons
     - When you attack a target with a weapon roll a check where the
-      difficulty is the targets *defense*. On a *hit* deal damage as
+      difficulty is the targets *DEF*. On a *hit* deal damage as
       rolled.
     - The weapon description will include the stat to use
     - Weapons may have properties that specify more details outlined
@@ -246,12 +246,12 @@ Thank you for the path you blazed!
 
      *Range* Ranged weapons can attack within their listed range
      without penalty. For every 10 feet beyond their range however;
-     their target gets +1 Defense. For example: attacking someone 50
+     their target gets +1 *DEF*. For example: attacking someone 50
      feet away with a weapon that has *range 20* grants the target *+3
-     defense*.
+     DEF*.
 
      *Reach* Weapons with reach can attack 5 to 10 feet away without
-     penalty but targets within 5 feet gain 2 defense.
+     penalty but targets within 5 feet gain 2 *DEF*.
 
      *Conceal* In order to notice these when concealed by the wielder
      an observer must *hit* a perception check against 6. They must be
@@ -266,7 +266,7 @@ Thank you for the path you blazed!
      or a wall---against a charging opponent.
 
      *Mount* Mount weapons can be used without penalty while riding a
-     mount but all targets gain 2 *defense* when wielded on foot. If a
+     mount but all targets gain 2 *DEF* when wielded on foot. If a
      specific mount is noted, for example *horse mount* or *dragon
      mount* the penalty applies any time the wielder is no on the
      specified mount.
@@ -278,12 +278,12 @@ Thank you for the path you blazed!
      *Formation* Attack with no penalty when used by an individual or
      coordinated group who are in formation and do not have more
      enemies focused on and able to attack them than they do have
-     adjacent formation members. Their targets gain *+2 defense*
+     adjacent formation members. Their targets gain *+2 DEF*
      otherwise. For example: a group of 2 in formation with pikes side
      by side against 3 attackers on foot attack as normal if the
      attackers are each focused on one pike wielder. However if the 2
      attackers move to one side of the formation and attack one of the
-     pike wielders on the end they gain *+2 defense*.
+     pike wielders on the end they gain *+2 DEF*.
 
 *** Armor
 
@@ -359,17 +359,21 @@ Thank you for the path you blazed!
    2. Distribute this array of dice [d10, d8, d8, d6, d6, d6] to any
       *talents* you'd like to start with. Remember all PCs can use any
       *talent* at d4
-   3. Take as much *gear* as you want to start the game carrying on you
-   4. Complete the remaining calculations on the character sheet
+   3. Take as much *gear* as you want to start the game carrying on
+      you
+   4. Complete the remaining calculations on the character sheet. Make
+      a copy of this spreadsheet or follow its calculations on a sheet
+      of paper
+      https://docs.google.com/spreadsheets/d/1Kk8qv-6OAniIrIJ5gkK1HLH9N-pHM04qMQi9lM2Juhk/edit?usp=sharing
 
 ** Stress
 
    When stress is greater than your third highest ability score you
-   take 6 - 1d6 wounds and pass out for 20 minutes or until attended to
-   for at least 1 minute. Upon waking you must immediately take a
+   take 1d6 - 1 wounds and pass out for 20 minutes or until attended
+   to for at least 1 minute. Upon waking you must immediately take a
    short rest (which means eat and drink) or pass out again.
 
-*** Pushing Yourself
+*** Pushing
 
     You can push yourself on any check and take as many of the
     following as you want as many times as you want but declare it all
@@ -377,27 +381,27 @@ Thank you for the path you blazed!
 
     - take 1d6 -1 stress and gain advantage or lose disadvantage
       (take this twice to go from disadvantage to advantage)
-    - take 1d6 -1 stress and roll 1 level higher than the die on your
-      sheet
-    - take 1d8 -1 stress and roll 2 levels higher than the die on your sheet
-    - take 1d10 -1 stress and roll 3 levels higher than the die on your sheet
+    - take 1d6 -1 stress and roll 1 die level higher
+    - take 1d8 -1 stress and roll 2 die levels higher
+    - take 1d10 -1 stress and roll 3 die levels higher
     - take 1d4 -1 stress and reduce the difficulty by 1
     - take 1d4 -1 stress and increase your effective ability score by 1
      for this check
     - take 1d12 -1 stress to get an automatic *hit*
     - take 1d10 -1 stress to get an automatic *bust*
 
-*** Resisting Outcomes
+*** Resisting
 
     After you roll you can resist the consequence of a *bust* or a
     *miss* by paying stress. Narrate how you are avoiding it then roll
     to see how much stress you take to do it.
 
-    take x - 1dx *stress* where x is the same die you rolled for a
+    take 1dx -1 *stress* where x is the same die you rolled for a
     *miss* and one level lower for a *bust* to a minimum of 4.
+
 ** Combat
 
-   First, determine the initiative order.
+   When people start fighting, first determine the initiative order.
    - If someone is initiating combat they go first.
    - If a group is coordinated and initiate combat together they go
      first in whatever order they want.
@@ -405,7 +409,7 @@ Thank you for the path you blazed!
      broken by a die roll.
 
    Take turns in that order moving and using talents until everyone is
-   done fighting (you're done if you're dead).
+   done fighting (you're done if you're dead ;).
 
    During every PCs turn they can move up to their movement and use a
    talent.
@@ -429,9 +433,14 @@ Thank you for the path you blazed!
    - *Bust* take a stress
 
    When an NPC takes *damage* roll xd12 where x is their hit dice. If
-   the highest roll is lower than the damage, they take a wound---lose
-   a hit die.
+   the highest roll is lower than the damage, they take a wound (lose
+   a hit die).
+
 *** Monsters
+
+    TODO describe how monsters work, they have a hit die, some attacks
+    (talents) etc.
+
 ** Wounds and Death
 
    For every wound you take, mark one of the unmarked wound boxes on
@@ -449,24 +458,24 @@ Thank you for the path you blazed!
 
 ** Movement
 
-   Your movement is 30 and you can hike a number of miles equal to
-   *CON* before needing a short rest. You can make that hike twice
-   before needing a long rest.
+   Your movement is 30 feet and you can hike a number of miles equal
+   to *CON* before needing a *short rest*. You can make that hike twice
+   before needing a *long rest*.
 
 ** Rest and Recovery
 
-   There are *short rests* and *long rests*. Each require you to eat 1
-   *load* of food and drink. Short rests take about an hour. Long
-   rests take at least 8 hours.
+   There are *short rests* and *long rests*. Each require you to eat
+   half a *load* of food and drink. Short rests take about an
+   hour. Long rests take at least 8 hours.
 
-   on a short rest roll xd6 where x is your stress. remove the lowest
-   die worth of stress
+   After a short rest roll xd6 where x is your stress. remove the
+   lowest die worth of stress
 
-   During a long rest remove all stress.
+   After a long rest remove all stress.
 
-   To recover from wounds, when you start to rest roll xd6 where x in
-   the number of wounds you have taken. Rest that many consecutive
-   days to recover all your wounds.
+   To recover from your wounds, when you start to rest roll xd6 where
+   x is the number of wounds you have taken. Rest that many
+   consecutive days to recover all your wounds.
 
 * Advancement
 
