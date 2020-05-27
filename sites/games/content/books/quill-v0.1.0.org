@@ -127,15 +127,14 @@ Thank you for the path you blazed!
    along with rough guidance for the GM to determine a check's
    difficulty
 
-   | Talent    | Rough Level of    | Challenging | Impossible |
-   | Die Level | Experience        |  Difficulty | Difficulty |
-   |-----------+-------------------+-------------+------------|
-   | d4        | No training       |           2 |          5 |
-   | d6        | Some training     |           3 |          7 |
-   | d8        | Well trained      |           4 |          9 |
-   | d10       | Expert            |           5 |         11 |
-   | d12       | Expert Specialist |           6 |         13 |
-   | d20       | Godlike           |          10 |         21 |
+   | Talent Die Level | Rough Level of Experience | Challenging  Difficulty | Impossible Difficulty |
+   |------------------+---------------------------+-------------------------+-----------------------|
+   | d4               | No training               |                       2 |                     5 |
+   | d6               | Some training             |                       3 |                     7 |
+   | d8               | Well trained              |                       4 |                     9 |
+   | d10              | Expert                    |                       5 |                    11 |
+   | d12              | Expert Specialist         |                       6 |                    13 |
+   | d20              | Godlike                   |                      10 |                    21 |
 
 ** Ability Saves
 
@@ -355,12 +354,12 @@ Thank you for the path you blazed!
 
    Quill characters are very easy to create.
 
-   1. Roll 1d6+4 6 times and distribute the results to the 6
-      abilities.
+   1. Roll 1d6+4 six times and distribute the results to the 6
+      *abilities*.
    2. Distribute this array of dice [d10, d8, d8, d6, d6, d6] to any
-      talents you'd like to start with. Remember all PCs can use any
-      talent at d4
-   3. Take as much gear as you want to start the game carrying on you
+      *talents* you'd like to start with. Remember all PCs can use any
+      *talent* at d4
+   3. Take as much *gear* as you want to start the game carrying on you
    4. Complete the remaining calculations on the character sheet
 
 ** Stress
