@@ -90,12 +90,11 @@ categories = [
       - Sexual
       - Emotional
       - Intellectual
-    - Escilation (the modes we can use to control)
+    - Escilation (the modes we can use to control someone else)
       - Holding accountable
       - Expectation
       - Demand
-      - Witholding
-      - Domination
+      - Deprivation
       - Violence
     - Avoidance
       - Trickery
@@ -147,7 +146,6 @@ categories = [
 *** Flux Architecture (Moves, Fictional Position, Sheets)
 **** Efficiency of expert execution
 **** Simplicity
-
 * References
   - https://lumpley.games/2019/12/30/powered-by-the-apocalypse-part-1/
 

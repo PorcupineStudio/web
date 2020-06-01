@@ -1,6 +1,6 @@
 +++
 title = "Quill"
-version = "0.1.1-draft"
+version = "0.2.0-draft"
 subtitle = ""
 date = 2020-05-22T07:44:45-05:00
 draft = true
@@ -17,10 +17,9 @@ anything up. If not please let me know either on Twitter
 [Porcupine Studio chat](chat.porcupine.studio) (Discord at the time of
 this writing).
 
-Quill was heavily influenced by a bunch of great prior work.
+Quill was influenced by a bunch of great prior work.
 
-The *OSR* It's not OSR, just influenced (unless you want it to be,
-then it is).
+*Dungeons & Dragons* by Wizards of the Coast.
 
 *Blades in the Dark* by John Harper
 
@@ -33,11 +32,10 @@ dangerous adventure but you might not because the danger is real and
 you could fucking die.
 
 * Design Goals
+
   - *Oppinionated*. Strong choices for a focused audience
   - *Minimal quick math* Move as many calculations out of the flow of
     play and into character creation or session downtime
-  - *OSR Compatibility* Make all the fantastic content out there
-    simple to translate for and use in Quill games
   - *Simple rule set* Minimal cross references and look ups,
     especially during the flow of play.
   - *Large design space* Support hacking and custom content.
@@ -46,10 +44,10 @@ you could fucking die.
     the fiction
   - *Enjoyable* Even groups that haven't yet mastered the system
     should none the less enjoy their time playing.
-  - *Rules that drive the game* Rules should always drive the goals
-    of the game, and may take players out of their characters to do
-    so.
-  - *Hardcore*
+  - *Rules that drive the game* Rules should always drive the goals of
+    the game, and may take players out of their characters to do so.
+  - *Consiceness* It should be a small core ruleset that fits in a
+    small book. Expansions should fit in similarly small books.
 
 * Safety
 
@@ -67,7 +65,7 @@ you could fucking die.
   It's a tabletop role playing game so once the group has read this
   through, followed the instructions, and made some characters (PCs),
   the game master (GM) will describe the situation and the players
-  will say what they do. And on and on it goes until someone dose
+  will say what they do. And on and on it goes until someone does
   something that might fail.
 
   Quill PCs have *talents* representing the difficult and powerful
@@ -79,43 +77,6 @@ you could fucking die.
   each *talent* is represented by a die size. They all start at d4 and
   can progress with *experience* through the other die sizes (d6, d8,
   d10, d12 and d20).
-
-** Ability Scores
-
-   TODO consider what other sets of abilities (and maybe call them
-   stats) could work better than referencing D&D then not using
-   anything from it.
-   - Courage
-   - Fortitude
-   - Acumen
-   - Calm
-   - Concentration
-   - Grit
-   - Foresight/Insight
-   - Strength
-   - Cunning
-   - Cleverness
-   - Charm
-
-   PCs also have the classic ability scores representing their natural
-   ability in six areas.
-
-   Strength (*STR*): Raw physical power, physique, might, muscle.
-   Relevant for melee, carry load, breaking things, athletics, and
-   talents requiring or benefiting from the same.
-
-   Dexterity (*DEX*) y'all know what this is.
-
-   Constitution (*CON*) I guess I'll write descriptions in the next
-   version
-
-   Intelligence (*INT*) smartbrains
-
-   Wisdom (*WIS*) It's like D&D which I'm assuming you are familiar with.
-
-   Charisma (*CHA*) Well hello!
-
-   Each *talent check* will use a relevant *ability score*.
 
 ** Talent Checks
 
@@ -153,28 +114,6 @@ you could fucking die.
    | d10              | Expert                    |                       5 |                    11 |
    | d12              | Expert Specialist         |                       6 |                    13 |
    | d20              | Godlike                   |                      10 |                    21 |
-
-** Ability Saves
-
-   Sometimes the rules will call for an *ability save* which is a
-   check, not of a *talent*, but of an *ability*. In these cases, roll
-   a d20. Like a *talent* check, rolling below the difficulty is a
-   *miss*, rolling over the *ability* is a *bust* and it's a *hit*
-   otherwise. Unlike a *talent check* the GM does not set the
-   difficulty. The rule will either say what the difficulty is or it's
-   zero by default.
-
-   For example: If a rule says "make a *CON* save against being
-   poisoned" you'd roll a d20 and if it's higher than your *CON*
-   you're poisoned and you're saved from being poisoned otherwise.
-
-   Another example: A rule says "make a *WIS* save against the
-   caster's *CHA* or be charmed on a *miss* and dazed on a *bust*".
-   Their *CHA* is 6 and your *WIS* is 10. If you roll above 10, that's
-   a *bust* and you are dazed. If you roll below a 6 that's a *miss*
-   and you're charmed. If their *CHA* was greater than your *WIS* you
-   wouldn't be able to avoid an effect, and it would be possible to
-   get both a *miss* and a *bust*
 
 ** Advantage and Disadvantage
 
@@ -419,48 +358,6 @@ you could fucking die.
     take 1dx -1 *stress* where x is the same die you rolled for a
     *miss* and one level lower for a *bust* to a minimum of 4.
 
-** Combat
-
-   When people start fighting, first determine the initiative order.
-   - If someone is initiating combat they go first.
-   - If a group is coordinated and initiate combat together they go
-     first in whatever order they want.
-   - Everyone else goes in order of *DEX*, highest first. Ties are
-     broken by a die roll.
-
-   Take turns in that order moving and using talents until everyone is
-   done fighting (you're done if you're dead ;).
-
-   During every PCs turn they can move up to their movement and use a
-   talent.
-
-   During every other turn (NPC, Monster, etc.) the GM moves up to
-   their movement and uses a talent.
-
-*** Defense
-
-    What is often known as Armor Class (AC) Quill calls Defense
-    (*DEF*) because it represents things like parrying, dodging, and
-    luck, and even a difficult situation for the attacker, as well as
-    armor. You'll learn how to calculate *DEF* when you create your
-    characters.
-
-*** Damage
-
-   When a PC takes *damage* roll a *CON* save with a difficulty of the
-   damage taken.
-   - *Miss* take a wound
-   - *Bust* take a stress
-
-   When an NPC takes *damage* roll xd12 where x is their hit dice. If
-   the highest roll is lower than the damage, they take a wound (lose
-   a hit die).
-
-*** Monsters
-
-    TODO describe how monsters work, they have a hit die, some attacks
-    (talents) etc.
-
 ** Wounds and Death
 
    For every wound you take, mark one of the unmarked wound boxes on
@@ -536,6 +433,23 @@ you could fucking die.
   monster stat blocks or weapons or class features and so on.
 
 * Appendix A: Skills
+
+** Gossip
+
+   *sight* to use
+
+   Roll when you do something that relies on a rumor's veracity that
+   you heard through gossip. Players can invent these on the fly.
+
+   *hit* the rumor is true
+
+   *bust* the rumor is true but it's just the tip of the iceberg choose one
+   1. you're in over your head
+   2. you've tipped your hand and the wrong people now know you were gossiping
+   3. you've tipped your sources hand and they are displeased with you
+
+   *miss* the rumor was false or misleading
+
 * Appendix B: Gear
 ** Weapons
 ** Armor

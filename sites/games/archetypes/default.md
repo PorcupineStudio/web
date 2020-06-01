@@ -8,6 +8,7 @@ categories = [
   "Games",
   "Micro Games",
   "Zines",
+  "Playtest Document",
 ]
 +++
 

@@ -1,0 +1,265 @@
++++
+title = "The Beast in the Garden"
+subtitle = ""
+date = 2020-05-30T07:36:23-05:00
+draft = true
+categories = [
+  "Playtest Document",
+]
++++
+
+The object of the game is to become liberated but you might not
+because the system is more powerful, brutal, and organized than you
+
+The object of the game is to see liberation in your communities but
+you might not because the system is more powerful, brutal, and
+organized than you
+
+The object of the game is to apply power and privilege to liberation
+and justice but you might not because the system is more powerful,
+brutal, and organized than you
+
+The game is about power, brutality, and organization
+
+* Morgue
+- Institutions
+  - Government (Policy, Courts, Enforcement)
+  - Media
+  - Religious
+  - Activist
+- Brutality and escalation strategies
+  - Can you escalate farther than me? is that obvious?
+  - How organized are you, how many people can you bring to bear in
+    different arenas? When escalation gets here, you have more power
+  - Each institution brings it's own fallout (and threat of fallout)
+    into the conflict when their dice are brought into the conflict
+    - Institutions each get their own fallout lists
+  - Set up situations like in the strategy of conflict
+- bargaining, communication, and limited war. This is what's happening
+  right now in America
+  - divergence of interest
+  - limited communication
+  - inhibited negotiation
+  - tacit coordination common interests
+    - in places throughout the game, ask "what are the common
+      interests? is there explicit coordination?
+    - Explicit coordination is handled with dogs in the vineyard style
+      conflicts
+    - Tacit coordination is handled with Schelling games and offers an
+      exit from the conflict other than Giving
+
+- NASA in the 60s and spaceX in 2020
+
+* Influences
+- Black Lives Matter
+- Dog Eat Dog by Liam Liwanag Burke
+- Dogs in the Vineyard by D. Vincent Baker
+- Cloud Nine Caryl Churchill
+- The Strategy of Conflict by Thomas C. Schelling
+- The Beast by The Fugees
+
+* Darling Dogs in the Vineyard
+
+  Demonic Influence -> Systems of Oppression
+
+** Dogs? Towns?
+
+   Are the characters villains? if so they are playing the cops, KKK,
+   and slaveholders
+
+   Are the characters the oppressed? if so maybe this isn't dogs in
+   the vineyard? Is dogs a darling?
+
+   Escalation and fallout are the things I want from it, are those
+   essential? extricable from the PC as Villain thing? (sounds like I
+   don't want the PCs to be villains)
+
+   Is this PbtA instead? no
+
+   I think it's the fallout I want. something that builds up over time
+   until you can't breathe. It's what should happen to a villain to
+   incite redemption, but it's also been happening to black people in
+   America as long as it's been here so...
+
+   It's escalation too though and especially being incited into
+   escalation...
+
+   Can I do this with other-kind dice, arenas, and fallout? let's see
+
+* Other-kind coins
+
+  *This whole other-kind dice and coin thing could all be darlings.*
+
+  *it might be worth trying this with pure Dogs dice and bidding first*
+
+  State your goal, can be as broad or as detailed as the narrative
+  demands. The GM and others state risks, maybe there are moves that
+  help guide the statement of goals and risks, the allotment of coins,
+  etc.
+
+  Ask questions about the characters situation and their *motivations*
+  when rolling. They get bonus coins to their pool for relevant
+  motivation. Maybe this can just be stats like dogs first. small
+  steps.
+
+  At the start of a conflict, we both flip a bunch of coins. but
+  instead of seeing, blocking, raising etc. we go back and forth like
+  in other-kind dice. Go back and forth stating actions the other
+  can't ignore, adding risks and assigning coins to achieve actions,
+  avoid risks, etc. The actor gets 3 pennies to flip for risk added.
+
+  The person taking the action assigns up to 2 coins to the outcome
+  and up to 2 coins to any risk. Then the opponent must match or
+  exceed them on the outcome or Give. and may outspend them on the
+  risks or accept the risk occurring.
+
+  if they do it for the outcome with fewer coins, they reverse the
+  blow, and get to keep those coins for later in the conflict, they
+  block if they do it with an equal number of coins, and they take the
+  blow if they do it with more coins, those coins go into the fallout
+  pool. if they match the value on the risks they don't happen, no
+  fallout from there, but no reversing the blow either.
+
+  When the GM adds a risk the PC flips and adds 2? pennies? to their
+  pool.
+
+* Progress
+
+  Like long term project progress
+
+* Cloud Nine Shit
+
+  Narration occurs in one continuous plot that jumps between eras. The
+  narrative is the same continuous whole, but the scenery, specifics,
+  and dates change.
+
+  The story starts on
+  * April 21, 1861: The Confederate attack
+    * The struggle for emancipation
+  * May 17, 1954: The unanimous decision
+    * The struggle for the civil rights bill
+  * November 8, 2016: The election
+    * The current struggle
+
+  The PCs and their narrative runs simultaneously in all three
+  eras. They are not flashbacks, they are the same people in the same
+  situation. They are however, played by different players when the
+  story is in the different eras (hopefully this is manageable,
+  otherwise we drop it. maybe an alternate rule or something).
+
+  NPCs are archetypes, they have "playbooks" that the GM can use to
+  lazily evaluate them, tables and prompts and things. they have
+  details for each era, the 45th, the war, and the movement.
+
+  the PCs are not villains, but they also aren't heroes. They don't
+  have a responsibility to anyone but themselves and whoever else they
+  want. They are allowed to decide to be heroes but the game does not
+  expect them to be.
+
+  How do we determine when we are in what era? explicit scene setting?
+  one era per scene? can a scene switch eras? if so when? just
+  whenever someone wants it to they say that it does? Can one
+  character be in one era than the rest of the scene? why not let's
+  try it?
+
+  A character who dies, does so in all three eras like everything else
+
+  Maybe there is a specific series of scenes or prompts that make up
+  the game, or questions like for the queen, or conflicts.
+
+  Maybe there is a specific series of things that the institutions do
+  and we play within that framework. Maybe they are somewhat
+  randomized, maybe our actions can effect them, but maybe that's
+  supper hard.
+
+  This could be a "The Beast" deck with prompts, events, etc. that
+  becomes a backdrop for play. Choosing what goes into the deck
+  becomes a way to craft the world.
+
+  Scenes -> Goals -> Conflicts -> Fallout
+
+  Institutions get stronger and weaker in each arena
+
+  Characters get stronger and weaker in arenas and institutions
+
+  When institutions get involved in the conflict each character rolls
+  the lower of their dice (in both number and rank) in the institution
+  and the institution's dice in the arena. If it escalates to a new
+  arena do the same for the new arena.
+
+  Example
+  - The police have 6d10 in all physical arenas
+  - The mayor has 6d12 in the police
+  - White privilege gives 2d10 in the police
+  - Black characters get 1d6 in the police
+  - When the police get involved in a physical conflict, white
+    characters roll 2d10, black characters roll 1d6 and the mayor
+    rolls 6d10
+
+  Conflicts:
+  - When a conflict starts, or whenever someone tries to change to a
+    new arena. you gather any dice and see the oppositions pile
+    ask
+    - What are each characters interests?
+    - if the characters are not communicating about the new arena play
+      a Schelling game.
+      - The game is for each to state the same outcome acceptable to
+        both parties in the new arena, given that the conflict will go
+        to the highest escalation level of anyone's stated outcome.
+      - If they coordinate that's the outcome, if not do the conflict
+        - Interesting question here about multiparty coordination. how
+          many parties must coordinate? Perhaps the uncoordinated lose
+          dice for the conflict
+      - If there are interests that are not addressed by the outcome
+        anyone can restart the conflict
+    - Roll dice, take actions the other can't ignore etc. per dogs in
+      the vineyard
+
+* My Darlings
+** Arenas of conflict and motivation
+
+   Fictional position motivational arenas and characters orientation to
+   them. What holds weight to characters? Physical does by default,
+   what about different moralities? Religions? Love? Sex? Money? Peer
+   pressure?  Etc...
+
+   This is used for both advancement, progress along tracks, and can be
+   used to incite a character to escilate conflicts.
+
+   All characters get ratings in the base arenas
+
+   Base Arenas
+   * Social: love, friendship, community, family
+   * Physical: pleasure, pain, injury, restraint, imprisonment
+   * Emotional: curiosity, fear, anger, sadness, joy, disgust,
+     surprise, trust, anticipation
+   * Moral
+   * Agential: Whether you have power over outcomes that matter
+     to you
+   As a group decide if you want to play with any of these
+
+   Optional Arenas
+   * Sexual
+   * Financial
+
+   During character creation each PC will choose some personal arenas
+
+   Example Personal Arenas
+   * Duty
+   * Authority
+   * Acceptance
+   * Intellectual
+
+   When being raised ask, were the characters motivatons threatened,
+   insulted, invoked, or denied to them?
+   * If so they may roll that  motivation dice (but only once)
+
+   Also ask this when taking fallout.
+   * If so add the motivation dice to  the fallout dice (every time).
+
+   Ask this when you *Give*, if so upgrade your permanent fallout die
+   * starts at 1d4 goes through 2d4, 3d4, 1d6, 1d8, 1d10, 1d12, 2d6,
+     3d6, 2d8, 3d8, 2d10, 2d12, 3d10, 3d12
+
+
+   Escalation proceeds within an arena

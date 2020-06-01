@@ -7,6 +7,7 @@ categories = [
   "Mechanics",
   "Cast",
   "Games",
+  "Gaming",
   "Why we play",
   "Design",
 ]
