@@ -9,13 +9,12 @@ categories = [
 ]
 +++
 
-I'm assuming that you are familiar with classic and OSR role playing
-games. Quill won't explain much of what is common to them so If you
-are new to roleplaying, I hope a little internet research will clear
-anything up. If not please let me know either on Twitter
-(@jessebmiller), through email <jesse@jessebmiller.com> or on the
-[Porcupine Studio chat](chat.porcupine.studio) (Discord at the time of
-this writing).
+I'm assuming that you are familiar with role playing games. Quill
+won't explain much of what is common to most of them so If you are new
+to roleplaying, I hope a little internet research will clear anything
+up. If not please let me know either on Twitter (@jessebmiller),
+through email <jesse@jessebmiller.com> or on the [Porcupine Studio
+chat](chat.porcupine.studio) (Discord at the time of this writing).
 
 Quill was influenced by a bunch of great prior work.
 
@@ -60,36 +59,111 @@ you could fucking die.
   deeper safe in the knowledge that if they go too far someone will
   speak up and everyone will step back and change it.
 
+* Basic Rules
+
+  These are the core rules that don't require a roll and that talents
+  may depend on or affect.
+
+** Rest
+
+   There are *short rests* and *long rests*. Each require you to eat
+   and drink. Short rests take about an hour. Long rests take at least
+   8 hours.
+
+** Injury and Death
+
+   For every *injury* you suffer, mark one of the unmarked
+   *injuries*. When all *injuries* are marked *face death*.
+
+** Recovery
+
+   After a *short rest* recover 1d6 *strain*
+
+   After a *long rest* recover all *strain*.
+
+   After a *long rest* if you have an *injury* to recover roll xd6
+   where x is your number of *injuries*. If the highest die is 1-4
+   recover one *injury*
+
+   To recover from all your *injuries*, when you start to rest roll xd6
+   where x is the number of *injuries* you have taken. Rest that many
+   consecutive days to recover all your *injuries*. If someone is
+   tending to you roll one fewer dice.
+
+** Strain
+
+   When *strain* is greater than 12 suffer 1d4 injuries and pass out
+   for 20 minutes or until attended to for at least 1 minute. Upon
+   waking you must immediately take a short rest (which means eat and
+   drink) or pass out again.
+
+*** Pushing
+
+    You can push yourself on any check and take as many of the
+    following as you want as many times as you want but declare it all
+    and take the *strain* before you roll the check.
+
+    - take 1d6 *strain* and gain advantage or lose disadvantage
+      (take this twice to go from disadvantage to advantage)
+    - take 1d6 *strain* and roll 1 die level higher
+    - take 1d8 *strain* and roll 2 die levels higher
+    - take 1d10 *strain* and roll 3 die levels higher
+    - take 1d4 *strain* and reduce the difficulty by 1
+    - take 1d4 *strain* and increase your effective *potential* by 1
+    - take 1d12 *strain* to get an automatic *hit*
+    - take 1d10 *strain* to get an automatic *bust*
+
+*** Resisting
+
+    After you roll you can resist the consequence of a *bust* or a
+    *miss* by paying *strain*. Narrate how you are avoiding it then roll
+    to see how much *strain* you take to do it.
+
+    take 1dx *strain* where x is the same die you rolled for a *miss*
+    and one level lower for a *bust* to a minimum of 4.
+
+** Flashbacks
+
+   Like Forged in the Dark.
+
 * Talents
 
   It's a tabletop role playing game so once the group has read this
   through, followed the instructions, and made some characters (PCs),
   the game master (GM) will describe the situation and the players
-  will say what they do. And on and on it goes until someone does
-  something that might fail.
+  will say what they do and the GM will say "okay" or "make a talent
+  check" (or "wait, let's clarify the fiction"). And back and forth
+  like that.
 
   Quill PCs have *talents* representing the difficult and powerful
   things they can do that might fail. PCs improve at *Talents* by
   earning and spending *experience* on their talents. Things like
-  attacking with a particular weapon, perception, intimidation,
-  casting wizard, cleric, or other spells, sneak attacks, and even
-  keeping animal companions are all *talents*. How capable a PC is at
-  each *talent* is represented by a die size. They all start at d4 and
-  can progress with *experience* through the other die sizes (d6, d8,
-  d10, d12 and d20).
+  fighting with a particular weapon, perception, intimidation, casting
+  wizard, cleric, or other spells, sneak attacks, and even keeping
+  animal companions are all *talents*. How capable a PC is at each
+  *talent* is represented by a die size. They all start at d4 and can
+  progress with *experience* through the other die sizes (d6, d8, d10,
+  d12 and d20).
 
 ** Talent Checks
 
-   When a PC does something that is a *talent*, like attacking with a
+   When a PC does something that is a *talent*, like fighting with a
    weapon, intimidating someone, or casting a spell, roll a check. The
-   *talent* specifies an *ability* to use and the GM determines a
-   difficulty based on the fictional situation. The player rolls their
-   die for that *talent*. If they roll under the difficulty, that's a
-   *miss*. If they roll over the *ability* that's a *bust* (it can be
-   both). Otherwise it's a *hit*
+   *talent* specifies a *potential* based on your character sheet and
+   the GM determines a *difficulty* based on the fictional situation.
+   The player rolls their die for that *talent*. If they roll under
+   the *difficulty*, that's a *miss*. If they roll over the
+   *potential* that's a *bust* (it can be both). Otherwise it's a
+   *hit*. Many talents base *potential* on other talents or even
+   themselves. In these cases use the /die size/ you have in the
+   talent for *potential*. For example, *Gossip* specifies "The lower
+   of *Perception* and *Acquaintances*". Say your *Perception* was
+   *d10* and your *Acquaintances* was *d6* your *potential* for
+   *Gossip* would be *6*
 
    The outcomes of talent checks, especially the consequences for
-   *misses* and *busts*, are what drive the game forward.
+   *misses* and *busts*, are what drive the game forward and unless
+   otherwise stated use this as a guide.
 
    *Hit*: the player narrates their success
 
@@ -102,18 +176,18 @@ you could fucking die.
    complication, setback, or obstacle it causes. A *bust* shouldn't be
    as bad as a *miss*.
 
-   The following shows roughly what each *talent* die level represents
+   This table shows roughly what each *talent* die level represents
    along with rough guidance for the GM to determine a check's
-   difficulty
+   *difficulty*
 
-   | Talent Die Level | Rough Level of Experience | Challenging  Difficulty | Impossible Difficulty |
-   |------------------+---------------------------+-------------------------+-----------------------|
-   | d4               | No training               |                       2 |                     5 |
-   | d6               | Some training             |                       3 |                     7 |
-   | d8               | Well trained              |                       4 |                     9 |
-   | d10              | Expert                    |                       5 |                    11 |
-   | d12              | Expert Specialist         |                       6 |                    13 |
-   | d20              | Godlike                   |                      10 |                    21 |
+   | Talent Die | Level of Experience | Challenging | Impossible |
+   |------------+---------------------+-------------+------------|
+   | d4         | No training         |           2 |          5 |
+   | d6         | Some training       |           3 |          7 |
+   | d8         | Well trained        |           4 |          9 |
+   | d10        | Expert              |           5 |         11 |
+   | d12        | Expert Specialist   |           6 |         13 |
+   | d20        | Godlike             |          10 |         21 |
 
 ** Advantage and Disadvantage
 
@@ -122,326 +196,147 @@ you could fucking die.
    have *disadvantage* roll 2 and take the worse. A *hit* is better
    than *bust* is better than *miss*
 
-** Related Talents
+* Talent properties
 
-   Talent in one area grants some capability in related areas.
-   *Talents* are related to *talents* with a matching tag specified in
-   their description, the *talent* name counts as one of these
-   tags. Whatever die you have in a talent, you've got one level lower
-   in all related talents.
+  There are some properties that are named here, and then simply
+  referenced in their talent description. Things like range for
+  weapons, verbal and somatic components for spells etc.
 
-   For example: The following *talents* are related to each
-   other. Therefore if you've got a d10 in *javelin* you've got at least
-   a d8 in *spear* and *pike* for free.
+** Melee
 
-   *spear* TODO write spear
+   Potential: *Fight* when used in melee range
 
-   *javelin* (spear) TODO write javelin
+** Ranged X Y
 
-   *pike* (spear, pole-arm) TODO write pike
+   Potential: Lower of *Perception* and *Anticipation* when used
+   outside beyond melee range up to X feet. Every Y feet beyond that
+   the target gains 1 *defense*
 
-** Talent Lists
+** Reach
 
-   Talents are organized into lists, each with common rules and
-   defaults that apply to everything in the list. Lists may have
-   sub-lists that further organize talents. Talents in sub-lists have
-   all the rules of the lists as usual and the rules of the list that
-   contains them. The full lists are found in the Appendix (p. ???)
-   and each are described with their general rules below.
+   Potential: *Fight* when used in melee range or just outside of
+   melee range.
 
-   The lists are:
-   - Skills
-     - Crafting
-   - Gear
-     - Weapons
-     - Armor
-   - Spells
-     - Wizard
-     - Cleric
+   When you *fight* just beyond melee range with a *reach* weapon you
+   can keep one opponent from entering melee range until they find an
+   opportunity to close. When you fight with a *reach* weapon in melee
+   range you are *disadvantaged*
 
-** Skills
+   The opponent may move into melee range whenever you *miss*. If they
+   do you must *quick draw* at *disadvantage* in order switch to a
+   melee weapon.
 
-   The most basic *talents* are skills. The classics like *athletics*,
-   *intimidate* and *perception* as well as what might traditionally
-   be class features like *sneak attack*, *divine smite*, and *bardic
-   inspiration* are skills in Quill. They are listed in Appendix B
-   (p. ???) and include everything you need in one description that
-   will specify at least the effect of a *hit* and the *ability* for
-   its use and may specify more like what happens on a *miss* or a
-   *bust* (see p. ??? for defaults), a minimum difficulty (default 0),
-   related *talents* (it's always related to its own name), an
-   *ability* for advancement (see p. ??? for details)
+   The opponent may move into melee range whenever you *bust*. If they
+   do you must *quick draw* with *advantage* in order to switch to a
+   melee weapon.
 
-** Gear
+** Sunder
 
-   PCs have easy access to regular mundane necessities unless
-   otherwise noted. A rule or the fiction could deny access, in which
-   case follow the rule or make a ruling as appropriate to the
-   fiction. Otherwise items are gear *gear* and a *talent*. The
-   descriptions of specific *gear* will give you everything you need
-   to make checks for their use.
+   When you *bust* in addition to other effects, reduce the target's
+   armor by 1
 
-   There will probably be some money system to deal with the cost of
-   gear but for now just make something up based on the fiction.
+** Finesse
 
-*** Weapons
+   For the purposes of determining *defense* when fighting with a
+   *finesse* weapon treat your number of injuries as one fewer. This
+   makes your base unarmored defense 4 with no injuries.
 
-    Weapons are a specific kind of gear so all gear rules apply as
-    well as the following general rules for all weapons
-    - When you attack a target with a weapon roll a check where the
-      difficulty is the targets *DEF*. On a *hit* deal damage as
-      rolled.
-    - The weapon description will include the stat to use
-    - Weapons may have properties that specify more details outlined
-      below.
-    - Weapons can only choose targets melee range (roughly 1.5 meters
-      or 5 feet) by default.
+** Flexible
 
-    Specific weapons are listed in the Appendix (p. ???)
+   Can be used either one handed or two handed.
 
-**** Properties
+* Creating Characters
 
-     *Range* Ranged weapons can attack within their listed range
-     without penalty. For every 10 feet beyond their range however;
-     their target gets +1 *DEF*. For example: attacking someone 50
-     feet away with a weapon that has *range 20* grants the target *+3
-     DEF*.
+  Distribute 2d10, 3d8, and 4d6 to any *talents* you'd like to start
+  with. Only one die level per talent. All PCs can use any *talent* at
+  d4
 
-     *Reach* Weapons with reach can attack 5 to 10 feet away without
-     penalty but targets within 5 feet gain 2 *DEF*.
+  Take as much gear as you want but check with your GM and other
+  players first to make sure everyone is happy with it.
 
-     *Conceal* In order to notice these when concealed by the wielder
-     an observer must *hit* a perception check against 6. They must be
-      removed from concealment for use however.
-
-     *Charge* Charging a target doubles the number of wounds and stress
-     caused by the attack. Charging is moving more than half your
-     movement in a round in a straight line towards the target.
-
-     *Brace* Doubles wounds and stress caused by an attack if the
-     weapon is braced on the ground---or other steady object like a tree
-     or a wall---against a charging opponent.
-
-     *Mount* Mount weapons can be used without penalty while riding a
-     mount but all targets gain 2 *DEF* when wielded on foot. If a
-     specific mount is noted, for example *horse mount* or *dragon
-     mount* the penalty applies any time the wielder is no on the
-     specified mount.
-
-     *Mounted charge* See *charge* but only apply to bonus if the
-     wielder is mounted. A specific mount may be required as per
-     *mount*.
-
-     *Formation* Attack with no penalty when used by an individual or
-     coordinated group who are in formation and do not have more
-     enemies focused on and able to attack them than they do have
-     adjacent formation members. Their targets gain *+2 DEF*
-     otherwise. For example: a group of 2 in formation with pikes side
-     by side against 3 attackers on foot attack as normal if the
-     attackers are each focused on one pike wielder. However if the 2
-     attackers move to one side of the formation and attack one of the
-     pike wielders on the end they gain *+2 DEF*.
-
-*** Armor
-
-    This is a special case because *armor*, once made and worn, does
-    not take talent to be effective. When worn you gain the amount of
-    *armor* in its description.
-** Spells
-
-   Anyone can learn magic. You don't have to be a Wizard or anything.
-   If you decide to learn to cast wizard spells you're a fucking
-   wizard. You can learn spells from any spell list. If you pleased a
-   god and were granted a cleric spell, you're also a fucking cleric.
-   In fact, because the default die for every *talent* is a d4
-   everyone starts out able to cast all spells, just not very well and
-   they'll probably fail because...
-
-   All spells have a *spell level* (1-9) and have a minimum difficulty
-   of their level + 3. Go ahead, Try casting wish with your default
-   d4, you'll *miss* and it'll backfire on you bad.
-
-   Spells have failure tables for their *misses*. When you *miss* a
-   spell check, look up the effect of your die roll on the table in
-   the spell's description, or the default table below if the spell
-   doesn't have a listing for your roll. In addition take the spell
-   level in stress.
-
-   | Roll | Default Miss Effect                                         |
-   |------+-------------------------------------------------------------|
-   |    1 | The caster is struck by astral lightning. Make a *STR*      |
-   |      | save against *torn muscles*                                 |
-   |------+-------------------------------------------------------------|
-   |    2 | A pit 20 feet deep opens up below the caster who falls      |
-   |      | in. Make a *DEX* save against *broken bones*.               |
-   |------+-------------------------------------------------------------|
-   |    3 | Shadow spiders are summoned and begin nesting in the        |
-   |      | caster's gut. Make a *CON* save against *internal bleeding* |
-   |------+-------------------------------------------------------------|
-   |    4 | The Caster's mind is wracked by unnatural concussion.       |
-   |      | Make a *INT* save against *Delirious Confusion              |
-   |------+-------------------------------------------------------------|
-   |    5 | The caster is overcome with terrors. Make a *WIS* save      |
-   |      | against *delirious confusion*.                              |
-   |------+-------------------------------------------------------------|
-   |    6 | The caster sees a vision of their own weakness. Make a      |
-   |      | *CHA* save against *wounded pride*                          |
-   |------+-------------------------------------------------------------|
-   |    7 | The caster is flung about violently. Take a wound.          |
-   |------+-------------------------------------------------------------|
-   |    8 | The caster is engulfed in a flash of magic flame. Take      |
-   |      | a wound                                                     |
-   |------+-------------------------------------------------------------|
-   |    9 | All the caster's organs vanish for an instant. Take a       |
-   |      | wound.                                                      |
-   |------+-------------------------------------------------------------|
-   |   10 | An angered angel crushes the caster with shame. Take two    |
-   |      | wounds                                                      |
-   |------+-------------------------------------------------------------|
-   |   11 | An eager demon touches the caster's heart. Take two wounds. |
-   |------+-------------------------------------------------------------|
-   |   12 | An vengeful god reveals the casters weakness to all         |
-   |      | present. Take *wounded pride* then make three *CHA*         |
-   |      | saves against one wound each.                               |
-
-   Spell lists and descriptions can be found in the Appendix
-
-* Adventuring
-** Creating Characters
-
-   Quill characters are very easy to create.
-
-   1. Roll 1d6+4 six times and distribute the results to the 6
-      *abilities*.
-   2. Distribute this array of dice [d10, d8, d8, d6, d6, d6] to any
-      *talents* you'd like to start with. Remember all PCs can use any
-      *talent* at d4
-   3. Take as much *gear* as you want to start the game carrying on
-      you
-   4. Complete the remaining calculations on the character sheet. Make
-      a copy of this spreadsheet or follow its calculations on a sheet
-      of paper
-      https://docs.google.com/spreadsheets/d/1Kk8qv-6OAniIrIJ5gkK1HLH9N-pHM04qMQi9lM2Juhk/edit?usp=sharing
-      Don't worry... there will be a real character sheet some day,
-      it's just too early in development right now.
-
-** Stress
-
-   When stress is greater than your third highest ability score you
-   take 1d6 - 1 wounds and pass out for 20 minutes or until attended
-   to for at least 1 minute. Upon waking you must immediately take a
-   short rest (which means eat and drink) or pass out again.
-
-*** Pushing
-
-    You can push yourself on any check and take as many of the
-    following as you want as many times as you want but declare it all
-    before you roll the check.
-
-    - take 1d6 -1 stress and gain advantage or lose disadvantage
-      (take this twice to go from disadvantage to advantage)
-    - take 1d6 -1 stress and roll 1 die level higher
-    - take 1d8 -1 stress and roll 2 die levels higher
-    - take 1d10 -1 stress and roll 3 die levels higher
-    - take 1d4 -1 stress and reduce the difficulty by 1
-    - take 1d4 -1 stress and increase your effective ability score by 1
-     for this check
-    - take 1d12 -1 stress to get an automatic *hit*
-    - take 1d10 -1 stress to get an automatic *bust*
-
-*** Resisting
-
-    After you roll you can resist the consequence of a *bust* or a
-    *miss* by paying stress. Narrate how you are avoiding it then roll
-    to see how much stress you take to do it.
-
-    take 1dx -1 *stress* where x is the same die you rolled for a
-    *miss* and one level lower for a *bust* to a minimum of 4.
-
-** Wounds and Death
-
-   For every wound you take, mark one of the unmarked wound boxes on
-   your character sheet. Each one comes with it's own particular
-   drawback. When all wounds are marked you die.
-
-*** The Six Wounds
-
-    - *Torn Muscles*: Make checks with effective *STR* of 4
-    - *Broken Bones*: Make checks with effective *DEX* of 4
-    - *Internal Bleeding*: Make checks with effective *CON* of 4
-    - *Delirious Confusion*: Make checks with effective *INT* of 4
-    - *Traumatic Brain Injury*: Make checks with effective *WIS* of 4
-    - *Wounded Pride*: Make checks with effective *CHA* of 4
-
-** Movement
-
-   Your movement is 30 feet and you can hike a number of miles equal
-   to *CON* before needing a *short rest*. You can make that hike twice
-   before needing a *long rest*.
-
-** Rest and Recovery
-
-   There are *short rests* and *long rests*. Each require you to eat
-   half a *load* of food and drink. Short rests take about an
-   hour. Long rests take at least 8 hours.
-
-   After a short rest roll xd6 where x is your stress. remove the
-   lowest die worth of stress
-
-   After a long rest remove all stress.
-
-   To recover from your wounds, when you start to rest roll xd6 where
-   x is the number of wounds you have taken. Rest that many
-   consecutive days to recover all your wounds.
+  Complete the calculations on your chatacter sheet.
 
 * Advancement
 
   When you *push yourself* and *miss* using a *talent* mark its
   Experience Points (*XP*). Once you've marked enough *XP* in a talent
-  you may *advance the talent*.
-
-  When you *push yourself* on an *ability save* and fail mark *ability
-  XP*. When you have enough experience from anywhere---you may spend
-  experience marked against a *talent* for this---you may *advance an
-  ability*.
+  you may advance it to its next highest die by paying an amount of
+  experience equal to its rank (6, 8, 10, 12, or 20).
 
   Advance only during a long rest.
 
-** Advance the talent
+* Appendix A: Talents
+** Anticipation
 
-   When you've got enough XP in a *talent* you may *advance the
-   talent* to its next highest die by paying an amount of experience
-   equal to its max (6, 8, 10, 12, or 20).
+   Potential: *Anticipation* - 4
 
-   If the *talent* description includes an *ability* "to advance"
-   ("*INT* to advance" for example) you need to roll that next highest
-   die under the *ability*. If you do, *advance the talent* to that
-   next die. If you *bust*, don't advance but do refund yourself an
-   amount of experience equal to your roll.
+   Roll when you think you could have *anticipated* something. Say how
+   you anticipated it and how you are prepared.
 
-** Advance an Ability Score
+** Acquaintances
 
-   You may *advance an ability score* by one if you pay an amount of
-   *XP* equal to the number you are advancing to. Advancing *CON* from
-   7 to 8 costs 8 *XP*. You may spend *XP* that was marked against any
-   *talent* for this.
+   Potential: *Acquaintances* - 3
 
-* Hacking Quill
+   Roll when you leverage someone you happen to know from here or
+   there. Say who it is by name and how you know them. Say how they
+   are helpful to know and what advantage or outcome you gain from
+   knowing them. Do they help you out themselves? Does dropping their
+   name get you in somewhere? GM sets a difficulty after hearing the
+   outcome.
 
-  TODO Not needed for the play test, but you should be able to bring
-  in spells at least pretty easy. Might need some guidance using
-  monster stat blocks or weapons or class features and so on.
+   *Hit* The player narrates the success
 
-* Appendix A: Skills
+   *Bust* You gain the advantage or outcome but the acquaintance
+   expects a favor, is displeased, or there is some other unintended
+   consequence
+
+   *Miss* You don't get the outcome you were hoping for. Choose 1
+   - The acquaintance expects a favor
+   - The acquaintance actively works against you
+   - The acquaintance puts you at a disadvantage
+
+** Face Death
+
+   Potential: *Face Death*-4
+   Difficulty: 4
+
+   *Hit* You are incapacitated until you've healed an injury. Roll as per
+   *long rest recovery* but without the requirement to eat and drink---you are
+   unable to in a coma---and only once a day. If you don't heal an
+   injury within 6 days you die.
+
+   *Bust* You are incapacitated and must heal an injury fast. Roll as
+   per *long rest recovery* as above. If you don't heal an injury you
+   die.
+
+   *Miss* You die
+
+** Perception
+
+   Potential: *Perception* - 2
+
+   Hitchcock's Bomb, the players should be let in on it even if the
+   characters are not. This roll should be about figuring out how much
+   the PCs notice.
+
+   GM honestly summarizes all the things available from the characters
+   fictional position.
+
+   *Hit* notice at least 3, at most all but 1
+
+   *Bust* notice at least 1 at most all but 3
+
+   *Miss* <something other than "whelp nope">
 
 ** Gossip
 
-   *sight* to use
+   Potential: Lower of *Perception*, *Acquaintances*
 
-   Roll when you do something that relies on a rumor's veracity that
-   you heard through gossip. Players can invent these on the fly.
+   Roll when you do something that relies on a plausible rumor's
+   veracity that you heard through gossip. Players can invent these on
+   the fly.
 
-   *hit* the rumor is true
+   *Hit* the rumor is true
 
    *bust* the rumor is true but it's just the tip of the iceberg choose one
    1. you're in over your head
@@ -450,33 +345,184 @@ you could fucking die.
 
    *miss* the rumor was false or misleading
 
-* Appendix B: Gear
-** Weapons
+** Fight
+
+   Potential: Lower of 4 and *fight*-4 when fighting unarmed and the
+   lower of 6 and *fight*-4 when fighting with improvised weapons
+   like sticks, stones, or other tools not intended as weapons.
+
+   When you fight toe to toe in melee (close) range roll with a
+   difficulty of your opponent's *defense*.
+
+   When you fight with a *weapon* that weapon's properties replace
+   *fight's* properties.
+
+   *Hit* The target must *face damage* as rolled
+
+   *Bust* The target's next roll is at *disadvantage*
+
+   *Miss* Your next roll is at *disadvantage*
+
+** Face Damage
+
+   Potential: Infinity
+
+   When you are hit by a weapon, fall from a great height, or
+   otherwise *face damage* roll with a difficulty of the damage faced.
+
+   *Hit* GM chooses one as appropriate
+   - suffer 2 strain for unarmed or improvised weapon
+   - suffer 3 strain for a one handed weapon
+   - suffer 5 strain for a two handed weapon
+   - potentially more strain based on the circumstances. How high a
+     fall was, how sharp the rocks are etc.
+
+   *Miss* GM chooses one as appropriate
+   - suffer 8 strain for an unarmed attack
+   - suffer 10 strain for an improvised weapon
+   - suffer 1 injury if hit by a one handed weapon
+   - suffer 2 injuries if hit by a two handed weapon
+   - potentially more injuries based on the circumstances. How high a
+     fall was, how sharp the rocks are etc.
+
+** Quick Draw
+
+   Potential: *Anticipation*
+
+   Roll when you *quick draw* a weapon.
+
+   *Hit* You draw quickly. Immediately make another move.
+
+   *bust* You draw relatively quickly, Immediately make another move
+   with *disadvantage*.
+
+   *Miss* You draw the weapon, but not very quickly. Others have an
+   opportunity to make a move
+* Appendix B: Special Talents
+** Coin
+
+   Potential: Higher of *perception* and *anticipation*
+
+   Coin is not earned with experience but is worked for, traded for,
+   found, stolen and so on. When you earn substantial *coin* increase
+   the die size. PCs can't carry more than d12 coin on them.
+
+   Roll when you spend *coin* to buy supplies or gear. The GM will
+   come up with a difficulty representing the price based on rarity
+   and cost to produce.
+
+   *Hit* you can easily afford it
+
+   *bust* You can afford it at some cost. Either don't buy it or
+   reduce your coin die by one rank.
+
+   *miss* You can afford it only at great cost (or not at all). Either
+   don't buy it or reduce your coin by 3 ranks.
+
+   Coin can be reduced to d0 (but not below)
+
+** Supplies
+
+   Supply dice are not bought with experience, they are bought with
+   coin.
+
+   Potential: Higher of *perception* and *anticipation*
+
+   During a rest roll with a difficulty of your *strain* for each
+   supply (meals, ammunition, etc.) you've used during this
+   rest or at all since your last rest.
+
+   *Hit* There are plenty more
+
+   On a *bust* There are 5 more and on a *miss* there are 2
+   more. Track these individually without rolling *supplies*
+
+* Appendix C: Gear
+** Thieves tools
+
+   Potential: the quality of the tools
+
+   | Potential | Tool Quality                |
+   |-----------+-----------------------------+
+   |         2 | Improvised                  |
+   |         4 | Poor                        |
+   |         6 | Average                     |
+   |         8 | High                        |
+   |        10 | Specialized or Expert Maker |
+   |        12 | Advanced or Magic           |
+   |        20 | Divine or Made by a God     |
+
+   With enough persistence you can get past any lock. The only
+   question is how much time will it take and how much attention will
+   you draw. When you try to get past a lock roll any die up to
+   *thieves tools*.
+
+   Difficulty: the quality of the lock
+
+   | Difficulty | Lock Quality                | Time on Hit | Time on Bust | Time on Miss |
+   |------------+-----------------------------+-------------+--------------+--------------|
+   |          2 | Poor                        | Seconds     | 1 Minute     | 5 Minutes    |
+   |          3 | Average                     | Seconds     | 2 Minutes    | 1 Hour       |
+   |          4 | High                        | Minutes     | 1 Hour       | 3 Hours      |
+   |          5 | Specialized or Expert Maker | 1 Hour      | 3 Hours      | 10 Hours     |
+   |          6 | Advanced or Magic           | 2 Hours     | 6 Hours      | 2 Days       |
+   |         10 | Divine or Made by a God     | 5 Hours     | 2 Days       | 1 Week       |
+
+** Camping Kit
+
+   You've got everything you need to make camp. Gain advantage on
+   *short rest* recovery rolls.
+
 ** Armor
-* Appendix C: Spell Lists
-* Appendix D: Conditions
 
-  Some rules will call for one of these conditions, or will be active
-  only during a condition.
+   When you get armor, do all the character sheet calculations for
+   when you wear it so that you don't have to figure it all out during
+   a scene.
 
-** Staggered
+** Leather
 
-   Make a d20 check against the highest of your STR, DEX, and CON
-   with the difficulty specified by the rule that called for the
-   stagger. For example if the rule said "*stagger 5*", the difficulty
-   of the check is 5
+   Armor Rating: 4 - number of injuries
 
-   *Miss*: fall prone
+** Chain Mail
 
-   *Bust*: All checks next round have disadvantage
+   Armor Rating: 5
 
-** Prone
+   *Fight* at *disadvantage*
 
-   You've fallen to the ground either purposely or otherwise. If you
-   were prone this round, attacks against you have advantage if the
-   attacker is close, and have disadvantage otherwise. It takes half
-   your movement to stand up.
+** Plate
 
-* Appendix E: Monsters and Challenges
+   Armor Rating: 6
+
+   *Fight* at *disadvantage*, opponents fight at *advantage*
+
+** Shield
+
+   Armor Rating: +1, cannot use weapons two handed.
+
+** Weapons
+*** Spear
+
+    Reach, Flexible, Ranged 40
+
+*** Hand Axe
+
+    Melee, Sunder
+
+*** Battle Axe
+
+    Melee, Two Handed, Sunder
+
+*** Sword
+
+    Melee, Finesse
+
+*** Long Sword
+
+    Melee, Two Handed, Finesse
+
+*** Bow
+
+    Ranged 120
+
 
 

@@ -8,18 +8,76 @@ categories = [
 ]
 +++
 
-The object of the game is to become liberated but you might not
-because the system is more powerful, brutal, and organized than you
+The object of the game is to see yourself liberated but you might not
+because the system is more powerful, more brutal, and more organized
+than you
 
-The object of the game is to see liberation in your communities but
-you might not because the system is more powerful, brutal, and
+The object of the game is to see your communities liberated but you
+might not because the system is more powerful, more brutal, and more
 organized than you
 
-The object of the game is to apply power and privilege to liberation
-and justice but you might not because the system is more powerful,
-brutal, and organized than you
+The object of the game is to apply your power and privilege to
+liberation and justice but you might not because the system is more
+powerful, more brutal, and more organized than you
 
-The game is about power, brutality, and organization
+The Beast in the Garden is about power, brutality, and organization
+
+The Beast in the Garden is about liberation and justice
+
+The Beast in the Garden is about a social justice cold war
+
+* The Game Structure
+
+  Dogs in the Vineyard conflicts and fallout
+  + escalation dice for institutional support
+  + institution specific fallout
+  + dice and escalation options for being organized, brutal
+  + Tacit coordination deescalation Schelling games
+
+  
+
+  Narration occurs in one continuous plot that jumps between eras yet
+  is the same continuous plot. The scenery, specifics, and dates
+  change, but it's the same story.
+
+  The story starts on
+  * April 21, 1861: The Confederate attack and the struggle for
+    emancipation
+  * May 17, 1954: The unanimous decision and the struggle for the
+    civil rights bill
+  * November 8, 2016: The 45th election and the struggle for the
+    mattering of Black lives
+
+* Institutions
+
+  - Government (Policy, Courts, Enforcement) claims a monopoly on the
+    legitimate use of violence. Is generally granted that monopoly.
+  - Media writes public opinion which grants government violence
+    legitimacy, as long as it falls within accepted moral bounds.
+  - Religious have a monopoly on the definition of accepted moral
+    bounds.
+  - White Nationalist attempt to reverse the work of activists and
+    increase white power through the oppression of all other power.
+
+  Institutions have moves and 
+
+* Player Characters
+
+  - Activist attempt to disrupt the institutional status-quo.
+  - Regular Folks just trying to live their lives, be good people, and
+    find prosperity.
+
+  The PCs and their narrative runs simultaneously in all three
+  eras. They are not flashbacks, they are the same people in the same
+  situation.
+
+  the PCs are not villains, but they also aren't heroes. They don't
+  have a responsibility to anyone but themselves and whoever else they
+  want. They are allowed to decide to be heroes but the game does not
+  expect them to be.
+
+* Conflicts
+
 
 * Morgue
 - Institutions
@@ -52,7 +110,9 @@ The game is about power, brutality, and organization
 
 * Influences
 - Black Lives Matter
+- Southern Poverty Law Center
 - Dog Eat Dog by Liam Liwanag Burke
+- Ironsworn by Shawn Tomkins
 - Dogs in the Vineyard by D. Vincent Baker
 - Cloud Nine Caryl Churchill
 - The Strategy of Conflict by Thomas C. Schelling
@@ -129,33 +189,6 @@ The game is about power, brutality, and organization
 
 * Cloud Nine Shit
 
-  Narration occurs in one continuous plot that jumps between eras. The
-  narrative is the same continuous whole, but the scenery, specifics,
-  and dates change.
-
-  The story starts on
-  * April 21, 1861: The Confederate attack
-    * The struggle for emancipation
-  * May 17, 1954: The unanimous decision
-    * The struggle for the civil rights bill
-  * November 8, 2016: The election
-    * The current struggle
-
-  The PCs and their narrative runs simultaneously in all three
-  eras. They are not flashbacks, they are the same people in the same
-  situation. They are however, played by different players when the
-  story is in the different eras (hopefully this is manageable,
-  otherwise we drop it. maybe an alternate rule or something).
-
-  NPCs are archetypes, they have "playbooks" that the GM can use to
-  lazily evaluate them, tables and prompts and things. they have
-  details for each era, the 45th, the war, and the movement.
-
-  the PCs are not villains, but they also aren't heroes. They don't
-  have a responsibility to anyone but themselves and whoever else they
-  want. They are allowed to decide to be heroes but the game does not
-  expect them to be.
-
   How do we determine when we are in what era? explicit scene setting?
   one era per scene? can a scene switch eras? if so when? just
   whenever someone wants it to they say that it does? Can one
@@ -216,50 +249,71 @@ The game is about power, brutality, and organization
       the vineyard
 
 * My Darlings
-** Arenas of conflict and motivation
+** NPCs
 
-   Fictional position motivational arenas and characters orientation to
-   them. What holds weight to characters? Physical does by default,
-   what about different moralities? Religions? Love? Sex? Money? Peer
-   pressure?  Etc...
+   NPCs are archetypes, they have "playbooks" that the GM can use to
+   lazily evaluate them, tables and prompts and things. They have
+   details for each era, the 45th, the war, and the movement.
 
-   This is used for both advancement, progress along tracks, and can be
-   used to incite a character to escilate conflicts.
+*** Bad Cop
 
-   All characters get ratings in the base arenas
+    Explicitly racist. Coordinated and affiliated with white
+    nationalists
 
-   Base Arenas
-   * Social: love, friendship, community, family
-   * Physical: pleasure, pain, injury, restraint, imprisonment
-   * Emotional: curiosity, fear, anger, sadness, joy, disgust,
-     surprise, trust, anticipation
-   * Moral
-   * Agential: Whether you have power over outcomes that matter
-     to you
-   As a group decide if you want to play with any of these
+*** Good Cop
 
-   Optional Arenas
-   * Sexual
-   * Financial
+    but not good enough to organize and arrest the bad cops
 
-   During character creation each PC will choose some personal arenas
+*** City Politician
+*** Reporter
+*** Religious Leader
+*** White Nationalist Organizer
+*** Activist Organizer
+*** Citizen
+*** Arenas of conflict and motivation
 
-   Example Personal Arenas
-   * Duty
-   * Authority
-   * Acceptance
-   * Intellectual
+    Fictional position motivational arenas and characters orientation to
+    them. What holds weight to characters? Physical does by default,
+    what about different moralities? Religions? Love? Sex? Money? Peer
+    pressure?  Etc...
 
-   When being raised ask, were the characters motivatons threatened,
-   insulted, invoked, or denied to them?
-   * If so they may roll that  motivation dice (but only once)
+    This is used for both advancement, progress along tracks, and can be
+    used to incite a character to escilate conflicts.
 
-   Also ask this when taking fallout.
-   * If so add the motivation dice to  the fallout dice (every time).
+    All characters get ratings in the base arenas
 
-   Ask this when you *Give*, if so upgrade your permanent fallout die
-   * starts at 1d4 goes through 2d4, 3d4, 1d6, 1d8, 1d10, 1d12, 2d6,
-     3d6, 2d8, 3d8, 2d10, 2d12, 3d10, 3d12
+    Base Arenas
+    * Social: love, friendship, community, family
+    * Physical: pleasure, pain, injury, restraint, imprisonment
+    * Emotional: curiosity, fear, anger, sadness, joy, disgust,
+      surprise, trust, anticipation
+    * Moral
+    * Agential: Whether you have power over outcomes that matter
+      to you
+    As a group decide if you want to play with any of these
+
+    Optional Arenas
+    * Sexual
+    * Financial
+
+    During character creation each PC will choose some personal arenas
+
+    Example Personal Arenas
+    * Duty
+    * Authority
+    * Acceptance
+    * Intellectual
+
+    When being raised ask, were the characters motivatons threatened,
+    insulted, invoked, or denied to them?
+    * If so they may roll that  motivation dice (but only once)
+
+    Also ask this when taking fallout.
+    * If so add the motivation dice to  the fallout dice (every time).
+
+    Ask this when you *Give*, if so upgrade your permanent fallout die
+    * starts at 1d4 goes through 2d4, 3d4, 1d6, 1d8, 1d10, 1d12, 2d6,
+      3d6, 2d8, 3d8, 2d10, 2d12, 3d10, 3d12
 
 
-   Escalation proceeds within an arena
+    Escalation proceeds within an arena
