@@ -5,7 +5,7 @@ subtitle = ""
 date = 2020-05-22T07:44:45-05:00
 draft = true
 categories = [
-  "Games",
+  "Playtest Documents",
 ]
 +++
 
@@ -18,7 +18,7 @@ chat](chat.porcupine.studio) (Discord at the time of this writing).
 
 Quill was influenced by a bunch of great prior work.
 
-*Dungeons & Dragons* by Wizards of the Coast.
+*Dungeons & Dragons* by Wizards of the Coast
 
 *Blades in the Dark* by John Harper
 
@@ -26,26 +26,26 @@ Quill was influenced by a bunch of great prior work.
 
 Thank you for the path you blazed!
 
-The object of Quill is to become powerful by the experience of
-dangerous adventure but you might not because the danger is real and
-you could fucking die.
+The object of Quill is to *become powerful* by the *experience of
+dangerous adventure* but you might not because the *danger is real*
+and *you could fucking die*.
 
 * Design Goals
 
   - *Oppinionated*. Strong choices for a focused audience
-  - *Minimal quick math* Move as many calculations out of the flow of
-    play and into character creation or session downtime
+  - *Minimal quick math* Move calculations out of the flow of play and
+    into character creation or session downtime
   - *Simple rule set* Minimal cross references and look ups,
     especially during the flow of play.
   - *Large design space* Support hacking and custom content.
   - *Efficient expert execution* Once a group masters the system, they
-    all should easily maintain continuity and agreement the whole of
-    the fiction
+    all should easily maintain continuity and agreement about the
+    whole of the fiction
   - *Enjoyable* Even groups that haven't yet mastered the system
-    should none the less enjoy their time playing.
+    should none the less enjoy their time playing
   - *Rules that drive the game* Rules should always drive the goals of
     the game, and may take players out of their characters to do so.
-  - *Consiceness* It should be a small core ruleset that fits in a
+  - *Zine friendly* It should be a small core ruleset that fits in a
     small book. Expansions should fit in similarly small books.
 
 * Safety
@@ -526,3 +526,14 @@ you could fucking die.
 
 
 
+
+* License
+
+This work is licensed under a Creative Commons Attribution 4.0
+International License (http://creativecommons.org/licenses/by/4.0/).
+
+This work is based on *Blades in the Dark* (found at
+http://www.bladesinthedark.com/), product of One Seven Design,
+developed and authored by John Harper, and licensed for our use under
+the Creative Commons Attribution 3.0 Unported license
+(http://creativecommons.org/licenses/by/3.0/).

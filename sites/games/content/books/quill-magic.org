@@ -1,0 +1,62 @@
++++
+title = "Quill Magic"
+subtitle = ""
+date = 2020-06-03T10:25:46-05:00
+draft = true
+categories = [
+  "Playtest Documents",
+]
++++
+
+Quill Magic expands Quill with optional rules for adding magic to your
+games.
+
+Quill Magic was influenced by and is compatable with *Dungeons &
+Dragons* magic.
+
+Other mechanics influenced by
+
+*Blades in the Dark* by John Harper
+
+*Apocalypse World* by Meguey and D. Vincent Baker
+
+* Prevalence of Magic
+
+  Decide with your group how prevalent you'd like magic to be in your
+  setting. Does everyone have a little latent ability that could be
+  nurtured and progressed? Does it require years of work with a
+  willing teacher? Is it only a lucky few who were born with a magical
+  ability?
+
+  Also decide the nature of magic. Can it be wielded by those who have
+  learned the correct preparations? Can it be channeled through direct
+  force of concentration and will? Is it an ability the gods grant to
+  their faithful or their means of acting through them? Is it the
+  result of a ritual correctly performed?
+
+* Magic Talents
+
+** Prepare Spell
+
+** Channel Spell
+
+** Spell Prayer
+
+** Spell Ritual
+
+* Spells
+
+  Quill spells can be used from just about any game with 9 level spell
+  lists.
+
+* License
+
+This work is licensed under a Creative Commons Attribution 4.0
+International License (http://creativecommons.org/licenses/by/4.0/).
+
+This work is based on *Blades in the Dark* (found at
+http://www.bladesinthedark.com/), product of One Seven Design,
+developed and authored by John Harper, and licensed for our use under
+the Creative Commons Attribution 3.0 Unported license
+(http://creativecommons.org/licenses/by/3.0/).
+
