@@ -1,6 +1,6 @@
 +++
 title = "Quill"
-version = "0.2.0-draft"
+version = "0.3.0-draft"
 subtitle = ""
 date = 2020-05-22T07:44:45-05:00
 draft = true
@@ -59,7 +59,28 @@ and *you could fucking die*.
   deeper safe in the knowledge that if they go too far someone will
   speak up and everyone will step back and change it.
 
-* Basic Rules
+* Judgment calls
+
+  When you play, you’ll make several key judgment calls. Everyone
+  contributes, but either the players or the GM gets final say for
+  each:
+
+  - Which actions are reasonable as a solution to a problem? /Can this
+    person be intimidated? Must we get out the thieves tools and/
+    /tinker with this old rusty lock, or could it also be quietly
+    finessed?/ The players have final say.
+  - How dangerous and how effective is a given action in this
+    circumstance? /How risky is this? Can this person be swayed very
+    little or a whole lot?/ The GM has final say.
+  - Which consequences are inflicted to manifest the dangers in a
+    given circumstance? /Does this fall from the roof break your leg?
+    Do the constables merely become suspicious or do they already have/
+    /you trapped?/ The GM has final say.
+  - Does this situation call for a dice roll, and which one? /Is your
+    character in position to make an action roll or must they first/
+    /make a resistance roll to gain initiative?/ The GM has final say.
+
+* The Basics
 
   These are the core rules that don't require a roll and that talents
   may depend on or affect.
@@ -124,26 +145,127 @@ and *you could fucking die*.
 
 ** Flashbacks
 
-   Like Forged in the Dark.
+   The rules don’t distinguish between actions performed in the
+   present moment and those performed in the past. When an operation
+   is underway, you can invoke a flashback to roll for an action in
+   the past that impacts your current situation. Maybe you convinced
+   the district Watch sergeant to cancel the patrol tonight, so you
+   make a Sway roll to see how that went.
 
-* Talents
+   The GM sets a *strain* cost when you activate a flashback action.
+
+   - 0 Strain: An ordinary action for which you had easy
+     opportunity. Consorting with a friend to agree to arrive at the
+     dice game ahead of time, to suddenly spring out as a surprise
+     ally.
+   - 1 Strain: A complex action or unlikely opportunity. Finessing
+     your pistols into a hiding spot near the card table so you could
+     retrieve them after the pat-down at the front door.
+   - 2 (or more) Strain: An elaborate action that involved special
+     opportunities or contingencies. Having already Studied the
+     history of the property and learned of a ghost that is known to
+     haunt its ancient canal dock—a ghost that can be compelled to
+     reveal the location of the hidden vault.
+
+   After the strain cost is paid, a flashback action is handled just
+   like any other action. Sometimes it will entail an action roll,
+   because there’s some danger or trouble involved. Sometimes a
+   flashback will entail a fortune roll, because we just need to find
+   out how well (or how much, or how long, etc.). Sometimes a
+   flashback won’t call for a roll at all because you can just pay the
+   strain and it’s accomplished.
+
+   If a flashback involves a downtime activity, pay 1 coin or 1 rep
+   for it, instead of strain.
+
+   One of the best uses for a flashback is when the engagement roll
+   goes badly. After the GM describes the trouble you’re in, you can
+   call for a flashback to a special preparation you made, “just in
+   case” something like this happened. This way, your “flashback
+   planning” will be focused on the problems that _do _happen, not the
+   problems that might happen.
+
+*** Limits of flashbacks
+
+    A flashback isn’t time travel. It can’t “undo” something that just
+    occurred in the present moment. For instance, if an Inspector
+    confronts you about recent thefts of occult artifacts when you’re
+    at the Lady’s party, you can’t call for a flashback to assassinate
+    the Inspector the night before. She’s here now, questioning
+    you---that’s established in the fiction. You can call for a
+    flashback to show that you intentionally tipped off the inspector
+    so she would confront you at the party---so you could use that
+    opportunity to impress the Lady with your aplomb and daring.
+
+**** Flashback examples
+
+     > “I want to have a flashback to earlier that night, where I sneak
+     > into the stables and feed fireweed to all their goats so they’ll
+     > go berserk and create a distraction for our infiltration.”
+     >
+     > “Ha! Nice. Okay, that’s seems a bit tricky, dealing with ornery
+     > goats and all... 1 strain.”
+     >
+     > “Should I roll Prowl to sneak in and plant it?”
+     >
+     > “Nah. Their goat stable security amounts to a stable boy who is
+     > usually asleep anyway. You can easily avoid their notice.”
+     >
+     > “So it just works?”
+     >
+     > “Eh... not so fast. When you want the distraction to hit, let’s
+     > make a fortune roll to see how crazy the Fireweed Goat Maneuver
+     > gets. Three dice.”
+
+     ---
+
+     > “The engagement roll is... a 2. Looks like a desperate situation
+     > for you! Hmmm. Okay, so you’re inside the gang’s compound at the
+     > docks, slipping up through the shadows next to some huge metal
+     > storage tanks. But then all the electric lights come on. The big
+     > metal warehouse door rolls open, and you hear a heavy wagon
+     > coming in through the gate. Looks like they’re getting a delivery
+     > right now, and a bunch of gang members are out to receive
+     > it. They’re about to be on top of you. What do you do?”
+     >
+     > “Hang on, I want to have a flashback.”
+     >
+     > “Okay, for what?”
+     >
+     > “Uh. Something... helpful? Damn, I don’t know what that would
+     > be. Anyone have ideas?”
+     >
+     > “Oh, what if you Consorted with your docker friends yesterday and
+     > they blabbed about this delivery, so we rigged it with a bomb.”
+     >
+     > “Oh man, that’s hilarious. But kind of nuts. I guess 2 strain for
+     > that?”
+     >
+     > “Sounds good. But let’s make that Consort roll and see if your
+     > docker friends made any demands or complicated anything for
+     > you. Then we need to find out how well this bomb works. Who was
+     > in charge of that?”
+     >
+     > “I did it. I’ll roll Tinker to set the fuse just
+     > right. Hopefully.”
+* The Talents
 
   It's a tabletop role playing game so once the group has read this
   through, followed the instructions, and made some characters (PCs),
   the game master (GM) will describe the situation and the players
   will say what they do and the GM will say "okay" or "make a talent
-  check" (or "wait, let's clarify the fiction"). And back and forth
-  like that.
+  check" (or "wait, let's clarify the fiction"). And around and
+  around.
 
   Quill PCs have *talents* representing the difficult and powerful
   things they can do that might fail. PCs improve at *Talents* by
   earning and spending *experience* on their talents. Things like
   fighting with a particular weapon, perception, intimidation, casting
-  wizard, cleric, or other spells, sneak attacks, and even keeping
-  animal companions are all *talents*. How capable a PC is at each
-  *talent* is represented by a die size. They all start at d4 and can
-  progress with *experience* through the other die sizes (d6, d8, d10,
-  d12 and d20).
+  wizard, cleric, or other spells (see the Quill Magic zine), sneak
+  attacks, and even keeping animal companions are all *talents*. How
+  capable a PC is at each *talent* is represented by a die size. They
+  all start at d4 and can progress with *experience* through the other
+  die sizes (d6, d8, d10, d12 and d20).
 
 ** Talent Checks
 
@@ -154,12 +276,12 @@ and *you could fucking die*.
    The player rolls their die for that *talent*. If they roll under
    the *difficulty*, that's a *miss*. If they roll over the
    *potential* that's a *bust* (it can be both). Otherwise it's a
-   *hit*. Many talents base *potential* on other talents or even
-   themselves. In these cases use the /die size/ you have in the
-   talent for *potential*. For example, *Gossip* specifies "The lower
-   of *Perception* and *Acquaintances*". Say your *Perception* was
-   *d10* and your *Acquaintances* was *d6* your *potential* for
-   *Gossip* would be *6*
+   *hit*. Many talents base *potential* on other talents or even the
+   same talent itself. In these cases use the /die size/ you have in
+   the talent for *potential*. For example, *Gossip* specifies "The
+   lower of *Perception* and *Acquaintances*". Say your *Perception*
+   was *d10* and your *Acquaintances* was *d6* your *potential* for
+   *Gossip* would be *6* as it's the lower of 10 and 6.
 
    The outcomes of talent checks, especially the consequences for
    *misses* and *busts*, are what drive the game forward and unless
@@ -196,60 +318,60 @@ and *you could fucking die*.
    have *disadvantage* roll 2 and take the worse. A *hit* is better
    than *bust* is better than *miss*
 
-* Talent properties
+** Talent properties
 
-  There are some properties that are named here, and then simply
-  referenced in their talent description. Things like range for
-  weapons, verbal and somatic components for spells etc.
+   There are some properties that are named here, and then simply
+   referenced in their talent description. Things like range for
+   weapons, verbal and somatic components for spells etc.
 
-** Melee
+*** Melee
 
-   Potential: *Fight* when used in melee range
+    Potential: *Fight* when used in melee range
 
-** Ranged X Y
+*** Ranged X Y
 
-   Potential: Lower of *Perception* and *Anticipation* when used
-   outside beyond melee range up to X feet. Every Y feet beyond that
-   the target gains 1 *defense*
+    Potential: Lower of *Perception* and *Anticipation* when used
+    outside beyond melee range up to X feet. Every Y feet beyond that
+    the target gains 1 *defense*
 
-** Reach
+*** Reach
 
-   Potential: *Fight* when used in melee range or just outside of
-   melee range.
+    Potential: *Fight* when used in melee range or just outside of
+    melee range.
 
-   When you *fight* just beyond melee range with a *reach* weapon you
-   can keep one opponent from entering melee range until they find an
-   opportunity to close. When you fight with a *reach* weapon in melee
-   range you are *disadvantaged*
+    When you *fight* just beyond melee range with a *reach* weapon you
+    can keep one opponent from entering melee range until they find an
+    opportunity to close. When you fight with a *reach* weapon in melee
+    range you are *disadvantaged*
 
-   The opponent may move into melee range whenever you *miss*. If they
-   do you must *quick draw* at *disadvantage* in order switch to a
-   melee weapon.
+    The opponent may move into melee range whenever you *miss*. If they
+    do you must *quick draw* at *disadvantage* in order switch to a
+    melee weapon.
 
-   The opponent may move into melee range whenever you *bust*. If they
-   do you must *quick draw* with *advantage* in order to switch to a
-   melee weapon.
+    The opponent may move into melee range whenever you *bust*. If they
+    do you must *quick draw* with *advantage* in order to switch to a
+    melee weapon.
 
-** Sunder
+*** Sunder
 
-   When you *bust* in addition to other effects, reduce the target's
-   armor by 1
+    When you *bust* in addition to other effects, reduce the target's
+    armor by 1
 
-** Finesse
+*** Finesse
 
-   For the purposes of determining *defense* when fighting with a
-   *finesse* weapon treat your number of injuries as one fewer. This
-   makes your base unarmored defense 4 with no injuries.
+    For the purposes of determining *defense* when fighting with a
+    *finesse* weapon treat your number of injuries as one fewer. This
+    makes your base unarmored defense 4 with no injuries.
 
-** Flexible
+*** Flexible
 
-   Can be used either one handed or two handed.
+    Can be used either one handed or two handed.
 
 * Creating Characters
 
   Distribute 2d10, 3d8, and 4d6 to any *talents* you'd like to start
-  with. Only one die level per talent. All PCs can use any *talent* at
-  d4
+  with. Only one die level per talent. All PCs start with every
+  *talent* at d4
 
   Take as much gear as you want but check with your GM and other
   players first to make sure everyone is happy with it.
@@ -258,24 +380,56 @@ and *you could fucking die*.
 
 * Advancement
 
-  When you *push yourself* and *miss* using a *talent* mark its
-  Experience Points (*XP*). Once you've marked enough *XP* in a talent
-  you may advance it to its next highest die by paying an amount of
-  experience equal to its rank (6, 8, 10, 12, or 20).
+  When you *push yourself* and *miss* using a *talent* mark it for an
+  Experience Point (*XP*). Once you've marked enough *XP* for a talent
+  you may advance it to its next highest die by paying its cost in
+  *XP* during a long rest. All PCs have a d4 in every *talent*.
 
-  Advance only during a long rest.
+  | Next Die | XP Cost |
+  |----------+---------|
+  | d6       |       3 |
+  | d8       |       4 |
+  | d10      |       5 |
+  | d12      |       6 |
+  | d20      |      10 |
 
 * Appendix A: Talents
+** Animal Companionship
+
+   Potential: Lower of *perception* and *Animal Companionship*-4
+
+   When you dedicate a few hours and work to form a bond of
+   companionship with an animal, either set up a new 5 step
+   companionship clock or make progress on an existing companionship
+   clock by rolling
+
+   Difficulty:
+
+   | Difficulty | Animal                                                  |
+   |------------+---------------------------------------------------------|
+   |          2 | Domestic animals (Dogs, Cats, Ravens, Horses)           |
+   |          4 | Wild domestic Counterparts (Wolves, Big Cats, Raptors)  |
+   |          6 | Other wild animals (Elephants, Reptiles, Bears, Jackal) |
+   |          8 | Dire Animals                                            |
+   |         10 | Beasts                                                  |
+   |         12 | Monsters                                                |
+
+   *Hit* Mark two ticks on the clock
+
+   *Bust* Mark one tick on the clock
+
+   *Miss* Remove one tick on the clock
+
 ** Anticipation
 
-   Potential: *Anticipation* - 4
+   Potential: *Anticipation*-4
 
    Roll when you think you could have *anticipated* something. Say how
    you anticipated it and how you are prepared.
 
 ** Acquaintances
 
-   Potential: *Acquaintances* - 3
+   Potential: *Acquaintances*-3
 
    Roll when you leverage someone you happen to know from here or
    there. Say who it is by name and how you know them. Say how they
@@ -295,6 +449,28 @@ and *you could fucking die*.
    - The acquaintance actively works against you
    - The acquaintance puts you at a disadvantage
 
+** Face Damage
+
+   Potential: Infinity
+
+   When you are hit by a weapon, fall from a great height, or
+   otherwise *face damage* roll with a difficulty of the damage faced.
+
+   *Hit* GM chooses one as appropriate
+   1. suffer 2 strain for unarmed or improvised weapon
+   2. suffer 3 strain for a one handed weapon
+   3. suffer 5 strain for a two handed weapon
+   4. potentially more strain based on the circumstances. How high a
+      fall was, how sharp the rocks are etc.
+
+   *Miss* GM chooses one as appropriate
+   1. suffer 8 strain for an unarmed attack
+   2. suffer 10 strain for an improvised weapon
+   3. suffer 1 injury if hit by a one handed weapon
+   4. suffer 2 injuries if hit by a two handed weapon
+   5. potentially more injuries based on the circumstances. How high a
+      fall was, how sharp the rocks are etc.
+
 ** Face Death
 
    Potential: *Face Death*-4
@@ -310,40 +486,6 @@ and *you could fucking die*.
    die.
 
    *Miss* You die
-
-** Perception
-
-   Potential: *Perception* - 2
-
-   Hitchcock's Bomb, the players should be let in on it even if the
-   characters are not. This roll should be about figuring out how much
-   the PCs notice.
-
-   GM honestly summarizes all the things available from the characters
-   fictional position.
-
-   *Hit* notice at least 3, at most all but 1
-
-   *Bust* notice at least 1 at most all but 3
-
-   *Miss* <something other than "whelp nope">
-
-** Gossip
-
-   Potential: Lower of *Perception*, *Acquaintances*
-
-   Roll when you do something that relies on a plausible rumor's
-   veracity that you heard through gossip. Players can invent these on
-   the fly.
-
-   *Hit* the rumor is true
-
-   *bust* the rumor is true but it's just the tip of the iceberg choose one
-   1. you're in over your head
-   2. you've tipped your hand and the wrong people now know you were gossiping
-   3. you've tipped your sources hand and they are displeased with you
-
-   *miss* the rumor was false or misleading
 
 ** Fight
 
@@ -363,27 +505,61 @@ and *you could fucking die*.
 
    *Miss* Your next roll is at *disadvantage*
 
-** Face Damage
+** Gossip
 
-   Potential: Infinity
+   Potential: Lower of *Perception*, *Acquaintances*
 
-   When you are hit by a weapon, fall from a great height, or
-   otherwise *face damage* roll with a difficulty of the damage faced.
+   Roll when you do something that relies on a plausible rumor's
+   veracity that you heard through gossip. Players can invent these on
+   the fly.
 
-   *Hit* GM chooses one as appropriate
-   - suffer 2 strain for unarmed or improvised weapon
-   - suffer 3 strain for a one handed weapon
-   - suffer 5 strain for a two handed weapon
-   - potentially more strain based on the circumstances. How high a
-     fall was, how sharp the rocks are etc.
+   *Hit* the rumor is true
 
-   *Miss* GM chooses one as appropriate
-   - suffer 8 strain for an unarmed attack
-   - suffer 10 strain for an improvised weapon
-   - suffer 1 injury if hit by a one handed weapon
-   - suffer 2 injuries if hit by a two handed weapon
-   - potentially more injuries based on the circumstances. How high a
-     fall was, how sharp the rocks are etc.
+   *bust* the rumor is true but it's just the tip of the iceberg choose one
+   1. you're in over your head
+   2. you've tipped your hand and the wrong people now know you were gossiping
+   3. you've tipped your sources hand and they are displeased with you
+
+   *miss* the rumor was false or misleading
+
+** Intimidation
+
+   Potential: *Intimidation*-5
+   - +1 if you have a credible reputation for violence or retaliation
+     and they are aware of it
+   - +1 if you brandish a deadly weapon
+   - +1 if they are not wearing armor
+   - +1 if they have a d4 in *fight*
+   - +1 if they have a d12 in *fight*
+
+   Roll when you threaten retaliation in order to get what you want.
+
+   *Hit* You get what you want
+
+   *Bust* You get what you want but whoever you intimidated holds 2
+   against you until the end of the scene. They may spend one hold to
+   give you disadvantage or to gain advantage against you for one
+   check.
+
+   *Miss* You don't get what you want and whoever you intimidated
+   holds 3 and may spend them as above.
+
+** Perception
+
+   Potential: *Perception* - 2
+
+   Hitchcock's Bomb, the players should be let in on it even if the
+   characters are not. This roll should be about figuring out how much
+   the PCs notice.
+
+   GM honestly summarizes all the things available from the characters
+   fictional position.
+
+   *Hit* notice at least 3, at most all but 1
+
+   *Bust* notice at least 1 at most all but 3
+
+   *Miss* <something other than "whelp nope">
 
 ** Quick Draw
 
@@ -398,6 +574,25 @@ and *you could fucking die*.
 
    *Miss* You draw the weapon, but not very quickly. Others have an
    opportunity to make a move
+
+** Sneak Attack
+
+   Potential:
+   - *Quic Draw* when you use suddenness of attack to catch them off
+     guard
+   - *Anticipation* when you lay in wait
+   - *Stealth* when you sneak up on them
+   - *Perception* when they are fully engaged on something else (like
+     fighting someone else, or taking aim at someone else, or
+     equivalent attention otherwise
+
+   Difficulty: Their defense as though they have 3 injuries
+
+   When you attack someone who is unaware of your intention roll
+
+   *Hit* as though they were hit by the weapon you wield. They face
+   damage as though it were one level more severe
+
 * Appendix B: Special Talents
 ** Coin
 
@@ -428,9 +623,10 @@ and *you could fucking die*.
 
    Potential: Higher of *perception* and *anticipation*
 
-   During a rest roll with a difficulty of your *strain* for each
-   supply (meals, ammunition, etc.) you've used during this
-   rest or at all since your last rest.
+   Difficulty: *Strain*
+
+   After each rest roll for each supply (meals, ammunition, etc.) if
+   you used it since your previous rest.
 
    *Hit* There are plenty more
 
@@ -523,9 +719,6 @@ and *you could fucking die*.
 *** Bow
 
     Ranged 120
-
-
-
 
 * License
 
