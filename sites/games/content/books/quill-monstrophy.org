@@ -1,0 +1,36 @@
++++
+title = "Quill Monstrophy"
+subtitle = ""
+date = 2020-06-04T08:22:34-05:00
+draft = true
+categories = [
+  "Zines",
+]
++++
+
+Quill was influenced by a bunch of great prior work.
+
+*Dungeons & Dragons* by Wizards of the Coast
+
+*Blades in the Dark* by John Harper
+
+*Apocalypse World* by Meguey and D. Vincent Baker
+
+Thank you for the path you blazed!
+
+The object of Quill is to *become powerful* by the *experience of
+dangerous adventure* but you might not because the *danger is real*
+and *you could fucking die*.
+
+These are not creatures like kobolds, beholders or even dragons.
+Monsters in Quill are unique adversaries that pose an imminent and
+dangerous threat to the worlds social and moral order.
+
+* Making Monsters
+
+* Fighting Monsters
+
+* License
+
+This work is licensed under a Creative Commons Attribution 4.0
+International License (http://creativecommons.org/licenses/by/4.0/).

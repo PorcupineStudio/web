@@ -1,0 +1,14 @@
++++
+title = "Quill Homestead"
+subtitle = ""
+date = 2020-06-04T08:24:15-05:00
+draft = true
+categories = [
+  "System Refrence Documents",
+  "Games",
+  "Micro Games",
+  "Zines",
+  "Playtest Document",
+]
++++
+

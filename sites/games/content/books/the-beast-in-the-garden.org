@@ -8,6 +8,9 @@ categories = [
 ]
 +++
 
+The object of the game is to weaken the leviathan but you might not
+because it is more powerful, more brutal, and more organized than you
+
 The object of the game is to see yourself liberated but you might not
 because the system is more powerful, more brutal, and more organized
 than you
@@ -34,8 +37,6 @@ The Beast in the Garden is about a social justice cold war
   + dice and escalation options for being organized, brutal
   + Tacit coordination deescalation Schelling games
 
-  
-
   Narration occurs in one continuous plot that jumps between eras yet
   is the same continuous plot. The scenery, specifics, and dates
   change, but it's the same story.
@@ -47,6 +48,45 @@ The Beast in the Garden is about a social justice cold war
     civil rights bill
   * November 8, 2016: The 45th election and the struggle for the
     mattering of Black lives
+
+  Or maybe the leviathan story is more broad than that. The leviathan
+  is colonists and the sovereignty they established.
+  - Its arrival in America and the beginning of the transatlantic
+    slave trade.
+  - The civil war against its stranglehold on the south
+  - Today with folks keeping it alive and trying to nurture it back to
+    health after the damage done to it by the civil rights movement. I
+    don't want to let white people today off the hook for wielding and
+    wanting more of the power it gave and could give us.
+
+  The beast is Hobbs's leviathan and the garden is "the new world"
+
+  Players play characters whose lives, like in cloud nine, spanned
+  from the 15th century to today. The game starts in medias res in the
+  near future during the final conflict in which the characters
+  struggles will end possibly tragically, possibly by defeating the
+  leviathan. It flashes back to the characters throughout their lives in
+  the slavery era 15th-19th centuries, the abolition Civil War era,
+  and the civil rights era.
+
+  Structure the whole game like a future passover seder in which we
+  tell the story of our struggle for freedom from oppression in
+  America.
+
+  - Structure everything with ritual like song, recitation in unison,
+    etc.
+  - play to answer questions like
+    - How did you contribute to and survive X, What did it cost?
+      - the journey across the Atlantic?
+      - the uprising a, b, and c?
+      - The underground railroad?
+        - Did you escape? Did you help anyone escape?
+        - What did you lose? What did you have to do?
+      - the Civil War battles a, b, and c?
+      - protests x, y, z
+
+  Keep track of wealth (and what that wealth might have grown to
+  today) that had to be given up when answering the questions.
 
 * Institutions
 

@@ -5,7 +5,7 @@ subtitle = ""
 date = 2020-05-22T07:44:45-05:00
 draft = true
 categories = [
-  "Playtest Documents",
+  "Zines",
 ]
 +++
 
@@ -32,7 +32,7 @@ and *you could fucking die*.
 
 * Design Goals
 
-  - *Oppinionated*. Strong choices for a focused audience
+  - *It should be opinionated*. Strong choices for a focused audience
   - *Minimal quick math* Move calculations out of the flow of play and
     into character creation or session downtime
   - *Simple rule set* Minimal cross references and look ups,
@@ -341,7 +341,7 @@ and *you could fucking die*.
 
     When you *fight* just beyond melee range with a *reach* weapon you
     can keep one opponent from entering melee range until they find an
-    opportunity to close. When you fight with a *reach* weapon in melee
+    opportunity to close. When you *fight* with a *reach* weapon in melee
     range you are *disadvantaged*
 
     The opponent may move into melee range whenever you *miss*. If they
@@ -354,8 +354,8 @@ and *you could fucking die*.
 
 *** Sunder
 
-    When you *bust* in addition to other effects, reduce the target's
-    armor by 1
+    When you *fight* and *bust* reduce the target's armor by 1 in
+    addition to any other effects.
 
 *** Finesse
 
@@ -387,11 +387,11 @@ and *you could fucking die*.
 
   | Next Die | XP Cost |
   |----------+---------|
-  | d6       |       3 |
-  | d8       |       4 |
-  | d10      |       5 |
-  | d12      |       6 |
-  | d20      |      10 |
+  | d6       |       1 |
+  | d8       |       2 |
+  | d10      |       3 |
+  | d12      |       4 |
+  | d20      |       8 |
 
 * Appendix A: Talents
 ** Animal Companionship
@@ -453,8 +453,10 @@ and *you could fucking die*.
 
    Potential: Infinity
 
-   When you are hit by a weapon, fall from a great height, or
-   otherwise *face damage* roll with a difficulty of the damage faced.
+   Difficulty: The damage faced
+
+   Roll when you are hit by a weapon, fall from a great height, or
+   otherwise *face damage*.
 
    *Hit* GM chooses one as appropriate
    1. suffer 2 strain for unarmed or improvised weapon
@@ -493,10 +495,10 @@ and *you could fucking die*.
    lower of 6 and *fight*-4 when fighting with improvised weapons
    like sticks, stones, or other tools not intended as weapons.
 
-   When you fight toe to toe in melee (close) range roll with a
+   When you *fight* toe to toe in melee (close) range roll with a
    difficulty of your opponent's *defense*.
 
-   When you fight with a *weapon* that weapon's properties replace
+   When you *fight* with a *weapon* that weapon's properties replace
    *fight's* properties.
 
    *Hit* The target must *face damage* as rolled
@@ -515,12 +517,12 @@ and *you could fucking die*.
 
    *Hit* the rumor is true
 
-   *bust* the rumor is true but it's just the tip of the iceberg choose one
+   *Bust* the rumor is true but it's just the tip of the iceberg choose one
    1. you're in over your head
    2. you've tipped your hand and the wrong people now know you were gossiping
    3. you've tipped your sources hand and they are displeased with you
 
-   *miss* the rumor was false or misleading
+   *Miss* the rumor was false or misleading
 
 ** Intimidation
 
@@ -689,7 +691,7 @@ and *you could fucking die*.
 
    Armor Rating: 6
 
-   *Fight* at *disadvantage*, opponents fight at *advantage*
+   *Fight* at *disadvantage*, opponents *fight* at *advantage*
 
 ** Shield
 
