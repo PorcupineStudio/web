@@ -1,0 +1,120 @@
++++
+title = "Quill Intrigue"
+subtitle = ""
+date = 2020-06-05T21:38:45-05:00
+draft = true
+categories = [
+  "Zines",
+]
++++
+
+The object of ___ is to ___ but you might not because ___.
+
+* The Basics
+
+** Loose Ends and Unfinished Business
+
+   When you leave ends loose and business unfinished through either
+   role play or from a *bust* or *miss* add an entry to a table for
+   the context that it's in (the city, or the faction, or family,
+   etc.)
+
+   A roll on the table might hit one of these to come back and bite
+   you and some talents may ask for a roll when you *miss* or *bust*
+
+   A roll on this table would be a good trade for a devils bargain.
+
+   There should also be a loose end clock for each context that ticks
+   when the PCs are in that context.
+
+   Entering and exiting contexts might demand a roll on their tables
+   too.
+
+* Talents
+
+** Evesdropping
+
+   TODO
+
+** Gossip
+
+   Potential: Lower of *Perception*, *Acquaintances*
+
+   Roll when you do something that relies on a plausible rumor's
+   veracity that you heard through gossip. Players can invent these on
+   the fly.
+
+   *Hit* the rumor is true
+
+   *Bust* the rumor is true but it's just the tip of the iceberg choose one
+   1. you're in over your head
+   2. you've tipped your hand and the wrong people now know you were gossiping
+   3. you've tipped your sources hand and they are displeased with you
+
+   *Miss* the rumor was false or misleading
+
+** Acquaintances
+
+   Potential: *Acquaintances*-3
+
+   Roll when you leverage someone you happen to know from here or
+   there. Say who it is by name and how you know them. Say how they
+   are helpful to know and what advantage or outcome you gain from
+   knowing them. Do they help you out themselves? Does dropping their
+   name get you in somewhere? GM sets a difficulty after hearing the
+   outcome.
+
+   *Hit* The player narrates the success
+
+   *Bust* You gain the advantage or outcome but the acquaintance
+   expects a favor, is displeased, or there is some other unintended
+   consequence
+
+   *Miss* You don't get the outcome you were hoping for. Choose 1
+   - The acquaintance expects a favor
+   - The acquaintance actively works against you
+   - The acquaintance puts you at a disadvantage
+
+
+* Gear
+
+** Thieves tools
+
+   Potential: the quality of the tools
+
+   | Potential | Tool Quality                |
+   |-----------+-----------------------------+
+   |         2 | Improvised                  |
+   |         4 | Poor                        |
+   |         6 | Average                     |
+   |         8 | High                        |
+   |        10 | Specialized or Expert Maker |
+   |        12 | Advanced or Magic           |
+   |        20 | Divine or Made by a God     |
+
+   With enough persistence you can get past any lock. The only
+   question is how much time will it take and how much attention will
+   you draw. When you try to get past a lock roll any die up to
+   *thieves tools*.
+
+   Difficulty: the quality of the lock
+
+   | Difficulty | Lock Quality                | Time on Hit | Time on Bust | Time on Miss |
+   |------------+-----------------------------+-------------+--------------+--------------|
+   |          2 | Poor                        | Seconds     | 1 Minute     | 5 Minutes    |
+   |          3 | Average                     | Seconds     | 2 Minutes    | 1 Hour       |
+   |          4 | High                        | Minutes     | 1 Hour       | 3 Hours      |
+   |          5 | Specialized or Expert Maker | 1 Hour      | 3 Hours      | 10 Hours     |
+   |          6 | Advanced or Magic           | 2 Hours     | 6 Hours      | 2 Days       |
+   |         10 | Divine or Made by a God     | 5 Hours     | 2 Days       | 1 Week       |
+
+
+
+** Weapons
+
+*** Crossbow
+
+* License
+
+This work is licensed under a Creative Commons Attribution 4.0
+International License (http://creativecommons.org/licenses/by/4.0/).

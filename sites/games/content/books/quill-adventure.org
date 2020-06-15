@@ -1,0 +1,1227 @@
++++
+title = "Quill Adventure"
+version = "0.3.0-draft"
+subtitle = ""
+date = 2020-05-22T07:44:45-05:00
+draft = true
+categories = [
+  "Zines",
+]
++++
+
+I'm assuming that you are familiar with role playing games. Quill
+won't explain much of what is common to most of them so If you are new
+to roleplaying, I hope a little internet research will clear anything
+up. If not please let me know either on Twitter (@jessebmiller),
+through email <jesse@jessebmiller.com> or on the [Porcupine Studio
+chat](chat.porcupine.studio) (Discord at the time of this writing).
+
+Quill Adventure was influenced by a bunch of great prior work.
+
+*Apocalypse World* by Meguey and D. Vincent Baker
+
+*Blades in the Dark* by John Harper
+
+*Ironsworn* by Shawn Tompkins
+
+*Dungeons & Dragons* by Wizards of the Coast
+
+*Path of Exile* by Grinding Gear Games
+
+Thank you for the path you blazed!
+
+The object of Quill adventure is to *become powerful* by the
+*experience of dangerous adventure* but you might not because the
+*danger is real* and *you could fucking die*.
+
+* Design Goals
+
+  - *It should be opinionated*. Strong choices for a focused audience
+  - *Minimal quick math* Move calculations out of the flow of play and
+    into character creation or session downtime
+  - *Simple rule set* Minimal cross references and look ups,
+    especially during the flow of play.
+  - *Large design space* Support hacking and custom content.
+  - *Efficient expert execution* Once a group masters the system, they
+    all should easily maintain continuity and agreement about the
+    whole of the fiction
+  - *Enjoyable* Even groups that haven't yet mastered the system
+    should none the less enjoy their time playing
+    - specifically offering the pleasures of *discovery*, *emergent
+      story*, *open worlds*, and *player challenge*
+    - Player *agency* and *meaningful choice*
+  - *Rules that drive the game* Rules should always drive the goals of
+    the game, and may take players out of their characters to do so.
+  - *Zine friendly* It should be a small core ruleset that fits in a
+    small book. Expansions should fit in similarly small books.
+
+* Safety
+
+  At the beginning of every session, mention the X card, and ask if
+  anyone has any lines or veils they want to have in place for the
+  session. Something freeing and great happens when the game is safe
+  and everyone knows what lines not to cross and trusts that everyone
+  can speak up if something makes them uncomfortable trusting that the
+  group will change it without judgment. Everyone can go a little
+  deeper safe in the knowledge that if they go too far someone will
+  speak up and everyone will step back and change it.
+
+* Judgment calls
+
+  When you play, you’ll make several key judgment calls. Everyone
+  contributes, but either the players or the GM gets final say for
+  each:
+
+  - Which actions are reasonable as a solution to a problem? /Can this
+    person be intimidated? Must we get out the thieves tools and/
+    /tinker with this old rusty lock, or could it also be quietly
+    finessed?/ The players have final say.
+  - How dangerous and how effective is a given action in this
+    circumstance? /How risky is this? Can this person be swayed very
+    little or a whole lot?/ The GM has final say.
+  - Which consequences are inflicted to manifest the dangers in a
+    given circumstance? /Does this fall from the roof break your leg?
+    Do the constables merely become suspicious or do they already have/
+    /you trapped?/ The GM has final say.
+  - Does this situation call for a dice roll, and which one? /Is your
+    character in position to make an action roll or must they first/
+    /make a resistance roll to gain initiative?/ The GM has final say.
+
+* The Basics
+
+  These are the core rules that don't require a roll and that talents
+  may depend on or affect.
+
+** Rest
+
+   There are *short rests* and *long rests*. Each require you to eat
+   and drink. Short rests take about an hour. Long rests take at least
+   8 hours.
+
+** Injury and Death
+
+   For every *injury* you suffer, mark one of the unmarked
+   *injuries*. When all *injuries* are marked *face death*.
+
+** Recovery
+
+   After a *short rest* recover 1d6 *strain*
+
+   After a *long rest* recover all *strain*.
+
+   After a *long rest* if you have an *injury* to recover roll xd6
+   where x is your number of *injuries*. If the highest die is 1-4
+   recover one *injury*
+
+   To recover from all your *injuries*, when you start to rest roll xd6
+   where x is the number of *injuries* you have taken. Rest that many
+   consecutive days to recover all your *injuries*. If someone is
+   tending to you roll one fewer dice.
+
+** Strain
+
+   When *strain* is greater than 12 suffer 1d4 injuries and pass out
+   for 20 minutes or until attended to for at least 1 minute. Upon
+   waking you must immediately take a short rest (which means eat and
+   drink) or pass out again.
+
+*** Pushing
+
+    You can push yourself on any check and take as many of the
+    following as you want as many times as you want but declare it all
+    and take the *strain* before you roll the check.
+
+    - take 1d6 *strain* and gain advantage or lose disadvantage
+      (take this twice to go from disadvantage to advantage)
+    - take 1d4 *strain* and roll a d6 instead
+    - take 1d6 *strain* and roll a d8 instead
+    - take 1d8 *strain* and roll a d10 instead
+    - take 1d10 *strain* and roll a d12 instead
+    - take 1d4 *strain* and reduce the difficulty by 1
+    - take 1d4 *strain* and increase your effective *potential* by 1
+    - take 1d12 *strain* to get an automatic *hit*
+    - take 1d10 *strain* to get an automatic *bust*
+
+*** Resisting
+
+    After you roll you can resist the consequence of a *bust* or a
+    *miss* by paying *strain*. Narrate how you are avoiding it then roll
+    to see how much *strain* you take to do it.
+
+    take 1dx *strain* where x is the same die you rolled for a *miss*
+    and one level lower for a *bust* to a minimum of 4.
+
+
+* Creating Characters
+
+  Distribute 2d10, 3d8, and 4d6 to any *talents* you'd like to start
+  with. Only one die per talent. All PCs start with every *talent* at
+  d4
+
+  Take as much gear as you want but check with your GM and other
+  players first to make sure everyone is happy with it.
+
+  Complete the calculations on your chatacter sheet.
+
+* The Talents
+
+  It's a tabletop role playing game so once the group has read this
+  through, followed the instructions, and made some characters (PCs),
+  the game master (GM) will describe the situation and the players
+  will say what they do and the GM will say "okay" or "make a talent
+  check" (or "wait, let's clarify the fiction"). And around and
+  around.
+
+  Quill PCs have *talents* representing the difficult and powerful
+  things they can do that might fail. PCs improve at *Talents* by
+  earning and spending *experience* on their talents. Things like
+  fighting with a particular weapon, perception, intimidation, casting
+  wizard, cleric, or other spells (see the Quill Magic zine), sneak
+  attacks, and even keeping animal companions are all *talents*. How
+  capable a PC is at each *talent* is represented by a die size. They
+  all start at d4 and can progress with *experience* through the other
+  die sizes (d6, d8, d10, d12 and d20).
+
+** Talent Checks
+
+   When a PC does something that is a *talent*, like fighting with a
+   weapon, intimidating someone, or casting a spell, roll a check. The
+   *talent* specifies a *potential* based on your character sheet and
+   the GM determines a *difficulty* based on the fictional situation.
+   The player rolls their die for that *talent*. If they roll under
+   the *difficulty*, that's a *miss*. If they roll over the
+   *potential* that's a *bust* (it can be both). Otherwise it's a
+   *hit*. Many talents base *potential* on other talents or even the
+   same talent itself. In these cases use the /die size/ you have in
+   the talent for *potential*. For example, ranged weapons specify
+   "The lower of *Perception* and *Anticipation*". Say your
+   *Perception* was *d10* and your *Anticipation* was *d6* your
+   potential for *fighting* with ranged weapons would be *6* as it's
+   the lower of 10 and 6.
+
+   The outcomes of talent checks, especially the consequences for
+   *misses* and *busts*, are what drive the game forward and unless
+   otherwise stated use this as a guide.
+
+   *Hit*: the player narrates their success
+
+   *Miss*: the GM narrates the complication, setback, or obstacle that
+   the failure causes. If the talent doesn't specify anything, invent
+   something relevant to the situation.
+
+   *Bust*: the GM narrates what the talent specifies or narrates a
+   partial, incomplete, or fatally flawed success and possibly also a
+   complication, setback, or obstacle it causes. A *bust* shouldn't be
+   as bad as a *miss*.
+
+   This table shows roughly what each *talent* die represents
+   along with rough guidance for the GM to determine a check's
+   *difficulty*
+
+   | Die | Experience Level  | Challenging difficulty | Impossible difficulty |
+   |-----+-------------------+------------------------+-----------------------|
+   | d4  | No training       |                      2 |                     5 |
+   | d6  | Some training     |                      3 |                     7 |
+   | d8  | Well trained      |                      4 |                     9 |
+   | d10 | Expert            |                      5 |                    11 |
+   | d12 | Expert Specialist |                      6 |                    13 |
+   | d20 | Godlike           |                     10 |                    21 |
+
+** Advantage and Disadvantage
+
+   Some rules grant you *advantage* or give you *disadvantage*. When
+   you have *advantage* roll 2 dice and take the better die. When you
+   have *disadvantage* roll 2 and take the worse. A *hit* is better
+   than *bust* is better than *miss*
+
+** Talent properties
+
+   There are some properties that are named here, and then simply
+   referenced in their talent description. Things like range for
+   weapons, verbal and somatic components for spells etc.
+
+*** Melee
+
+    Potential: *Fight* when used in melee range
+
+*** Ranged X Y
+
+    Potential: Lower of *Perception* and *Anticipation* when used
+    outside beyond melee range up to X feet. Every Y feet beyond that
+    the target gains 1 *defense*
+
+*** Reach
+
+    Potential: *Fight* when used in melee range or just outside of
+    melee range.
+
+    When you *fight* just beyond melee range with a *reach* weapon you
+    can keep one opponent from entering melee range until they find an
+    opportunity to close. When you *fight* with a *reach* weapon in melee
+    range you are *disadvantaged*
+
+    The opponent may move into melee range whenever you *miss*. If they
+    do you must *quick draw* at *disadvantage* in order switch to a
+    melee weapon.
+
+    The opponent may move into melee range whenever you *bust*. If they
+    do you must *quick draw* with *advantage* in order to switch to a
+    melee weapon.
+
+*** Sunder
+
+    When you *fight* and *bust* reduce the target's armor by 1 in
+    addition to any other effects.
+
+*** Finesse
+
+    For the purposes of determining *defense* when fighting with a
+    *finesse* weapon treat your number of injuries as one fewer. This
+    makes your base unarmored defense 4 with no injuries.
+
+*** Flexible
+
+    Can be used either one handed or two handed.
+
+* Advancement
+
+  When you *push yourself* and *miss* using a *talent* mark it for an
+  Experience Point (*XP*). Once you've marked enough *XP* for a talent
+  you may advance it to its next highest die by paying its cost in
+  *XP* during a long rest. All PCs have a d4 in every *talent*.
+
+  | Next Die | XP Cost |
+  |----------+---------|
+  | d6       |       1 |
+  | d8       |       2 |
+  | d10      |       3 |
+  | d12      |       4 |
+  | d20      |       8 |
+
+* Appendix A: Talents
+** Animal Companionship
+
+   Potential: Lower of *perception* and *Animal Companionship*-4
+
+   When you dedicate a few hours and work to form a bond of
+   companionship with an animal, either set up a new 5 step
+   companionship clock or make progress on an existing companionship
+   clock by rolling
+
+   Difficulty:
+
+   | Difficulty | Animal                                                  |
+   |------------+---------------------------------------------------------|
+   |          2 | Domestic animals (Dogs, Cats, Ravens, Horses)           |
+   |          4 | Wild domestic Counterparts (Wolves, Big Cats, Raptors)  |
+   |          6 | Other wild animals (Elephants, Reptiles, Bears, Jackal) |
+   |          8 | Dire Animals                                            |
+   |         10 | Beasts                                                  |
+   |         12 | Monsters                                                |
+
+   *Hit* Mark two ticks on the clock
+
+   *Bust* Mark one tick on the clock
+
+   *Miss* Remove one tick on the clock
+
+** Anticipation
+
+   Potential: *Anticipation*-4
+
+   Roll when you think you could have *anticipated* something. Say how
+   you anticipated it and how you are prepared. The GM will set a
+   difficulty based on the plausibility and may ask for a flashback
+   scene.
+
+   *Hit* You anticipated it and are well prepared.
+
+   *Bust* You anticipated it, but it came at a cost. Choose one
+   depending on context.
+   - It was expensive to prepare lower your coin die rank
+   - You owe someone a favor
+   - The anticipation was stressful take 1d6 stress
+
+   *Miss* You spent your energy and preparation anticipating something
+   else. Choose one from above
+
+** Athletics
+
+   TODO
+
+** Convince
+
+   Potential: *Convince*-2
+
+   Roll when you try to get someone to see things your way, or do
+   something they wouldn't do on their own.
+
+   *Hit* They see things your way or do what you convinced them to do
+
+   *Bust* They are convinced but get some important detail wrong. They
+   do what you want but somehow manage to add another problem you now
+   have to deal with
+
+   *Miss* They are not convinced and are done talking. They want to
+   end the conversation or interaction as quickly as possible.
+   Suddenly they have somewhere important to be. They may turn the
+   tables and now expect you to do something for them instead.
+
+** Face Death
+
+   Potential: *Face Death* -4
+   Difficulty: 4
+
+   *Hit* You are incapacitated until you've healed an injury. Roll as per
+   *long rest recovery* but without the requirement to eat and drink---you are
+   unable to in a coma---and only once a day. If you don't heal an
+   injury within 6 days you die.
+
+   *Bust* You are incapacitated and must heal an injury fast. Roll as
+   per *long rest recovery* as above. If you don't heal an injury you
+   die.
+
+   *Miss* You die
+
+** Face Damage
+
+   Potential: Infinity
+
+   Difficulty: The damage faced
+
+   Roll when you are hit by a weapon, fall from a great height, or
+   otherwise *face damage*.
+
+   *Hit* GM chooses one as appropriate
+   1. suffer 2 strain for unarmed or improvised weapon
+   2. suffer 3 strain for a one handed weapon
+   3. suffer 5 strain for a two handed weapon
+   4. potentially more strain based on the circumstances. How high a
+      fall was, how sharp the rocks are etc.
+
+   *Miss* GM chooses one as appropriate
+   1. suffer 8 strain for an unarmed attack
+   2. suffer 10 strain for an improvised weapon
+   3. suffer 1 injury if hit by a one handed weapon
+   4. suffer 2 injuries if hit by a two handed weapon
+   5. potentially more injuries based on the circumstances. How high a
+      fall was, how sharp the rocks are etc.
+
+** Face Danger
+
+   When you attempt something risky or react to an imminent threat,
+   envision your action and roll.  Describe the characters hopes or
+   goal and what could go wrong then estimate the *difficulty* of
+   avoiding the danger and the *potential* for things to go well.
+
+   Roll any die you want.
+
+   On a strong hit, you are successful.
+
+   On a weak hit, you succeed, but face a troublesome cost. Choose one
+   as appropriate...
+   - You are delayed, lose advantage, or face a new danger
+   - You are tired or hurt: Face Damage
+   - You are dispirited or afraid: Take 2 Strain
+   - You sacrifice resources: Suffer -1 supply as appropriate
+   - something that could have gone wrong does go wrong
+
+   On a miss, you fail, what could have gone wrong goes wrong
+
+** Fight
+
+   Potential: lower of *athletics* and *fight*-4
+
+   When you *fight* toe to toe in melee (close) range roll with a
+   difficulty of your opponent's *defense*.
+
+   When you *fight* with a *weapon* that weapon's properties replace
+   *fight's* properties.
+
+   *Hit* The target must *face damage* as rolled
+
+   *Bust* The target's next roll is at *disadvantage*
+
+   *Miss* Your next roll is at *disadvantage*
+
+** Gather Information
+
+   Potential: Gather information - 1
+
+   When you search an area, ask questions, conduct an investigation,
+   or follow a track, roll.
+
+   On a strong hit, you discover something helpful and specific. The
+   path you must follow or action you must take to make progress is
+   made clear.
+
+   On a weak hit, the information complicates things or introduces a
+   new danger. Take 2 strain
+
+   On a miss, your investigation unearths a dire threat or reveals an
+   unwelcome truth that undermines your goals. Take 3 strain
+
+** Intimidation
+
+   Potential: *Intimidation*-5
+   - +1 if you have a credible reputation for violence or retaliation
+     and they are aware of it
+   - +1 if you brandish a deadly weapon
+   - +1 if they are not wearing armor
+   - +1 if they have a d4 in *fight*
+   - +1 if they have a d12 in *fight*
+
+   Roll when you threaten retaliation in order to get what you want.
+
+   *Hit* You get what you want
+
+   *Bust* You get what you want but whoever you intimidated holds 2
+   against you until the end of the scene. They may spend one hold to
+   give you disadvantage or to gain advantage against you for one
+   check.
+
+   *Miss* You don't get what you want and whoever you intimidated
+   holds 3 and may spend them as above.
+
+** Perception
+
+   Potential: *Perception* - 2
+
+   when a player wants to make a perception check they are saying "I
+   want something important to be here" or "I need some hooks to move
+   things forward" or "this is a good place for there to be something
+   interesting, let's come up with something"
+
+   The player starts by saying what they want to notice or find
+   out. "is this person a danger to me?" "Who's in charge here?" "are
+   there traps?"
+
+   This check should start a conversation about what might be here to
+   notice
+
+   Hitchcock's Bomb, the players should be let in on it even if the
+   characters are not. This roll should be about figuring out how much
+   the PCs notice.
+
+   GM honestly summarizes all the things available from the characters
+   fictional position. Talk about what might be there with the group
+   even if you have something in mind.
+
+   *Hit* notice at least 3, at most all but 1
+
+   *Bust* notice at least 1 at most all but 3 take 2 strain
+
+   *Miss* Notice something misleading take 5 strain
+
+** Quick Draw
+
+   Potential: *Anticipation*
+
+   Difficulty: 3 to draw one handed weapons, 5 for two handed (or
+   weapons that can be used two handed)
+
+   Roll to draw your weapon when you find yourself in a *fight*
+   without it drawn or to switch from one weapon to another while in a
+   *fight*
+
+   *Hit* You draw quickly. You may immediately *fight*.
+
+   *bust* You draw relatively quickly, you may immediately *fight*
+   with *disadvantage*.
+
+   *Miss* You draw the weapon, but not very quickly. Others have an
+   opportunity to make a move
+
+** Sneak Attack
+
+   Potential:
+   - *Quick Draw* when you use suddenness of attack to catch them off
+     guard
+   - *Anticipation* when you lay in wait
+   - *Stealth* when you sneak up on them
+   - *Perception* when they are fully engaged on something else (like
+     fighting someone else, or taking aim at someone else, or
+     equivalent attention otherwise
+
+   Difficulty: Their defense as though they have 3 injuries
+
+   When you attack someone who is unaware of your intention roll
+
+   *Hit* as though they were hit by the weapon you wield. They *face
+   damage* with *disadvantage*
+
+   *Bust* You miss but may immediately *fight*
+
+   *Miss* You missed the target and they may *quick draw* against a
+   difficulty of your roll
+
+** Undertake a Journey
+
+   Potential: *supply(meals)* - 2
+
+   When you travel across hazardous or unfamiliar lands, first
+   estimate how far it is. Represent the distance by choosing a
+   difficulty for the journey
+
+   | Difficulty | Best Case Travel Time |
+   |------------+-----------------------|
+   |          2 | 1 day                 |
+   |          3 | 3 days                |
+   |          4 | 1 week                |
+   |          5 | 2 weeks               |
+   |          6 | 1 month               |
+   |          7 | 3 months              |
+   |          8 | 6 months              |
+   |          9 | 9 months              |
+   |         10 | 1 year                |
+   |         11 | 3 years               |
+   |         12 | 5 years               |
+
+   Then, roll *supply (meals)*.
+
+   *Hit*, you reach the destination in the best case travel time,
+   envision the trip, reduce supply(meals, travel) by one. Set your
+   strain to 5
+
+   *bust* make it to a waypoint along the way. Reduce *supply(meals)*,
+   and the difficulty of the journey by one. Take 2 strain. Roll again
+   when ready to continue
+
+   *miss* you are waylaid by a perilous event. reduce and *supply
+   (meals)* by one. Take 4 strain. Roll again when ready to continue
+
+* Appendix B: Special Talents
+** Coin
+
+   Potential: Higher of *perception* and *anticipation*
+
+   Coin is not earned with experience but is worked for, traded for,
+   found, stolen and so on. When you earn substantial *coin* increase
+   the die size. PCs can't carry more than d12 coin on them.
+
+   Roll when you spend *coin* to buy supplies or gear. The GM will
+   come up with a difficulty representing the price based on rarity
+   and cost to produce.
+
+   *Hit* you can easily afford it
+
+   *bust* You can afford it at some cost. Either don't buy it or
+   reduce your coin die by one rank.
+
+   *miss* You can afford it only at great cost (or not at all). Either
+   don't buy it or reduce your coin by 3 ranks.
+
+   Coin can be reduced to d0 (but not below)
+
+** Supplies
+
+   Supply dice are not bought with experience, they are bought with
+   coin.
+
+   Potential: infinity
+
+   Difficulty: higher of 12 - *perception*, 12 - *anticipation*, and *strain*
+
+   Before each rest roll for each supply (meals, ammunition, etc.) if
+   you used it since your previous rest (always roll meals).
+
+   *Hit* There are plenty more
+
+   *miss* there are your die roll more. Track these individually
+   without rolling *supplies*
+
+* Appendix C: Gear
+** Camping Kit
+
+   You've got everything you need to make camp. Gain advantage on
+   *short rest* recovery rolls.
+
+** Armor
+
+   When you get armor, do all the character sheet calculations for
+   when you wear it so that you don't have to figure it all out during
+   a scene.
+
+*** Leather
+
+    Armor Rating: 4 - number of injuries
+
+*** Chain Mail
+
+    Armor Rating: 5
+
+    *Fight* at *disadvantage*
+
+*** Plate
+
+    Armor Rating: 6
+
+    *Fight* at *disadvantage*, opponents *fight* at *advantage*
+
+*** Shield
+
+    Armor Rating: +1, cannot use weapons two handed.
+
+** Weapons
+*** Spear
+
+    Reach, Flexible, Ranged 40
+
+*** Hand Axe
+
+    Melee, Sunder
+
+*** Battle Axe
+
+    Melee, Two Handed, Sunder
+
+*** Sword
+
+    Melee, Finesse
+
+*** Long Sword
+
+    Melee, Two Handed, Finesse
+
+*** Bow
+
+    Ranged 120
+
+* License
+
+This work is licensed under a Creative Commons Attribution 4.0
+International License (http://creativecommons.org/licenses/by/4.0/).
+
+This work is based on *Blades in the Dark* (found at
+http://www.bladesinthedark.com/), product of One Seven Design,
+developed and authored by John Harper, and licensed for our use under
+the Creative Commons Attribution 3.0 Unported license
+(http://creativecommons.org/licenses/by/3.0/).
+
+* Notes
+
+  - add talents with higher levels of abstraction
+    - the fighting strategy moves like kite, wear them down, etc.
+    - social manuvers, fame, reputation, etc.
+  - add beliefs (maybe expand with fears and habits too?)
+    - Acting in accordance with beleifs limit the amount of strain you
+      take for doing it, beleifs let you push yourself with less stress
+    - When invoking beliefs the rules make you talk about who the
+      character is, what their power is about, etc.
+** Fight notes
+  - give weapons advantages for being fast and far reaching
+  - Make shields great, they should nullify advantages from other
+    weapons especially range and speed
+  - Make weapon speed matter somehow.
+  - Ranges of weapons
+    - range (bows, thrown spears etc)
+    - Pole weapons (spears, halberds etc)
+    - Melee weapons (backups, swords, maces, axes)
+    - Close weapons (can be used in grappling. knives, daggers)
+  - outside of range you cannot even fight,
+    - 1 level inside of range you are at disadvantage, more than that
+      you cannot fight
+    - Closing range is dangerous
+    - Shields make closing range much safer
+  - Weapon speed matters. swords hit first, axes damage armor, hurt more.
+
+  - let fights be clocks or progress tracks, handle them like
+    ironsworn.
+    - when you start a fight against a leviathain anything reasonable
+      can be progress in the fight, even things that are not directly
+      related to fighting it like crafting an appropriate weapon,
+      learning the creatures weakness through observation, waiting
+      until it's asleep to start and so on.
+    - Every move, of course, when you are in a fight gives the foe an
+      opportunity to gain advantage as well.
+    - frame fights as a battle for advantage (wounding the other of
+      course is an advantage, but so is building encampments, studying
+      their history, taunting or frightning them, or running them out
+      of supplies)
+  - fights are when opponents are both aware of the other and are both
+    actively engaged in the fight
+    - It may enter and exit various arenas and scopes though.
+      - social, physical, psychological arenas for example
+      - moment to moment, hour to hour, day to day, week, month, year
+        scopes are all possible.
+** References
+
+   - https://maziriansgarden.blogspot.com/2020/06/pleasures-of-osr-overcoming-challenges.html
+   - https://maziriansgarden.blogspot.com/2019/04/pleasures-of-osr-secrecy-and-discovery.html
+   - https://maziriansgarden.blogspot.com/2019/04/pleasures-of-osr-emergent-story-and.html
+
+** The order to learn the game
+*** The Conversation
+
+    Agenda and purpose:
+    - To construct a unanimously agreed upon fictional reality together
+    - To follow a procedure and set of rules to guide the process
+      - We consent as equals to the procedure and rules, so that ascent
+        to the results is fair and fast
+
+    The foundation is the conversation, everyone talks about what the
+    rules mean to the fiction and what the fiction means to the rules.
+
+**** Division of responsibility
+
+     Both narrative responsibility and rules referee responsibility
+
+     usually the GM and PC division, but other divisions could be
+     swapped in
+
+     Design for solo first, publish for guided with a solo option
+
+*** Risk taking, Conflict, and Rolling Dice
+    Die size, Potential, Difficulty
+    Hit Bust Miss
+
+    If there is a move that covers the situation use that move.
+
+    common rules are factored out into a glossary of terms that moves
+    will reference like in magic the gathering
+
+**** Take a risk
+
+     When you take a risk the GM decides a potential, difficulty, and
+     die size for you to use, and sets out what happens on a hit bust
+     and miss
+
+     When you do something that is in conflict with someone else roll
+     as taking a risk. The risk is that someone will be able to stop
+     you, will retaliate, or will undo what you've done.
+
+*** It's Moves all the way down
+
+    It's moves that make the difference between one format/setting/etc
+    and it's moves all the way down.
+
+    *Moves Chain* When you push yourself you might need to endure
+    strain and when you endure strain you might then need to face
+    damage then maybe face death When you fight you might need to face
+    damage and so on.
+
+**** Basic moves
+
+     Fiction and cues determining dice that affect the fiction
+
+**** Incremental Moves
+
+     Fiction and cues determining dice that affect fiction and cues
+
+***** Endure Damage
+***** Face Death
+***** Rest
+***** Advancement
+***** Push yourself
+***** Endure Strain
+***** Fight
+***** Faction turns as moves
+
+* Playtest Log
+
+** Lando
+*** D10
+    - Spear
+    - Axe
+*** D8
+    - Fight
+    - Perceptoin
+    - Anticipation
+*** D6
+    - Face Damage
+    - Face Death
+    - Quick Draw
+    - Sneak Attack
+*** Gear
+    - Camping Kit
+
+
+** World
+   Classic D&D with no Magic
+
+** Situation
+   Lando, an entitled teenager, has just run away from home with what
+   he thinks he needs to survive and make a name for himslef as an
+   adventurer
+
+   Starting just outside home villiage
+
+   /[roll on town name
+   table(https://chartopia.d12dev.com/collection/50/) /foxhollow/
+
+   /Draw a dot labeled Foxhollow (parents) in the middle of an A3 sheet/
+
+   /envisioning.../ Heads north along the main road, there is an old
+   ruins in the woods there have been rumors of treasure in.
+
+   /Always ask, what is the goal?/ The goal is to get the treasure in
+   the ruins nearby.
+
+   /Then always say okay or ask what first what might go wrong? so
+   what first? what might go wrong?/ gotta find my way there... It's
+   been so long I don't actually remember where it is but I hope I'll
+   recognize it when I get there.
+
+   /Draw the road north out of town/
+
+   *Undertake a Journey*
+
+   - Potential 4
+   - Difficulty 2
+   - Die d6
+
+   Hit(4) I'm able to travel far enough
+
+   Strain 5
+
+   /do I find it though?/
+
+   *Perception*
+
+   - Potential 6
+   - Difficulty 4
+   - Die d8
+
+   Miss 2 (whelp nope)
+
+   Lando, unable to find where to turn off for the ruins, night
+   falling, and tired from a days journey, makes camp.
+
+   Make camp, take a long rest, roll supplies
+
+   *Supplies(meals)*
+
+   - Potential infinity
+   - Difficulty 5
+   - Die d6
+
+   Miss (4) 4 meals left
+
+   *Long rest* recover all strain
+
+   Spend the day looking through the wilderness for the ruins. I know
+   they are here somewhere.
+
+   *Gather Information*
+
+   - Potential 3
+   - Difficulty 2 (not that hard, it's here somewhere)
+   - Die d4
+
+   Hit (3)
+
+   There they are, just there in that gully, smaller than I remember,
+   I must have grown up since I'd been here last. There are a few
+   foundations and a few fallen walls.
+
+   /I suppose I could roll on an encounter table here, but let's say
+   there is a giant rat/
+
+   I approach spear drawn to see many animal tracks in the area. I
+   hear scurrying in an underground room nearby so I hide near the
+   entrance, and throw a bit of food out in the open.
+
+   /always ask what's the goal?/
+
+   I want to lure the creature out without being noticed so I can
+   sneak attack it.
+
+   /What might go wrong?/
+
+   - It might not care about the food and might not come out.
+   - It might already know where I am and care more about me than the
+     food. (require anticipation or get attacked simultaneously
+
+   *Face Danger* (generic roll?)
+
+   - Potential 5
+   - Difficulty 3
+   - Die d10
+
+   Bust (7)
+
+   A Giant Rat bursts out of the entrance coming straight for me but
+   not expecting an attack. We simultaneously attack each other.
+
+   My *sneak attack*
+
+   - Potential 8
+   - Difficulty (lower of their roll and their potential (4))
+   - Die D6
+
+   Their *Fight* (2hd creature)
+
+   /a creatures roll params are based on their hit dice, 2hd translates to d6/
+
+   - Potential 4 (max roll - hd or 6 - 2)
+   - Difficulty (lower of my roll and my potential (8))
+   - Die d6
+
+   I roll 3
+
+   They roll 1
+
+   I Hit, they Miss
+
+   They face damage with disadvantage and have disadvantage on their
+   next roll
+
+   They *face 3 damage* disadvantaged
+
+   - Potential 4
+   - Difficulty 3
+   - Die D6
+
+   Miss (3, 2)
+
+   2 injuries (they die)
+
+   The Rat pounces straight at me but is not ready for the spear point
+   in their path. I've anticipated their pounce well and they impale
+   themselves through the heart on my braced spear.
+
+   I cautiously make my way into the underground room.
+
+   /In a GMed game, what's here is whatever the GM decides, in a solo
+   game we can roll for it? or just envision it?/
+
+   roll on the [theme
+   oracle](https://docs.google.com/document/d/11ypqt6GfLuBhGDJuBGWKlHa-Ru48Tf3G_6zbrYKmXgY/edit#heading=h.iou6o4oabwh)
+
+   82: Enemy... (they) The Ratparent (3hd)
+
+   A brooding hermit whose pet, or guard animal, or something had just
+   impaled itself on my now bloody spear is in a wild, nervous,
+   fearful rage.
+
+   *Perception*
+
+   /start with the goal/ I want to know how dangerous this hermit
+   is. To me right now, and to others passing along the road.
+
+   The honest situation. The hermit is a cannibal who raises giant
+   rats and grabs people from the road north of Foxhollow. There are
+   tales of monsters in the woods here.
+
+   The evidence that's here...
+   - The personal effects of a few different people
+   - A workbench stained with what could be blood?
+   - Pots and jars with preserved organs in them
+   - a plate of liver leftovers
+   - cages  with a few baby giant rats
+
+   It's such a charged situation with the Ratparent raging and I don't
+   have much time or attention to spare so some of these things that
+   will be obvious when I have a chance to take a careful look could
+   easily be overlooked now.
+
+   - Potential 6
+   - Difficulty 4 (it's charged and there is a distraction and danger
+     I could lower the difficulty to take a closer look around but
+     would have to face danger from the Ratparent)
+   - Die d8
+
+   Bust (7) Notice all but 3, any 2 take 2 strain
+   - The personal effects of a few different people
+   - A workbench stained with what could be blood?
+
+   "Whose are those!?" I yell
+
+   /Start with your goal/ I'm trying to understand what situation I'm
+   in, and I'm also trying to get them talking and calming down.
+
+   *Convince* them to tell me what the situation is.
+
+   - Potential 2
+   - Difficulty 3
+   - Die d4
+
+   Miss (2)
+
+   "Get out!" they yell, waving a kitchen knife approaching me.
+
+   I lower my spear to keep them at bay, attacking as they approach my reach.
+
+   *Fight Spear*
+
+   - Potential 8
+   - Difficulty 3 (their hit dice)
+   - Die d10
+
+   Bust 10 Their next action is at disadvantage
+
+   They move into my melee range awkwardly around my spear strike
+
+   I drop my spear for my axe
+
+   *Quick Draw* with advantage
+
+   - Potential 8
+   - Difficulty 3
+   - Die d6
+
+   Hit (3, 1)
+
+   I draw quickly and attack with my axe
+
+   *Fight Axe*
+
+   - Potential 8
+   - Difficulty 3 (their hit dice)
+   - Die d10
+
+   Bust 10 Target's next roll is disadvantaged
+
+   I switch rapidly to my axe and swing a wild arcing swing which they
+   flinch away from off balance. They swipe at me with their knife on
+   the way.
+
+   *Fight Knife* disadvantaged
+
+   - Potential 8 (their die size)
+   - Difficulty 3
+   - Die d8
+
+   Hit (7, 5)
+
+   Their knife catches my armpit as my swing goes wild
+
+   *Face 5 Damage*
+
+   - Potential infinity
+   - Difficulty 5
+   - Die d6
+
+   Hit suffer 3 strain
+
+   *Fight Axe*
+
+   - Potential 8
+   - Difficulty 3
+   - Die d10
+
+   Hit 7
+
+   I bury my axe in their shoulder
+
+   They *Face 7 Damage*
+
+   - difficulty 7
+   - Die d8
+
+   Miss (1)
+
+   They suffer 1 injury
+
+   taking a strong hit to their shoulder they are desperate to finish
+   this fight and lunge at me with their knife.
+
+   They *Fight Knife*
+
+   - Potential 8 (their die size)
+   - Difficulty 3
+   - Die d8
+
+   Hit (5)
+
+   They catch my gut with their lunging stab
+
+   I *Face 5 Damage*
+
+   - Difficulty 5
+   - Die d6
+
+   Hit (5)  suffer 3 strain
+
+   The blade does not puncture below muscle but does leave me with a
+   nasty gash
+
+   I hack at them
+
+   I *Fight Axe*
+
+   - Potential 8
+   - Difficulty 3
+   - Die d10
+
+   Hit (5)
+
+   They *Face 5 Damage*
+
+   - Difficulty 5
+   - Die d8
+
+   Miss(4) take 1 injury
+
+   My axe blade sinks behind their shoulder blade.
+
+   They decide to flee for their life, First I should get to fight
+   them as they turn to run, then I'll have a chance to throw my spear
+   if I decide to.
+
+   I *Fight Axe*
+
+   - Potential 8
+   - Difficulty 3
+   - Die d10
+
+   Hit (3)
+
+   They *Face 3 Damage*
+
+   - Difficulty 3
+   - Die d8
+
+     Hit (7) suffer 3 strain
+
+   They turn to run and I swing again catching their arm giving it a
+   small cut.
+
+   they run for the door and I scramble to grab my Spear.
+
+   /If I can quick draw the spear I'll be able to get a shot at them
+   before they get outside/ /otherwise I'll have to face the danger
+   that they get away/
+
+   *Quick Draw*
+
+   - Potential 8
+   - Difficulty 5
+   - Die d6
+
+   Miss (3)
+
+   They run out the door, I chase so that I can throw my spear, but
+   they might get outside my spear range or behind cover.
+
+   *Face Danger*
+
+   - Potential 8
+   - Difficulty 4
+   - Die d12
+
+   Bust (10)
+
+   I'm able to throw just as they are reaching a large rock to drop
+   down behind. I have no idea what's beyond that. I throw my spear
+
+   *Fight Spear Ranged*
+
+   - Potential 8
+   - Difficulty 3
+   - Die d10
+
+   Hit (7)
+
+   They *Face 7 Damage*
+
+   - Difficulty 7
+   - Die d8
+
+   Miss (4) 1 injury (killing them)
+
+   Just as they step off to drop down off the edge of the rock my
+   spear lands into their back toppling them over the edge. I approach
+   slowly with my axe drawn in case the blow didn't finish the fight.
+
+   

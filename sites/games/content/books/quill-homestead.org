@@ -4,11 +4,426 @@ subtitle = ""
 date = 2020-06-04T08:24:15-05:00
 draft = true
 categories = [
-  "System Refrence Documents",
-  "Games",
-  "Micro Games",
   "Zines",
-  "Playtest Document",
 ]
 +++
 
+The object of Quill homestead is to *build independent stability* by
+*homesteading* but you might not because *stability is fickle* and
+*disaster* could strike at any time.
+
+Quill Homestead was influenced by a bunch of great prior work.
+
+*Apocalypse World* by Meguey and D. Vincent Baker
+
+*Blades in the Dark* by John Harper
+
+*Ironsworn* by Shawn Tompkins
+
+*Stardew Valley* by Eric Barone
+
+* The Conversation
+
+  To play Quill is to have a conversation with a group and invent a
+  shared fictional narrative (the fiction) mediated by the rules in
+  this book. The rules give authority over different parts of the
+  shared fictional relaity to different people. The rules also limit,
+  in specific ways, what each group member can establish in the
+  fiction often requiring a dice roll to determine if some action,
+  decision, activity, etc. had the intended results or if there are
+  unintended consequences.
+
+  Before starting a game the whole group must agree to play by the
+  same set of established rules. Start with the rules as written, and
+  try to play long enough to be familiar with how they work in the
+  group you are playing with, but if anyone either before starting or
+  through the course of play does not consent to any of the
+  established rules, that player speaks up and the group establishes a
+  set of rules that everyone at the table consents to. If unanimous
+  consensus and consent can't be reached the game can't continue.
+  That's okay! It's not a failure to discover that the group doesn't
+  want to play the same game! That's a success!  With that discovered
+  everyone can go play the games they actually want to play with the
+  people who also want to play them.
+
+** Safety
+
+   At the beginning of *every session*, mention /the X card/, and ask
+   if anyone has any /lines/ or /veils/ they want to have in place for
+   the session. Something freeing and great happens when the game is
+   safe and everyone knows what lines not to cross and trusts that
+   everyone will speak up if something makes them uncomfortable
+   trusting that the group will change it without judgment. Everyone
+   can go a little deeper, safe in the knowledge that if they go too
+   far for anyone, someone will speak up and everyone will work to make
+   it comfortable and fun for everyone again.
+
+** The Players and The Guide
+
+   At a high level this is a pretty standard tabletop role playing
+   game. All but one of the group are *The Players* and each has
+   responsibility for and authority over a single character in the
+   fiction. One of the group is *The Guide* who has responsibility for
+   and authority over the other, non-player characters (NPCs), the
+   world they inhabit, and the interpretation of the rules as
+   established.
+
+*** Judgment calls
+
+    When you play, you’ll make several key judgment calls just like you
+    do in Blades in the Dark, in fact this text is basically copied
+    from the blades SRD. Everyone can contribute, but either a player
+    or the guide gets final authority for each:
+
+    - Which activities are reasonable as a solution to a problem? Can
+      this person be intimidated?  Must we get force open this rusty
+      lock with a pry bar. or could we get out the thieves tools and
+      pick it open? The players have final say.
+    - How dangerous and how effective is a given activity in this
+      circumstance? How risky is this? Can this person be swayed very
+      little or a whole lot? The guide has final say.
+    - Which consequences are inflicted to manifest the dangers in a
+      given circumstance? Does this fall from the roof break your leg?
+      Do the constables merely become suspicious or do they already
+      have you trapped? The guide has final say.
+    - Does this situation call for a move, and which one? Is your
+      character in position to make that fight move or must they first
+      get close the distance? The guide has final say.
+
+*** Agendas and principles
+
+    The players and the guide both have their agendas, the things they
+    are responsible for and should aim for to make the game click.
+
+**** Players agenda and principles
+
+     * Make your character real
+     * Keep what you know separate from what they know
+     * Begin and end with the fiction
+     * Play to find out what happens
+
+**** Guide agenda and principles
+
+     * Make the setting alive
+     * Name everyone
+
+** Playing Solo
+
+   The rules should give you enough to both play a character and guide
+   the game at the same time. The biggest difference when playing solo
+   is that there is no one to have a conversation with, so you write
+   the fiction as you establish it in whatever medium you want. I like
+   to keep a record of what moves were made, what the dice rolled, and
+   everything that happened mechanically as well so that future
+   readers (including yourself) can see how the game happened. You
+   still follow all the rules, you are just taking on the
+   responsibility of both player and guide.
+
+* Moves
+
+  Most rules come in the form of moves and will say when they are
+  relevant and also how to handle them. Whenever a character does
+  something that a move covers, follow the instructions in the
+  move. Whenever you want the mechanical effects of a move you have to
+  do the thing it covers. Moves work in Quill like they do in
+  Apocolypse World, and Monsterhearts, and Ironsworn.
+
+* The Dice
+
+  Whenever a move says to roll, follow these instructions to see how
+  it goes. There are three possible outcomes and three parameters that
+  need to be established and the text of the moves will tell you how
+  to set everything up. The whole group is encouraged be involved in
+  discussing it but what the character is trying to do is up to the
+  player, and the guide has final say on the rest.
+
+  *Possible outcomes*
+  - *Hit*: The player says what they are doing and the outcome they are going
+    for so they establish what happens on a hit
+  - *Bust*: The character overextends, pushes too hard, or causes
+    unintended consequences. This outcome is established by the guide
+    and will often be the outcome that the player was going for but
+    with an additional complication or unintended consequence.
+  - *Miss*: The character does not succeed. The outcome they were
+    going for does not occur and there is some complication or problem
+    instead.
+
+  *Roll parameters*
+  - The *die* to roll (d4, d6, d8, d10, d12, or d20) which represents
+    the character's experience and capabilities
+  - The *potential* which represents an upper limit to how well things
+    can go given the circumstances
+  - The *difficulty* which represents how easy it is to fail at this.
+
+  Once the player and the guide sets the three parameters and the
+  three outcomes the player rolls the die. If they roll higher than
+  the potential, that's a bust. If they roll lower than the
+  difficulty, that's a miss. Otherwise it's a hit. Note that it's
+  possible to set this up so that both a bust and a miss can happen on
+  the same roll in which case both outcomes occur.
+* Basic Moves
+
+  Every character gets all the basic moves
+
+** Anticipation
+
+   Potential: *Anticipation*-4
+
+   Roll when you think you could have *anticipated* something. Say how
+   you anticipated it and how you are prepared. The GM will set a
+   difficulty based on the plausibility and may ask for a flashback
+   scene.
+
+   *Hit* You anticipated it and are well prepared.
+
+   *Bust* You anticipated it, but it came at a cost. Choose one
+   depending on context.
+   - It was expensive to prepare lower your coin die rank
+   - You owe someone a favor
+   - The anticipation was stressful take 1d6 stress
+
+   *Miss* You spent your energy and preparation anticipating something
+   else. Choose one from above
+
+** Athletics
+
+   TODO
+
+** Coin
+
+   Potential: Higher of *perception* and *anticipation*
+
+   Coin is not earned with experience but is worked for, traded for,
+   found, stolen and so on. When you earn substantial *coin* increase
+   the die size. PCs can't carry more than d12 coin on them.
+
+   Roll when you spend *coin* to buy supplies or gear. The GM will
+   come up with a difficulty representing the price based on rarity
+   and cost to produce.
+
+   *Hit* you can easily afford it
+
+   *bust* You can afford it at some cost. Either don't buy it or
+   reduce your coin die by one rank.
+
+   *miss* You can afford it only at great cost (or not at all). Either
+   don't buy it or reduce your coin by 3 ranks.
+
+   Coin can be reduced to d0 (but not below)
+
+** Convince
+
+   Potential: *Convince*-2
+
+   Roll when you try to get someone to see things your way, or do
+   something they wouldn't do on their own.
+
+   *Hit* They see things your way or do what you convinced them to do
+
+   *Bust* They are convinced but get some important detail wrong. They
+   do what you want but somehow manage to add another problem you now
+   have to deal with
+
+   *Miss* They are not convinced and are done talking. They want to
+   end the conversation or interaction as quickly as possible.
+   Suddenly they have somewhere important to be. They may turn the
+   tables and now expect you to do something for them instead.
+
+** Face Death
+
+   Potential: *Face Death* -4
+   Difficulty: 4
+
+   *Hit* You are incapacitated until you've healed an injury. Roll as per
+   *long rest recovery* but without the requirement to eat and drink---you are
+   unable to in a coma---and only once a day. If you don't heal an
+   injury within 6 days you die.
+
+   *Bust* You are incapacitated and must heal an injury fast. Roll as
+   per *long rest recovery* as above. If you don't heal an injury you
+   die.
+
+   *Miss* You die
+
+** Face Damage
+
+   Potential: Infinity
+
+   Difficulty: The damage faced
+
+   Roll when you are hit by a weapon, fall from a great height, or
+   otherwise *face damage*.
+
+   *Hit* GM chooses one as appropriate
+   1. suffer 2 strain for unarmed or improvised weapon
+   2. suffer 3 strain for a one handed weapon
+   3. suffer 5 strain for a two handed weapon
+   4. potentially more strain based on the circumstances. How high a
+      fall was, how sharp the rocks are etc.
+
+   *Miss* GM chooses one as appropriate
+   1. suffer 8 strain for an unarmed attack
+   2. suffer 10 strain for an improvised weapon
+   3. suffer 1 injury if hit by a one handed weapon
+   4. suffer 2 injuries if hit by a two handed weapon
+   5. potentially more injuries based on the circumstances. How high a
+      fall was, how sharp the rocks are etc.
+
+** Face Danger
+
+   When you attempt something risky or react to an imminent threat,
+   envision your action and roll.  Describe the characters hopes or
+   goal and what could go wrong then estimate the *difficulty* of
+   avoiding the danger and the *potential* for things to go well.
+
+   Roll any die you want.
+
+   On a strong hit, you are successful.
+
+   On a weak hit, you succeed, but face a troublesome cost. Choose one
+   as appropriate...
+   - You are delayed, lose advantage, or face a new danger
+   - You are tired or hurt: Face Damage
+   - You are dispirited or afraid: Take 2 Strain
+   - You sacrifice resources: Suffer -1 supply as appropriate
+   - something that could have gone wrong does go wrong
+
+   On a miss, you fail, what could have gone wrong goes wrong
+
+** Fight
+
+   Potential: lower of *athletics* and *fight*-4
+
+   When you *fight* toe to toe in melee (close) range roll with a
+   difficulty of your opponent's *defense*.
+
+   When you *fight* with a *weapon* that weapon's properties replace
+   *fight's* properties.
+
+   *Hit* The target must *face damage* as rolled
+
+   *Bust* The target's next roll is at *disadvantage*
+
+   *Miss* Your next roll is at *disadvantage*
+
+** Gather Information
+
+   Potential: Gather information - 1
+
+   When you search an area, ask questions, conduct an investigation,
+   or follow a track, roll.
+
+   On a strong hit, you discover something helpful and specific. The
+   path you must follow or action you must take to make progress is
+   made clear.
+
+   On a weak hit, the information complicates things or introduces a
+   new danger. Take 2 strain
+
+   On a miss, your investigation unearths a dire threat or reveals an
+   unwelcome truth that undermines your goals. Take 3 strain
+
+** Intimidation
+
+   Potential: *Intimidation*-5
+   - +1 if you have a credible reputation for violence or retaliation
+     and they are aware of it
+   - +1 if you brandish a deadly weapon
+   - +1 if they are not wearing armor
+   - +1 if they have a d4 in *fight*
+   - +1 if they have a d12 in *fight*
+
+   Roll when you threaten retaliation in order to get what you want.
+
+   *Hit* You get what you want
+
+   *Bust* You get what you want but whoever you intimidated holds 2
+   against you until the end of the scene. They may spend one hold to
+   give you disadvantage or to gain advantage against you for one
+   check.
+
+   *Miss* You don't get what you want and whoever you intimidated
+   holds 3 and may spend them as above.
+
+** Perception
+
+   Potential: *Perception* - 2
+
+   when a player wants to make a perception check they are saying "I
+   want something important to be here" or "I need some hooks to move
+   things forward" or "this is a good place for there to be something
+   interesting, let's come up with something"
+
+   The player starts by saying what they want to notice or find
+   out. "is this person a danger to me?" "Who's in charge here?" "are
+   there traps?"
+
+   This check should start a conversation about what might be here to
+   notice
+
+   Hitchcock's Bomb, the players should be let in on it even if the
+   characters are not. This roll should be about figuring out how much
+   the PCs notice.
+
+   GM honestly summarizes all the things available from the characters
+   fictional position. Talk about what might be there with the group
+   even if you have something in mind.
+
+   *Hit* notice at least 3, at most all but 1
+
+   *Bust* notice at least 1 at most all but 3 take 2 strain
+
+   *Miss* Notice something misleading take 5 strain
+
+** Supplies
+
+   Supply dice are not bought with experience, they are bought with
+   coin.
+
+   Potential: infinity
+
+   Difficulty: higher of 12 - *perception*, 12 - *anticipation*, and *strain*
+
+   Before each rest roll for each supply (meals, ammunition, etc.) if
+   you used it since your previous rest (always roll meals).
+
+   *Hit* There are plenty more
+
+   *miss* there are your die roll more. Track these individually
+   without rolling *supplies*
+
+** Survival
+** Undertake a Journey
+
+   Potential: *supply(meals)* - 2
+
+   When you travel across hazardous or unfamiliar lands, first
+   estimate how far it is. Represent the distance by choosing a
+   difficulty for the journey
+
+   | Difficulty | Best Case Travel Time |
+   |------------+-----------------------|
+   |          2 | 1 day                 |
+   |          3 | 3 days                |
+   |          4 | 1 week                |
+   |          5 | 2 weeks               |
+   |          6 | 1 month               |
+   |          7 | 3 months              |
+   |          8 | 6 months              |
+   |          9 | 9 months              |
+   |         10 | 1 year                |
+   |         11 | 3 years               |
+   |         12 | 5 years               |
+
+   Then, roll *supply (meals)*.
+
+   *Hit*, you reach the destination in the best case travel time,
+   envision the trip, reduce supply(meals, travel) by one. Set your
+   strain to 5
+
+   *bust* make it to a waypoint along the way. Reduce *supply(meals)*,
+   and the difficulty of the journey by one. Take 2 strain. Roll again
+   when ready to continue
+
+   *miss* you are waylaid by a perilous event. reduce and *supply
+   (meals)* by one. Take 4 strain. Roll again when ready to continue

@@ -1,0 +1,48 @@
++++
+title = "Lost in the Wilderness"
+subtitle = ""
+date = 2020-06-13T20:58:56-05:00
+draft = true
+categories = [
+  "Zines",
+]
++++
+
+The object of Lost in the Wilderness is to find a way make a life here
+or find your way home but you might not because this place is deadly,
+absurd and, you don't know how things work.
+
+- OSR
+- Knave
+- Into the Odd
+- Alice in Wonderland
+- The Bald Soprano
+
+You are lost in a confounding wilderness like Wonderland or the green
+forest but darker and deadly. you've got to survive and find your way
+out, or find a place for you here.
+
+* Specializations
+
+  Like Knave with all rolls as ability checks and advancement spent on
+  increasing ability scores. Except that score increases come at a
+  quadratic cost and you can specialize by buying points in one common
+  use of an ability. Specializations cost their own rank in quadratic
+  cost but are added to the ability score when performing appropriate
+  tasks.
+
+  All the D&D 5e skills are appropriate specializations, as are
+  attacking with a specific weapon
+
+  Should probably list all the specializations and suggest that groups
+  add their own when relevant
+
+* Dice Mechanism
+
+  Stats range from -5 to +5 and represent bonus dice to a roll of a
+  single die.
+
+* License
+
+This work is licensed under a Creative Commons Attribution 4.0
+International License (http://creativecommons.org/licenses/by/4.0/).
