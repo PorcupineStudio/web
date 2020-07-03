@@ -13,12 +13,6 @@ categories = [
 ]
 +++
 
-{{{ To Dos }}}
-
-The object of *Quill* is to *achieve your goals* but you might not
-because people are *violent* and have *goals of their own*, many of
-them are *villains*, and *the world is dangerous and unfair*.
-
 I'm assuming that you are familiar with role playing games. Quill
 won't explain much of what is common to most of them so If you are new
 to roleplaying, I hope a little internet research will clear anything
@@ -36,122 +30,64 @@ Quill Adventure was influenced by a bunch of great prior work.
 
 *Ironsworn* by Shawn Tompkins
 
-*Dungeons & Dragons* by Wizards of the Coast
+*The O.S.R.*
 
-* It's a Conversation
+*Whitehack* by Christian Mehrstam
 
-  To play Quill is to have a conversation with a group and invent a
-  shared fictional narrative (the fiction) mediated by the rules in
-  this book. The rules give authority over different parts of the
-  shared fictional relaity to different people. The rules also limit,
-  in specific ways, what each group member can establish in the
-  fiction often requiring a dice roll to determine if some action,
-  decision, activity, etc. had the intended results or if there are
-  unintended consequences.
+*Knave* by Ben Milton
 
-  Before starting a game the whole group must agree to play by the
-  same set of established rules. Start with the rules as written, and
-  try to play long enough to be familiar with how they work in the
-  group you are playing with, but if anyone either before starting or
-  through the course of play does not consent to any of the
-  established rules, that player speaks up and the group establishes a
-  set of rules that everyone at the table consents to. If unanimous
-  consensus and consent can't be reached the game can't continue.
-  That's okay! It's not a failure to discover that the group doesn't
-  want to play the same game! That's a success!  With that discovered
-  everyone can go play the games they actually want to play with the
-  people who also want to play them.
+The object of *Quill* is to *find and overcome worthy challenges* but
+you might not because the world is full of *danger*,
+*misunderstanding* and *lies*.
 
-** Safety
+* Design Goals
 
-   At the beginning of *every session*, mention /the X card/, and ask
-   if anyone has any /lines/ or /veils/ they want to have in place for
-   the session. Something freeing and great happens when the game is
-   safe and everyone knows what lines not to cross and trusts that
-   everyone will speak up if something makes them uncomfortable
-   trusting that the group will change it without judgment. Everyone
-   can go a little deeper, safe in the knowledge that if they go too
-   far for anyone, someone will speak up and everyone will work to make
-   it comfortable and fun for everyone again.
+  *Support:*
+  * Discovery
+  * Emergent narrative
+  * Open sandbox worlds
+  * Honest challenge
+  * Serious character danger
+  * Player agency
+  * Meaningful choice
+  * D.I.Y Friendly
+  * Zine friendly
+  * The West Marches friendly
 
-** The Players and The Guide
+  *Therefore have:*
+  * Quick to roll simple characters
+  * Simple rules
+  * Sandbox tools
+  * O.S.R. compatibility
 
-   At a high level this is a pretty standard tabletop role playing
-   game. All but one of the group are *The Players* and each has
-   responsibility for and authority over a single character in the
-   fiction. One of the group is *The Guide* who has responsibility for
-   and authority over the other, non-player characters (NPCs), the
-   world they inhabit, and the interpretation of the rules as
-   established.
+  *Make sure that:*
+  * Combat is war not sport, it snowballs and ends swiftly.
 
-*** Judgment calls
+* The Players and The Guide
 
-    When you play, you’ll make several key judgment calls just like you
-    do in Blades in the Dark, in fact this text is basically copied
-    from the blades SRD. Everyone can contribute, but either a player
-    or the guide gets final authority for each:
-
-    - Which activities are reasonable as a solution to a problem? Can
-      this person be intimidated?  Must we get force open this rusty
-      lock with a pry bar. or could we get out the thieves tools and
-      pick it open? The players have final say.
-    - How dangerous and how effective is a given activity in this
-      circumstance? How risky is this? Can this person be swayed very
-      little or a whole lot? The guide has final say.
-    - Which consequences are inflicted to manifest the dangers in a
-      given circumstance? Does this fall from the roof break your leg?
-      Do the constables merely become suspicious or do they already
-      have you trapped? The guide has final say.
-    - Does this situation call for a move, and which one? Is your
-      character in position to make that fight move or must they first
-      get close the distance? The guide has final say.
-
-*** Agendas and principles
-
-    The players and the guide both have their agendas, the things they
-    are responsible for and should aim for to make the game click.
-
-**** Players agenda and principles
-
-     * Make your character real
-     * Keep what you know separate from what they know
-     * Begin and end with the fiction
-     * Play to find out what happens
-
-**** Guide agenda and principles
-
-     * Make the setting alive
-     * Name everyone
-
-** Playing Solo
-
-   The rules should give you enough to both play a character and guide
-   the game at the same time. The biggest difference when playing solo
-   is that there is no one to have a conversation with, so you write
-   the fiction as you establish it in whatever medium you want. I like
-   to keep a record of what moves were made, what the dice rolled, and
-   everything that happened mechanically as well so that future
-   readers (including yourself) can see how the game happened. You
-   still follow all the rules, you are just taking on the
-   responsibility of both player and guide.
-
+  Ultimately this is a pretty standard tabletop role playing game and
+  this book assumes you are familiar with them. All but one of the
+  group are *The Players* and each has responsibility for and
+  authority over a single character in the fiction. One of the group
+  is *The Guide* who has responsibility for and authority over the
+  other, non-player characters (NPCs), the world they inhabit, and the
+  interpretation of the rules as established.
 * Moves
 
   Most rules come in the form of moves and will say when they are
-  relevant and also how to handle them. Whenever a character does
-  something that a move covers, follow the instructions in the
-  move. Whenever you want the mechanical effects of a move you have to
-  do the thing it covers. Moves work in Quill like they do in
-  Apocolypse World, and Monsterhearts, and Ironsworn.
+  relevant and how to handle them. Whenever a character does something
+  that a move covers, follow the instructions in the move. Whenever
+  you want the mechanical effects of a move you have to do the thing
+  it covers. Moves work in Quill like they do in Apocolypse World, and
+  Monsterhearts, and Ironsworn.
 
 * The Dice
 
-  Whenever a move says to roll, follow these instructions to see how
+  Whenever a rule says to roll, follow these instructions to see how
   it goes. There are three possible outcomes and three parameters that
   need to be established and the text of the moves will tell you how
-  to set everything up. The whole group is encouraged be involved in
-  discussing it but what the character is trying to do is up to the
-  player, and the guide has final say on the rest.
+  to set everything up. The player has final say on what they are
+  doing or attempting to do, and the guide has final say on the rest.
 
   *Possible outcomes*
   - *Hit*: The player says what they are doing and the outcome they are going
@@ -166,266 +102,633 @@ Quill Adventure was influenced by a bunch of great prior work.
 
   *Roll parameters*
   - The *die* to roll, player's choice (d4, d6, d8, d10, d12, or d20)
-    which represents the character's effort, striving, enthusiasm (or
-    over-enthusiasm).
+    which represents the character's effort, push, restraint,
+    striving, enthusiasm (or over-enthusiasm).
   - The *potential* which represents an upper limit to how well things
-    can go given the circumstances; the character's experience and
-    true capabilities
-  - The *difficulty* which represents how easy it is to fail at this.
+    can go given the character's experience, and true capabilities
+  - The *difficulty* which represents how hard the objective is, how
+    likely failure is given the circumstances.
 
   Once the player and the guide sets the three parameters and the
-  three outcomes the player rolls whichever die they want. If they roll
-  higher than the potential, that's a bust. If they roll lower than
-  the difficulty, that's a miss. Otherwise it's a hit. Note that it's
-  possible to set this up so that both a bust and a miss can happen on
-  the same roll in which case both outcomes occur.
+  three outcomes the player rolls whichever die they want. If they
+  roll equal to or higher than the potential, that's a bust. If they
+  roll equal to or lower than the difficulty, that's a miss. Otherwise
+  it's a hit. Note that it's possible to set this up so that both a
+  bust and a miss can happen on the same roll in which case both
+  outcomes occur.
 
 ** Advantage and Disadvantage
 
    Some rules grant you *advantage* or put you at *disadvantage*. When
-   you are *advantaged* roll 2 dice and take your choice of the
-   results. When you have *disadvantage* roll 2 and the Guide chooses
-   the worst---even if it kills you.
+   you are *advantaged* roll an extra die and take your choice of the
+   results. When you are at *disadvantage* roll an extra and the Guide
+   chooses the worst---even (especially) if it kills you.
 
-* Strain
+   It's possible to get more than one extra die. Notably as injuries
+   pile up disadvantage can pile up. In those cases roll more than two
+   and take the best or the worst
+* Stress, Strain, and Tension
 
-  Mental and physical fatigue, cuts and bruises, sleep deprivation,
-  stress and encumbrance all contribute to and are abstracted by
-  *strain*. Keep track of it on your character sheet.
+  Fatigue, cuts, bruises, sleep deprivation, and encumbrance all
+  contribute to and are represented by *strain*. Your current strain
+  is the minimum difficulty for all your physical rolls
 
-  Your *strain* is the minimum difficulty for all your rolls
+  Fatigue, distraction, worry, and uncertainty all contribute to and
+  are represented by *stress*. Your current stress is the minimum
+  difficulty for all mental rolls
+
+  Fatigue, annoyance, frustration, anger, and mistrust all contribute
+  to and are represented by *tension*. Your current tension is the
+  minimum difficulty for all social rolls.
 
 ** Push Yourself
 
-   You can push yourself on any *move* and take as many of the
-   following as you want as many times as you want but declare it all
-   and take the *strain* before you make the move.
+   You can push yourself on any move and take as many of the following
+   as you want as many times as you want but declare it all and take
+   the strain before you make the move. For mental moves take stress.
+   For physical moves take strain. For social moves take tension.
 
-   - take 1 *strain* and reduce the difficulty by 2---you cannot
-     reduce difficulty below your strain
-   - take 1 *strain* and increase your effective *potential* by 2
-   - take 2 *strain* and gain advantage or lose disadvantage
-     (take this twice to go from disadvantage to advantage)
-   - take 1d10 *strain* to get an automatic *hit*
-   - take 1d6 *strain* to get an automatic *bust*
-
+   - take 1 to reduce the difficulty by 2 or to your current minimum
+     difficulty, whichever is higher.
+   - take 1 to increase your potential for a roll by 2
+   - take 2 to gain a level of advantage or lose a level of
+     disadvantage
 * Core Moves
 
-  Characters all get the basic moves. Each one starts with a potential
-  of 3
+  Characters all get the core moves. Each one starts with a potential
+  of 3. As you improve at different moves (using the improve move)
+  keep track of the new higher potential for them on your character
+  sheet.
 
-** Anticipate
+  Marks are things you are tracking on a sheet from move to
+  move. Moves may ask you to mark something which just means write
+  down what you are marking if this is the first time, then put a tick
+  mark next to it. Moves may reference what you wrote and the number
+  of ticks is taken into account somehow.
 
-   Roll when you think you could have *anticipated* something. Say how
-   you anticipated it and how you are prepared. The GM will set a
-   difficulty based on the plausibility and may ask for a flashback
-   scene.
+** Mental Moves
+*** Anticipate
 
-   *Hit* You anticipated it and are well prepared.
+    Roll when you think you could have *anticipated* something. Say how
+    you anticipated it and how you are prepared. The GM will set a
+    difficulty based on the plausibility and may ask for a flashback
+    scene.
 
-   *Bust* You anticipated it, but it came at a cost. Choose one
-   depending on context.
-   - It was expensive to prepare. Reduce your *coin amount* by one.
-   - You owe someone a favor
-   - The anticipation was stressful take 1 *strain*
+    *Hit* You anticipated it and are well prepared.
 
-   *Miss* You spent your energy and preparation anticipating something
-   else. Choose one from above
+    *Bust* You anticipated it, but it came at a cost. The guide
+    chooses one depending on context.
+    - It was expensive to prepare. Reduce your *coin amount* by one.
+    - You owe someone a favor
+    - The anticipation was stressful take 1 strain
 
-** Convince the Skeptical
+    *Miss* You spent your energy and preparation anticipating
+    something else. The guide chooses two from above and or below
+    - Wrong place wrong time. Face damage equal to the roll
+    - You were distressingly wrong. Handle Distress equal to the roll
+    - If you went against your communities values, handle disgrace
+      equal to the roll
 
-   Roll when you try to get someone to believe something they don't,
-   see things your way, or do something they need convincing is in
-   their interest. Say how you are convincing them, or role play the
-   interaction then the guide will determine a difficulty.
+*** Gather Information
 
-   *Hit* They see things your way or do what you convinced them to do
+    When you search an area, ask questions, conduct an investigation,
+    do research, or follow tracks or a trail, roll.
 
-   *Bust* They are convinced but get some important detail wrong. They
-   do what you want---or something similar---but somehow manage to add
-   another problem you now have to deal with
+    *Hit* You discover something helpful and specific. The path you
+    must follow or action you must take to make progress is made clear.
 
-   *Miss* They are not convinced and are done talking. They want to
-   end the conversation or interaction as quickly as possible.
-   Suddenly they have somewhere important to be. They may turn the
-   tables and now expect you to do something for them instead.
+    *Bust* The information complicates things or introduces a new
+    danger.
 
-** Face Death
+    *Miss* Your investigation unearths a dire threat or reveals an
+    unwelcome truth that undermines your goals.
 
-   Difficulty: The number of injuries
+*** Improve
 
-   Whenever you take an injury *face death*. Write down a short
-   description of the injury on your character sheet.
+    Mark experience on any *move* you make when both of the following
+    are true:
+    - you roll a die higher than your potential (you don't learn when
+      you aren't trying hard)
+    - The difficulty is between 1 and 4 less than your current
+      potential (You don't learn when you you don't have a difficult
+      but achievable challenge)
+    - You don't have advantage or disadvantage
 
-   *Hit* You are able to press on despite your injuries
+    You can't improve moves that don't have rolls (like this one)
 
-   *Bust* You are staggered and overwhelmed by your injuries. Note the
-   die you rolled next to this injury. You cannot roll that die until
-   you heal this injury. Everyone has *advantage* against you until
-   you heal this injury.
+    When you've marked an amount of experience equal to your potential
+    with a move, *improve* that move's potential by one and erase all
+    experience marked on it.
 
-   *Miss* You die
+*** Path of Discovery
 
-** Take Damage
+    When you undertake to invent something new, uncover truths
+    previously unknown or synthesize a body of knowledge into new
+    understanding you go down a *path of discovery*
 
-   Difficulty: The damage taken
+    When you take the first steps toward discovery give the path a
+    name and write it down on your sheet. When you have the time (at
+    least 4 undisturbed hours with all the necessary materials). Roll
+    to make progress on the path.
 
-   Roll when you are struck by a weapon, fall from a great height, or
-   otherwise *take damage*.
+    Difficulty: The amount of progress you've made.
 
-   *Hit* GM chooses one as appropriate
-   1. suffer 1 *strain* from an unarmed attacker
-   1. suffer 2 *strain* from an improvised weapon
-   2. suffer 3 *strain* from a one handed weapon
-   3. suffer 5 *strain* from a two handed weapon
-   4. potentially more *strain* based on the circumstances. How high a
+    *Hit* Describe what you uncovered, the connections you made, or
+    the problems you figured out. Mark 2 progress against the path
+
+    *Bust* You made some progress, but not as much as you'd
+    hoped. Describe the progress you did make as above. There are
+    important things that the materials you used during this period
+    simply could not help with, you'll need to find more materials to
+    continue. Mark 1 progress against the path.
+
+    *Miss* You've hit a dead end, in fact some of what you've already
+    done seems to be mistaken. Describe the roadblocks you came up
+    against and what was not as clear as it seemed. The materials you
+    used are not helpful for this. You'll need to find different
+    materials to make more progress. Remove 1 progress
+
+**** Complete the discovery
+
+     When you've done all the research and preparation you are going to
+     do, when you've gone as far down the path of discovery as you
+     want, you *make the discovery*.
+
+     Difficulty: the amount of progress on the path of discovery
+
+     | Difficulty | Scope of discovery on hit                       |
+     |------------+-------------------------------------------------|
+     |          3 | Common sense, could have probably asked someone |
+     |          6 | Usefull information or invention                |
+     |         10 | Groundbreaking information or invention         |
+     |         20 | Divine inspiratoin, godlike invention           |
+
+     *Hit* You make the discovery. Describe what you invented or
+     discovered and how it is useful
+
+     *Bust* You make a useful discovery, but there is a fatal
+     flaw. Describe the discovery or invention and the fatal flaw.
+
+     *Miss* Everything falls apart. The arguments don't line up right,
+     the invention just doesn't actually work. Back to the drawing
+     board. Remove all but 4 progress.
+
+*** Work for Money (discipline)
+
+    Roll when you do a weeks knowledge work in a given discipline in
+    exchange for money.
+
+    Difficulty: your current amount of money
+
+    *Hit* You earned good money. Increase money by 1
+
+    *Bust* You earned good money. Increase money by 1. You rushed your
+    work or otherwise performed poorly. Take 2 stress
+
+    *Miss* You earned just enough money to meet your expenses. Take 2
+    stress
+
+*** Work Art (medium)
+
+    Roll when you endeavor to create or work on a piece of art.
+
+    When you begin the work give it a name or a description and write
+    it down on your sheet. When you have time to work on it (at least
+    4 undisturbed hours with the necessary materials). Roll to make
+    progress on the work.
+
+    Difficulty: The current progress on the work.
+
+    *Hit* Describe what progress you made. Mark 4 progress on the work.
+
+    *Bust* Describe what roadblocks, setbacks, or difficulties you
+    faced. Remove 1 progress
+
+    *Miss* Describe what damage you did, or rework is needed. Remove 3
+    progress. Take 1 stress
+
+**** Complete the work
+
+     Roll when you complete a work of art
+
+     Difficulty: the progress so far
+
+     | Quality | Description                                           |
+     |---------+-------------------------------------------------------|
+     |       5 | Of a quality commonly found at fairs and markets      |
+     |       8 | Of a quality found when lucky at fairs and markets    |
+     |      10 | Fine quality work worth showing in museums            |
+     |      15 | Excellent quality work worth searching a lifetime for |
+     |      20 | Divinely inspired and guided work                     |
+
+     *Hit* Create a work of art of a quality equal to the progress + 4
+
+     *Bust* Create a work of art of a quality equal to the progress minus 1
+
+     *Miss* Rework is needed. Handle Distress equal to the progress.
+     Remove half the progress (rounded down). You may continue working
+     on it.
+
+*** Process
+
+    Roll when you take time to step back and process your experiences.
+    You must take an 8 hour period with no increases in stress,
+    strain, or tension. You must also focus on getting an objective
+    view of your circumstances. You may find help from whoever is
+    willing to listen and offer an outsiders eye. If you do, increase
+    your potential by 2.
+
+    Difficulty: current stress
+
+    *Hit* Reduce stress by 10
+
+    *Bust* Reduce stress by d10
+
+    *Miss* reduce stress by d10 - 5 or zero, whichever is higher.
+
+*** Handle Distress
+
+    Roll when you encounter distressing circumstances.
+
+    Difficulty: the amount of distress to handle
+
+    The amount of distress should take the seriousness of the event
+    into account. Temporary circumstances are less distressing than
+    permenant ones, life threatening ones are more distressing than
+    those that threaten esteem or belonging. The more surprising it is
+    the more distressing.
+
+    *Hit* The player and guide collaborate to choose one as
+    appropriate
+    - suffer 1d6 stress for unanticipated danger or harm to members of
+      your community
+    - suffer 1d6 stress if your deliberate actions defied your
+      communities values
+    - suffer 1d6 stress for unanticipated danger or harm to your
+      personal safety, esteem, belonging, or surivability.
+    - suffer 1d6 stress if your deliberate actions defied your values
+
+    *Bust* Double the number of dice in the roll from above
+
+    *Miss* The player and guide collaborate to choose one as
+    appropriate
+    - suffer 4 stress for unanticipated danger or harm to members of
+      your community
+    - suffer 5 stress if your deliberate actions defied your
+      communities values
+    - suffer 1 trauma for unanticipated danger or harm to your
+      personal safety, esteem, belonging, agency, or survivability.
+    - suffer 1 trauma if your deliberate actions defied your values
+
+*** Face Breakdown
+
+    Whenever you take a trauma, face breakdown.
+
+    Difficulty: The number of trauma
+
+    *Hit* You manage to handle the trauma and carry on
+
+    *Bust* You are overwhelmed by this trauma. Mark this trauma as
+    overwhelming and mark it's trauma die---1d8 if all three of the
+    following are true, 1d6 if just two are, and 1d4 otherwise.
+    - Your deliberate actions defied your values
+    - Your agency was taken away
+    - Your survivability or personal safety was threatened
+
+    For every roll, also roll this trauma's die. The
+    guide may add or subtract any trauma d6 to or from your roll. If
+    this pushes you into a bust or a miss, narrate how the trauma
+    affected your performance in this moment.
+
+    *Miss* Your character breaks down and cannot continue. Lose agency
+    over your character. Narrate their epilogue.
+
+** Physical Moves
+*** Labor for Money (trade)
+
+    Roll when you do a weeks labor in a given trade in exchange for
+    money.
+
+    Difficulty: your current amount of money
+
+    *Hit* You earned good money. Increase money by 1
+
+    *Bust* You earned good money. Increase money by 1. You overworked
+    yourself. Take 2 strain and take damage equal to your strain
+
+    *Miss* You earned just enough money to meet your expenses. Take 2
+    strain and take damage equal to your strain.
+
+*** Undertake a Journey
+
+    When you travel across hazardous or unfamiliar lands, first
+    estimate how far it is. Represent the distance by choosing a
+    difficulty for the journey
+
+    | Difficulty | Best Case Travel Time |
+    |------------+-----------------------|
+    |          2 | 1 day                 |
+    |          3 | 3 days                |
+    |          4 | 1 week                |
+    |          5 | 2 weeks               |
+    |          6 | 1 month               |
+    |          7 | 3 months              |
+    |          8 | 6 months              |
+    |          9 | 9 months              |
+    |         10 | 1 year                |
+    |         11 | 3 years               |
+    |         12 | 5 years               |
+
+    Then roll
+
+    *Hit*, you reach the destination in the best case travel time,
+    envision the trip, reduce all {{{ travel supplies }}} by one. Set
+    your strain to 5
+
+    *Bust* You make it to a waypoint along the way. Reduce all {{{
+    travel supplies }}} and the difficulty of the journey by one. Take
+    2 strain. Envision the waypoint {{{ probably roll on an encounter
+    table (adventure?), make camp that crap }}}
+
+    *miss* you are waylaid by a perilous event. reduce all {{{ travel
+    supplies }}} by one. Take 4 strain. Roll again when ready to
+    continue
+
+*** Strike(weapon)
+
+    When you have control of the fight roll to strike a foe in combat
+    with a weapon to harm them.
+
+    Difficulty: the target's defense
+
+    *Hit*
+    * they face damage equal to your roll
+    * Gain control of the fight
+
+    *Bust*
+    * Your opponent may counterattack or defend
+    * Lose control of the fight
+
+    *Miss*
+    * No damage done and none taken.
+    * Lose control of the fight
+
+*** Volley(weapon)
+
+    When you throw, shoot, or bombard, you *volley* a target.
+
+    Difficulty: Target's defense
+
+    *Hit* Target faces damage equal to your roll
+
+    *Bust* You've exposed yourself to a counterattack
+
+    *Miss* You've exposed yourself to a counterattack, take strain
+    equal to your roll
+
+*** Counterattack(weapon)
+
+    Roll with advantage when an opponent exposes themselves to a
+    counterattack and you are in a position to do so. For example, you
+    can't counterattack a ranged opponent without a ranged weapon.
+
+    Difficulty: the target's defense
+
+    *Hit*
+    * They face damage equal to your roll
+    * Gain control of the fight
+
+    *Bust*
+    * Face damage equal to your defense. This represents the minimum
+      possible damage from their strike
+    * Lose control of the fight
+
+    *Miss*
+    * face damage as above
+    * take 2 strain
+    * Lose control of the fight.
+
+*** Defend(technique)
+
+    Your ability to defend yourself against attack. Possibly with a
+    shield, with armor, or by dodging
+
+    Techniques
+    * Armor
+    * Shield
+    * Dodge
+    * Misdirection
+
+    Difficulty: their strike or volley potential - your defense
+
+    *Hit*
+    - They take 2 strain
+    - Gain control of the fight
+
+    *Bust*
+    - Take 2 strain, they take 2 strain
+    - Lose control of the fight
+
+    *Miss*
+    - Face damage equal to your defense. This represents the minimum
+      possible damage from their strike
+    - Lose control of the fight
+
+*** Take Damage
+
+    Difficulty: The damage taken
+
+    Roll when you are struck by a weapon, fall from a great height, or
+    otherwise *take damage*.
+
+    *Hit* choose one as appropriate
+    - suffer 1 *strain* from an unarmed attacker
+    - suffer 2 *strain* from an improvised weapon
+    - suffer 3 *strain* from a one handed weapon or over exertion
+    - suffer 5 *strain* from a two handed weapon
+    - potentially more *strain* based on the circumstances. How high a
       fall was, how sharp the rocks are etc.
 
-   *Miss* GM chooses one as appropriate
-   1. suffer 6 *strain* for an unarmed attack
-   2. suffer 10 *strain* for an improvised weapon
-   3. suffer 1 *injury* if hit by a one handed weapon
-   4. suffer 2 *injuries* if hit by a two handed weapon
-   5. potentially more *injuries* based on the circumstances. How high a
-      fall was, how sharp the rocks are etc.
+    *Bust* Double the result from above
 
-   *Face death* if you suffered an *injury*
+    *Miss* Choos one as appropriate
+    - suffer 4 *strain* for an unarmed attack
+    - suffer 5 *strain* for an improvised weapon
+    - suffer 1 *injury* if hit by a one handed weapon or over exertion
+    - suffer 2 *injuries* if hit by a two handed weapon
+    - potentially more *injuries* based on the circumstances. How high
+      a fall was, how sharp the rocks are etc.
 
-** Fight {{{ like Ironsworn Enter the Fray }}}
+    *Face death* if you suffered an *injury*
 
-   {{{ Make weapon moves for attacks (adventure not core?) }}}
+*** Rest
 
-   {{{ Make a grapple move (adventure not core?) }}}
+    There are *short rests* and *long rests*. Each require you to eat
+    and drink. Short rests take about an hour. Long rests take at least
+    8 hours.
 
-   {{{ Make a generic strike move that differentiates improvised,
-   ranged, one handed, and two handed weapons}}}
+    After a *short rest* recover 1 *strain*
 
-   Roll when you *fight* toe to toe in melee (close) range.
+    After a *long rest* recover 1d6 *strain*.
 
-   Difficulty: Your opponent's {{{*defense*}}}.
+    After a *long rest* you may roll to recover from an injury.
 
-   When you *fight* with a *weapon* that weapon's properties replace
-   *fight's* properties.
+    Difficulty: Your number of *injuries* + *traumas*
 
-   *Hit* The target must *face damage* as rolled
+    *Hit* You recover from the *injury*
 
-   *Bust* Suffer 1 strain
+    *Bust* You recover from the *injury* but are distressed by the
+    ordeal. Handle distress equal to your injuries + traumas
 
-   *Miss* Suffer 2 strain
+    *Miss* You do not recover and are weak from the ordeal. Suffer 3 *Strain*
+    Handle distress equal to your injuries + traumas
 
-** Gather Information
+*** Face Death
 
-   When you search an area, ask questions, conduct an investigation,
-   or follow tracks or a trail, roll.
+    Whenever you take an injury *face death*. Write down a short
+    description of the injury on your character sheet.
 
-   *Hit* You discover something helpful and specific. The path you
-   must follow or action you must take to make progress is made clear.
+    Difficulty: The number of injuries
 
-   *Bust* The information complicates things or introduces a new
-   danger.
+    *Hit* You are able to press on despite your injuries
 
-   *Miss* Your investigation unearths a dire threat or reveals an
-   unwelcome truth that undermines your goals.
+    *Bust* You are overwhelmed by the injury. Mark this injury as
+    overwhelming. You get one level of disadvantage on all physical
+    moves from each unhealed overwhelming injury. If you have two
+    overwhelming injuries, you roll 3 dice taking the worst for each
+    physical move.
 
-** Improve
+    *Miss* You die
 
-   Mark experience on any *move* you make when all of the following
-   are true:
-   - the difficulty is higher than your *strain* (you don't learn when
-     you are worn out)
-   - you roll a die higher than your potential (you don't learn when
-     you aren't reaching past your current abilities)
-   - you *miss* (you don't learn when you don't fail)
+** Social Moves
+*** Convince the Skeptical
 
-   When you've marked an amount of experience equal to your potential
-   with a move, *improve* that move's potential by one and erase all
-   experience marked on it.
+    Roll when you try to get someone to believe something, see things
+    your way, or do something they don't see is in their interest. Say
+    how you are convincing them, or role play the interaction then the
+    guide will determine a difficulty.
 
-** Undertake a Journey
+    *Hit* They see things your way or do what you convinced them to do
 
-   When you travel across hazardous or unfamiliar lands, first
-   estimate how far it is. Represent the distance by choosing a
-   difficulty for the journey
+    *Bust* They are convinced but get some important detail wrong. They
+    do what you want---or something similar---but somehow manage to add
+    another problem you now have to deal with
 
-   | Difficulty | Best Case Travel Time |
-   |------------+-----------------------|
-   |          2 | 1 day                 |
-   |          3 | 3 days                |
-   |          4 | 1 week                |
-   |          5 | 2 weeks               |
-   |          6 | 1 month               |
-   |          7 | 3 months              |
-   |          8 | 6 months              |
-   |          9 | 9 months              |
-   |         10 | 1 year                |
-   |         11 | 3 years               |
-   |         12 | 5 years               |
+    *Miss* They are not convinced and are done talking. They want to
+    end the conversation or interaction as quickly as possible.
+    Suddenly they have somewhere important to be. They may turn the
+    tables and now expect you to do something for them instead.
 
-   Then roll
+*** Build Community (group)
 
-   *Hit*, you reach the destination in the best case travel time,
-   envision the trip, reduce all {{{ travel supplies }}} by one. Set
-   your strain to 5
+    When you settle into a home in a city, town, the country, and
+    endeavor to build or participate in a sense of connection and
+    reciprocity between the people in the area you *build community*.
 
-   *Bust* You make it to a waypoint along the way. Reduce all {{{
-   travel supplies }}} and the difficulty of the journey by one. Take
-   2 strain. Envision the waypoint {{{ probably roll on an encounter
-   table (adventure?), make camp that crap }}}
+    When you first begin to settle into a place or start getting to
+    know a group, name the community and write it on your sheet. Roll
+    when you make time to get to know and understand them; when you
+    open up to them yourself.
 
-   *miss* you are waylaid by a perilous event. reduce all {{{ travel
-   supplies }}} by one. Take 4 strain. Roll again when ready to
-   continue
+    Difficulty: your current reputation in the community.
+    - +1 if you hold values counter to the values of the community
+    - +3 if you don't hold any values in common with the community
 
-** Rest and Recover
+    *Hit* The bond between you grows, you've built some reputation in
+    the community. Mark 2 reputation with the community and write down
+    the values that the reputation is built on.
 
-   There are *short rests* and *long rests*. Each require you to eat
-   and drink. Short rests take about an hour. Long rests take at least
-   8 hours.
+    *Bust* The bond between you grows somewhat. Mark 1 reputation with
+    the community. the guide chooses one:
+    - They question how strongly you hold an important community value
+    - They question how committed you are to stay active in the
+      community
+    - They get the sense you are hiding something, but are giving you
+      the benefit of the doubt.
 
-   After a *short rest* recover 1d6 *strain*
+    *Miss* The bond does not grow. You cannot increase reputation with
+    the community with whoever was involved in this interaction until
+    you increase reputation with another member first. Lose 1
+    reputation and the guide chooses one.
+    - They question whether you hold an important community value
+    - They question how long you will stick around
+    - They think you are hiding something
 
-   After a *long rest* recover all *strain*.
+    Let the players in on the details of the result even if that
+    information is not clear to the characters.
 
-   After a *long rest* you may roll to recover from an injury.
+*** Socialize
 
-   Difficulty: Your number of *injuries*
+    Roll when you socialize.
 
-   *Hit* You recover from the *injury*
+    Difficulty: Current tension
 
-   *Bust* You recover from the *injury* but are weak from the
-   ordeal. Suffer 3 *Strain*
+    *Hit* Reduce tension by 3d6
 
-   *Miss* You do not recover and are weak from the ordeal. Suffer 3 *Strain*
+    *Bust* You've overdone it. Roll 3d6. Assign 2 to tension
+    reduction. Assign the other to an increase in...
+    - tension; you've gotten annoyed, frustrated, angry etc.
+    - stress; you've fatigued yourself or indulged in worry, gossip,
+      or lies
+    - strain; You've overexerted yourself, lost sleep, invited
+      hangover, or got rowdy, bumped, and bruised.
 
-** {{{ Make Camp }}}
-** {{{ Make a Home }}}
+    *Miss* You've made a mess of it. Roll 3d6 and assign 1 to tension
+    reduction and the other 2 as above.
 
-   Settling into a home in a city or town or the country
+*** Confront Disgrace
 
-** {{{ Work Art }}}
-** {{{ Work a Trade }}}
+    When you are judged (either justly or otherwise) to have violated
+    community values, *confront disgrace*
+
+    Difficulty: The importance of the violated value
+
+    *Hit* You come to an understanding and can move past it. Water
+    under the bridge. Choose one as appropriate whether you were
+    justly accused or not.
+    - suffer 1 tension if no one was specifically adversely affected
+    - suffer 2 tension if people were put in awkward positions,
+      angered, annoyed, worried
+    - suffer 3 tension if people were scraped, bruised, or sleep
+      deprived
+    - suffer 4 tension if one person was injured or traumatized
+    - suffer 5 tension if more than one person was injured or
+      traumatized
+    - perhaps suffer more tension if a particularly large number of
+      people were adversely affected
+
+    *Bust* You come to an understanding and can move past it but the
+    community will remember this. Forgiven but not forgotten. Lose 5
+    reputation. Choose one as appropriate whether you were
+    justly accused or not as above.
+
+    *Miss* You did not come to an understanding. Face Banishment. Take
+    4 tension and 4 stress.
+
+*** Face Banishment
+
+    When a community has had enough of you, *face banishment*.
+
+    Difficulty: 10 - reputation
+
+    *Hit* You come to an understanding but Lose 5 reputation.
+
+    *Bust* You may remain but...
+    - lose all reputation
+    - Handle distress equal to your lost reputation
+
+    *Miss* You are banished. You'll be driven away with pitchforks and
+    torches etc. Depending on your game this might mean retirement
+    for a character similar to death or breakdown.
+
 * Consumption Moves
-** Make and Spend Coin
+** Spend Money
 
    Keep track of the *amount* of *coin* you have
 
-   Coin is not earned with experience but is worked for, traded for,
-   found, stolen and so on. When you get your hands on substantial
-   *coin* roll d6. If it's higher than your current *amount* increase
-   your *amount* by one.
-
-   | Amount | Potential | Rough cash on hand |
-   |--------+-----------+--------------------|
-   |      1 |         2 | 10 Copper          |
-   |      2 |         4 | 10 Silver          |
-   |      3 |         5 | 10 Gold            |
-   |      4 |         6 | Gold               |
-   |      5 |         7 | 1000 Gold          |
-   |      6 |        15 | 10000 Gold         |
-
    Roll (ignoring strain) when you spend *coin* to buy services,
-   supplies, gear, or items. You can find prices in the {{{ gear
-   section }}}
+   supplies, gear, or items. Prices will depend on the specific
+   setting your game is in but use the above chart as a guide
 
    *Hit* you can easily afford it
 
@@ -433,14 +736,14 @@ Quill Adventure was influenced by a bunch of great prior work.
    reduce your coin amount by one.
 
    *miss* You can afford it only at great cost (or not at all). Either
-   don't buy it or reduce your coin amount by three.
+   don't buy it or reduce your coin amount by your roll.
 
 ** Stock and Use Supplies (type)
 
-   Supply dice are not bought with experience, they are bought with
+   Supplies are not bought with experience, they are bought with
    coin---or found or stolen.  When you acquire *supplies* of a type
-   {{{ listed in the gear section }}} roll d6. If it's higher than
-   your current *amount* increase your *amount* by one.
+   roll d6. If it's higher than your current *amount* increase your
+   *amount* by one.
 
    | Amount | Potential |
    |--------+-----------|
@@ -453,8 +756,8 @@ Quill Adventure was influenced by a bunch of great prior work.
 
    Difficulty: 4
 
-   Roll (ignoring strain) when you use some supply of a type for the
-   first time since a long rest.
+   Roll when you use some supply of a type for the first time since a
+   long rest.
 
    *Hit* You've got plenty
 
@@ -463,7 +766,69 @@ Quill Adventure was influenced by a bunch of great prior work.
    *bust* reduce your *amount* of the supply by 1 but you've still got
    plenty---unless you reduced the *amount* to 0, then there are 4 more.
 
-* {{{ Gear, Items, Services, and Supply }}}
+* Gear, Items, Services, and Supplies
+
+
+  # This part is setting, I wonder if we can get away with giving
+  # instructions for envisioning this stuff on the fly and put
+  # specifics in setting specific zines so that this book can work
+  # as the core for all other settings
+
+* Playing and Running Quill
+
+  Spend as little time as possible making characters. Just roll them
+  up and start playing. Let the interaction between the challenges
+  of the campaign and their abilities shape them as you go
+
+  Don't write a back story before playing a character. Let it come as
+  you grow into the character, and the character grows into the
+  game. Make it up as you go along. Make decisions in play then
+  justify them with back story then keep that back story real as you
+  continue
+
+  There are no guide moves, the guide's job is to maintain the
+  verisimilitude of the sandbox by using the sandbox tools, a
+  commitment to consistency, and their imagination
+
+  Verisimilitude does not need to mean realistic or naturalistic.
+  Work with the group to find the genre you all want to play, the
+  style you want to explore. When starting the game talk about the
+  kind of world you all want to play in, then refine that over the
+  course of the game by talking through any rulings the guide is
+  making. The goal is for everyone to know how this world you are
+  playing in works so they have what they need to make meaningful
+  decisions for their characters.
+
+  Say "okay and...". Favor agreement and alignment between
+  characters. Agree with other characters or drive towards your
+  motivation and accept help from other PCs. Disagreeable and
+  misaligned characters make scenes drag.
+
+** Creating Characters
+
+   Quill characters all start with 3 potential in all moves, 0 stress,
+   0 strain, 0 tension.
+
+   Choose 7 moves and roll 2d10 for each. Set their potential to the
+   higher of the two dice or a minimum of 4.
+
+   Write three values in priority order. Things like "Honor, Honesty,
+   and Wealth"
+
+   Choose a name
+
+** Sandbox Tools
+
+   Generators for things (These are not setting agnostic, these will
+   be setting, These can go in setting specific guidebooks)
+
+   * NPCs
+   * Communities
+   * Encounters
+   * Dungeons
+
+   /Read through stars without number/
+
 * License
 
 This work is licensed under a Creative Commons Attribution 4.0

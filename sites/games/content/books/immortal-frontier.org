@@ -15,141 +15,137 @@ badass spaceships, capatalism, imperialism, and revolution.
 Play to find out what humanity becomes and what becomes of your
 humanity
 
-* The Basics
+* The Basic Rules
 
-  Gather a group of 2 to 6 friends who are into this game. Talk
-  through this whole section as a group then jump into *The Kickoff*
-  where you’ll create characters, give them skills, gear up, then play
-  a Frigate Squadron Operation
+  This is a quick overview of the basic rules. These will be
+  referenced and expanded on later. There will also be more rules
+  than this, but those are more specific to their situation and will
+  be introduced when they are needed. These are the basic rules.
 
-  This manual assumes that someone in your group is familiar with
-  tabletop role-playing games (TRPGs). It's best if they are familiar
-  with ones that are Powered by the Apocalypes (PbtA). If it is
-  everyone's first fime I'd suggest playing one of the exelent PbtA
-  games that inspired it first.
+** Cash and Gear
 
-  Apocalypse World by Vincent and Meguey Baker
+   Your Spaceships are goddamn everything. You can't do
+   anything---except what is offered in whatever station you happen to
+   be in---without one. They don't do much without being equiped with
+   weapons, and other gear. You'll start with a ship and enough gear
+   to start earning some Cash. All Spaceships and Gear can be bought
+   and sold on the market, get destroyed in combat, and built through
+   Industry.
 
-  Blades in the Dark by John Harper
+** Experience and Skills
 
-** Safety
+   Characters have Ranks in Skills which are prerequisites for other
+   skills and using Gear which is how Characters do everything. You'll
+   earn Experience Points through play that you can spend on more
+   Skill Ranks when you can afford it. The specifics are all described
+   in the *Experience and Skills* section later.
 
-   There is one rule that's unacceptable to play without. *You must
-   use safety tools.* Research and consider Lines/Veils and The X
-   Card. Choose with the group. These are personal boundaries made
-   explicit and it’s against the rules to cross, push, or test
-   them. It’s against the rules to question the necessity of any
-   boundary that anyone has set, but it is important to understand the
-   boundary clearly so clarifying questions are good. *DO NOT* give
-   examples of things that might cross the boundary to clarify. That
-   iself crosses the boundary. Don’t push or test anyone’s boundaries.
-   There are two acceptable responses to someone setting a boundary.
-   Accept, understand, and respect it, or leave the game.
+** Dice
 
-** The Conversation
+   The rules will often call for rolling some dice to see how
+   something turns out. Always roll d6s. Roll them in pools with a
+   number of dice determined by a stat. A pool might be 1d6 or 20d6
+   depending on the situation. Either get lots of dice of a few
+   different colors (I reccomend 12mm dice so you can hold a lot of
+   them) or use an online dice roller.
 
-   the game is a conversation. If you're used to tabletop role-playing
-   games you are used to this converation. One of you will be *The
-   Space Conductor (SC)*---this game's MC or GM---and everyone else
-   will be a *Player* and play a *Protagonist* which they'll create in
-   *The Kickoff*. You all discuss and tell each other about the
-   circumstances and developments of your space opera. You and build
-   the fiction together through conversation. The players are each
-   responsible for and have full authority over their Protagonist's
-   choices, goals, and striving. The SC is responsible for and has
-   full authority over the rest of the characters and fictional
-   elements thouth the Players play the only protagonists. Everyone
-   follows the same game rules regardless of their responsibilities
-   for the fiction.
+   Every roll references a table---or tables---listing up to 6
+   possible outcomes. When you roll, you'll assign up to your---or
+   your ships---rank in dice to those outcomes.
 
-   Tweet @jessebmiller and tell me how you got here and how it goes.
+   For example. Say you are in a rank 2 ship, and you are trying to
+   get a target lock on an enemy ship. Your ship description lists its
+   built in targeting table as follows
 
-** Everyone's Agenda
+   | roll | effect         |
+   |------+----------------|
+   |    1 | lose all locks |
+   |    2 | lose 2 locks   |
+   |    3 | none           |
+   |    4 | none           |
+   |    5 | gain 1 lock    |
+   |    6 | gain 2 locks   |
 
-   * Keep the table safe for everyone involved
-   * Belt out Space Opera
-   * Commit to the play, or take a break
-   * Trust the rules long enough to have the benefic of hindsignt
-     before you hack them
-   * Honor the characters, let them live, strive, succeed, and fail
-   * Name everyone
-   * Play to find out what happens
-   * Play to find out who the characters are
-   * Play to find out what they build and what it costs them
-   * Play to find out what of them is in you
+   You have the targeting computer skill at rank 3 which lists a
+   targeting table as follows.
 
-** The Basic Rules
+   | roll | effect       |
+   |------+--------------|
+   |    1 | lose 2 locks |
+   |    2 | none         |
 
-   This is a quick overview of the basic rules. These will be
-   referenced and expanded on later. There will also be more rules
-   than this, but those are more specific to their situation and will
-   be introduced when they are needed. These are the basic rules.
+   Following the rules for Combat below, you determine that your pool
+   for this roll is 3 dice. Your roll comes up [1, 1, 5]. Since your
+   rank is 2, you chose two of the rolls effects to occur (in any
+   order). You choose a 1 and the 5. First you assign the 1 to the 1
+   effect from the targeting computer skill and "lose 2 locks" then
+   assign the 5 to the ships built in targeting computer table and
+   gain 1 lock.
 
-*** Cash and Gear
+   Next round you roll for locks and get [1, 2, 6]. You chose the 2
+   and the 6 to assign, assigning the two to the targeting computer
+   skill table (none) and the 6 to the ship targeting computer table
+   and gain targeting locks on 2 ships.
 
-    Your Spaceships are goddamn everything. You can't do anything
-    without one. They don't do much without being equiped with
-    weapons, and other gear. You'll start with a ship and enough gear
-    to start earning some Cash. All Spaceships and Gear can be bought
-    and sold on the market, get destroyed in combat, and built through
-    *Industry*.  All the details are described in the *Cash and Gear*
-    section later, or in the *Industry* manual. Don't worry about
-    reading them until after you play *The Kickoff*
+** Space Combat
+*** Engage
 
-*** Experience and Skills
+    When enemy ships are in your local area you may *engage* them, or
+    they may *engage* you. Both sides of the engagement follow the
+    procedure simultaneously with each each step informing the
+    following steps.
 
-    Characters have Ranks in Skills which are prerequisites for using
-    Gear which is how Characters do everything. You'll give your
-    Character some Ranks in some Skills in *The Kickoff* and they'll
-    earn Experience Points through play that you can spend on more
-    Skill Ranks when you can afford it. The specifics are all
-    described in the *Experience and Skills* section later. Don't
-    worry about reading it until after you play *The Kickoff*
+    When you start an engagement or new ships join, establish the
+    range between you and the other ships. Every player rolls a number
+    of d6s equal to their engines pool. the SC does the same for every
+    enemy ship. Whatever side did not initiate the engagement assigns
+    a die from their roll to each ship that they can. The other side
+    may then assign dice from their pool to either add to or subtract
+    from the opposing assignment to a max of 6 and a minimum of 1. If
+    there are not enough dice to assign to all the ships the initiator
+    may choose starting ranges for ships that did not assign dice to
+    them.
 
-*** Dice
+    An engagement occurs in rounds with 4 phases each. Everyone
+    executes each phase in order simultaniously. When order matters
+    for effects, the piolot of the affected ship chooses the order of
+    effects.
 
-    The rules will often call for rolling some dice to see how
-    something turns out. Always roll d6es. Roll them in pools with a
-    number of dice determined by a stat. There are a few forms it may
-    take but the rules will always tell you what to roll and how to
-    intrepret the result. A pool might be 1d6 or 20d6 depending on the
-    situation. Either get lots of dice of a few different colors (I
-    reccomend 12mm dice so you can hold a lot of them) or use an
-    online dice roller.
+    *Sensors*
+    * Describe the engagement
+    * Say what is obvious
+    * Roll Sensors
 
-    When you roll a pool look for hits. A hit is a 5 or
-    a 6. Everything else is a miss. Often you'll total up the hits and
-    do something depending on that number, other times you'll spend
-    your hits one for one on some effect or just check to see if you
-    have any hits or not. The rule calling for the roll will tell you
-    how to intrepret the hits.
+    *Engineering*
+    * Assign Engineeting dice to Speed, Maneuverability, Repair, and Warp
+      pools then roll them
 
-    The pool forms are:
+    *Designers Note* Speed tables let you manipulate range,
+    Maneuverability tables let you effect opponents Damage or Sensors
+    tables for a round and Repair tables let you repair the ship. The
+    Warp table works in steps. The "Prepare for warp" effect adds
+    "Warp off" options to the Warp tables so it takes a round to
+    prepare then you can try to warp off. Warp jammers 
 
-    *Roll X*: The simplest form is to just roll the pool.
+    *Attack*
+    * Assign Gunnery dice to Damage and Accuracy pools then roll.
 
-    *Roll X and Y*: Roll two pools at once using different color dice
-    for each or keep them separate by rolling them one at a time.
+    *Designers Note* Damage tables do more damage but are susceptible
+    to manuvering. Accuracy tables are not susceptible to anything but
+    the most extreme maneuvering. Missiles have identical damage and
+    accuracy tables, but may be outrun.
 
-    *Roll X against Y*: Roll two pools and compare the number of
-    hits. If one has more hits it beats the other.
+    *Defenses*
+    * Note what damage types each hit causes and roll Defenses. For
+      each assignment chose the column matching the damage type you
+      want to effect.
 
-    *Assign X dice to Y and Z pools and roll*: Split X's dice into
-    pools Y and Z any way you want. Roll Y and Z. For example: Assign
-    Engine to Speed and Maneuverability and roll. If your Engine stat
-    is a 7 you could put 0 in speed and 7 in Maneuverability, or 3 in
-    speed and 4 in Maneuverability as long as the two pools added up
-    to 7. Once the pool is devided, roll them both.
-
-*** Range and Radial Velocity
-
-    ///// REWRITE THIS HOLY CRAP ///// If you haven't established
-    range and radial velocity between you and the other ships do that
-    first. Every player rolls a D6 for every other ship. Either ship
-    may increase or decrease that roll by one a number of times equal
-    to their Engines rank. Keep track of these numbers as they change
-    through the engagement. The minimum range and radial velocity
-    is 1. The max is 6
+    *Designers Note* Defenses come with 3 tables, one for Shields, one
+    for Armor, and one for Hull. Shields effects will tend to effect
+    future shield rolls in the same way that maneuverability can
+    affect Damage and Sensors. Armor tracks an amount of armor that
+    works like hit points, and hull damage starts to reduce your dice
+    pools.
 
 * The Kickoff
 
@@ -309,7 +305,7 @@ humanity
    frigate operation. Perhaps its a currier job, mining an astroid, or
    a salvage mission. This discussion will include telling the whole
    group information that none of their characers know. This is
-   fine. Be an adult about it.
+   fine. Don't metagame. Be an adult.
 
    Each player says a reason that their character openly admits to for
    being here and the real reason they are here.
@@ -325,15 +321,16 @@ humanity
    Each player says what their charcter was doing just before the
    scene starts
 
-   The SC says what ad is showing on what screen on the nearest space
-   station just before the scene starts
+   The SC describes the ad is showing on what screen on the nearest
+   space station just before the scene starts
 
    Play out the scene, say what happens, have the conversation. Warp
    around the system, jump through some gates, carry out your
    operation. When the time is right The SC will introduce an enemy
-   squadron and you'll use *The Basic Moves* to play out the
+   squadron and you'll use the space combat rules to play out the
    fight. You might lose your ships but that's okay. You can afford to
-   replace it. Starting ships are free and always available.
+   replace it. Starting ships are Cheap and Available at every
+   station.
 
    Quickly finish up the narration of the operation and decide what
    was gained, what it cost, and what stakes were lost
@@ -346,6 +343,11 @@ humanity
   ranks in Battlecruiser and want to buy the fourth.  Battlecruiser is
   a level two skill and you want to buy the fourth rank. So that costs
   6 Experience Points. The Level (2) plus the Rank (4)
+
+  Experience points are earned in real player time, and you can adjust
+  how quickly that happens based on how fast you want your advancement
+  to go. By default earn 2 experience points a week. There are no
+  skills that make earning experience points faster.
 
 ** Frigate Combat Operations
 
@@ -378,6 +380,19 @@ humanity
 ** Armor Defense
 
    Rank: 0
+
+** Targeting Computer
+
+   Rank 3
+
+   When using a targeting computer to gain locks on ships in
+   space---including the computer built into the ship---these effects
+   are available.
+
+   | roll | effect      |
+   |------+-------------|
+   |    1 | lose 1 lock |
+   |    2 | none        |
 
 * Cash and Gear
 
@@ -475,61 +490,3 @@ humanity
    bolted to the exterrior of the ship. Heavy and reliable
 
 * The Basic Moves
-** Engage
-
-   When enemy ships are in your local area you may *engage* them, or
-   they may *engage* you. Both sides of the engagement follow the
-   procedure simultaneously with each each step informing the
-   following steps.
-
-   *Observe*
-   * Describe the engagement
-   * Say what is obvious
-   * Assign Sensors dice to Strength and Lock Speed pools then roll
-   * If there is a Lock Speed success you may gain a lock on any ship
-     for each Strength success up to a maximum number of locks equal
-     to your Targeting rank + 1.
-
-   *Maneuver*
-   * Assign Engine dice to Speed and Maneuverability pools then roll
-     them
-   * For each success in the Speed pool you may increase, decrease, or
-     maintain Range between you and any other ship
-   * For each hit in the Maneuverability pool you may increase,
-     decrease, or maintain Radial Velocity between you and another
-     ship
-   * If there are no hits in the Maneuverability pool every opponent
-     may adjust Radial Velocity in any direction by one
-
-   *Attack*
-   * Assign Weapons Systems dice to Range, Tracking, and Damage pools. Set the
-     damage pool aside.
-   * Add bonus Range, Tracking, and Damage dice from your installed
-     weapons stats
-   * Choose a ship that you have locked to fire on.
-   * Subtract your Range from the Range pool and your Radial Velocity
-     (or their current Speed pool if firing Missiles) from the
-     Tracking pool.
-   * Roll Range and Tracking. If there are hits in both the attack
-     hits.
-
-   *Defend*
-   * All ships that are hit roll their Armor and Shield pools against
-     the Damage pool(s) of the Weapon(s) that hit them.
-   * Reference the Weapon(s) and the ships defense modules to see
-     which hits reduce the damage
-   * For each damage suffered, choose a system–Defense, Engines, or
-     Weapons–and mark damage against that system
-
-   If the engagement isn't over players may make one or two other
-   moves first but *engage* again soon
-
-** Warp Off
-
-    When a ship is not warp jammed, they may *warp off*. Any ship that
-    was in an engagement with them may *engage* again. If no one does,
-    they warp wherever within the system they want. If someone does
-    *engage*, and at the end of the engagement the ship is still not
-    warp jammed, they roll their Engines pool and warp wherever within
-    the system they want if there is a hit.
-
