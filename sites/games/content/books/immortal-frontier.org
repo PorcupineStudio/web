@@ -12,328 +12,103 @@ title-font = "https://fonts.google.com/specimen/Poiret+One?category=Sans+Serif,D
 Immortal Frontier is a space opera tabletop role-playing game about
 badass spaceships, capatalism, imperialism, and revolution.
 
-Play to find out what humanity becomes and what becomes of your
-humanity
-
-* The Basic Rules
-
-  This is a quick overview of the basic rules. These will be
-  referenced and expanded on later. There will also be more rules
-  than this, but those are more specific to their situation and will
-  be introduced when they are needed. These are the basic rules.
-
-** Cash and Gear
-
-   Your Spaceships are goddamn everything. You can't do
-   anything---except what is offered in whatever station you happen to
-   be in---without one. They don't do much without being equiped with
-   weapons, and other gear. You'll start with a ship and enough gear
-   to start earning some Cash. All Spaceships and Gear can be bought
-   and sold on the market, get destroyed in combat, and built through
-   Industry.
-
-** Experience and Skills
-
-   Characters have Ranks in Skills which are prerequisites for other
-   skills and using Gear which is how Characters do everything. You'll
-   earn Experience Points through play that you can spend on more
-   Skill Ranks when you can afford it. The specifics are all described
-   in the *Experience and Skills* section later.
-
-** Dice
-
-   The rules will often call for rolling some dice to see how
-   something turns out. Always roll d6s. Roll them in pools with a
-   number of dice determined by a stat. A pool might be 1d6 or 20d6
-   depending on the situation. Either get lots of dice of a few
-   different colors (I reccomend 12mm dice so you can hold a lot of
-   them) or use an online dice roller.
-
-   Every roll references a table---or tables---listing up to 6
-   possible outcomes. When you roll, you'll assign up to your---or
-   your ships---rank in dice to those outcomes.
-
-   For example. Say you are in a rank 2 ship, and you are trying to
-   get a target lock on an enemy ship. Your ship description lists its
-   built in targeting table as follows
-
-   | roll | effect         |
-   |------+----------------|
-   |    1 | lose all locks |
-   |    2 | lose 2 locks   |
-   |    3 | none           |
-   |    4 | none           |
-   |    5 | gain 1 lock    |
-   |    6 | gain 2 locks   |
-
-   You have the targeting computer skill at rank 3 which lists a
-   targeting table as follows.
-
-   | roll | effect       |
-   |------+--------------|
-   |    1 | lose 2 locks |
-   |    2 | none         |
-
-   Following the rules for Combat below, you determine that your pool
-   for this roll is 3 dice. Your roll comes up [1, 1, 5]. Since your
-   rank is 2, you chose two of the rolls effects to occur (in any
-   order). You choose a 1 and the 5. First you assign the 1 to the 1
-   effect from the targeting computer skill and "lose 2 locks" then
-   assign the 5 to the ships built in targeting computer table and
-   gain 1 lock.
-
-   Next round you roll for locks and get [1, 2, 6]. You chose the 2
-   and the 6 to assign, assigning the two to the targeting computer
-   skill table (none) and the 6 to the ship targeting computer table
-   and gain targeting locks on 2 ships.
-
-** Space Combat
-*** Engage
-
-    When enemy ships are in your local area you may *engage* them, or
-    they may *engage* you. Both sides of the engagement follow the
-    procedure simultaneously with each each step informing the
-    following steps.
-
-    When you start an engagement or new ships join, establish the
-    range between you and the other ships. Every player rolls a number
-    of d6s equal to their engines pool. the SC does the same for every
-    enemy ship. Whatever side did not initiate the engagement assigns
-    a die from their roll to each ship that they can. The other side
-    may then assign dice from their pool to either add to or subtract
-    from the opposing assignment to a max of 6 and a minimum of 1. If
-    there are not enough dice to assign to all the ships the initiator
-    may choose starting ranges for ships that did not assign dice to
-    them.
-
-    An engagement occurs in rounds with 4 phases each. Everyone
-    executes each phase in order simultaniously. When order matters
-    for effects, the piolot of the affected ship chooses the order of
-    effects.
-
-    *Sensors*
-    * Describe the engagement
-    * Say what is obvious
-    * Roll Sensors
-
-    *Engineering*
-    * Assign Engineeting dice to Speed, Maneuverability, Repair, and Warp
-      pools then roll them
-
-    *Designers Note* Speed tables let you manipulate range,
-    Maneuverability tables let you effect opponents Damage or Sensors
-    tables for a round and Repair tables let you repair the ship. The
-    Warp table works in steps. The "Prepare for warp" effect adds
-    "Warp off" options to the Warp tables so it takes a round to
-    prepare then you can try to warp off. Warp jammers 
-
-    *Attack*
-    * Assign Gunnery dice to Damage and Accuracy pools then roll.
-
-    *Designers Note* Damage tables do more damage but are susceptible
-    to manuvering. Accuracy tables are not susceptible to anything but
-    the most extreme maneuvering. Missiles have identical damage and
-    accuracy tables, but may be outrun.
-
-    *Defenses*
-    * Note what damage types each hit causes and roll Defenses. For
-      each assignment chose the column matching the damage type you
-      want to effect.
-
-    *Designers Note* Defenses come with 3 tables, one for Shields, one
-    for Armor, and one for Hull. Shields effects will tend to effect
-    future shield rolls in the same way that maneuverability can
-    affect Damage and Sensors. Armor tracks an amount of armor that
-    works like hit points, and hull damage starts to reduce your dice
-    pools.
-
-* The Kickoff
-
-  Read *Gifts of Eris*. Aloud if y'all want
-
-  Players *Create Your Immortal*
-
-  The SC runs a *Frigate Squadron Operation* scene
-
-** Gifts of Eris
-
-   /Neither gifts–--the immortality, nor the infinite frontier---have
-   granted humanity freedom or peace./
-       /- Satis Tyr. The first questioner of promise. Oldedenlander/
-
-   As soon as we built jump drives with enough range to get to the
-   scattered belt we went to Eris. It was supposed to be a dwarf
-   planet that we would study but it was something else entirely. An
-   infection was waiting there for us that would both kill everyone on
-   earth and spread humanity throughout the galaxy. Eris offered two
-   gifts that we have never come to understand.
-
-*** The Gift of the Infinite Frontier
-
-    We saw as soon as we arrived that Eris was a gate to another sun.
-    Had we called it a dwarf planet? A simple exploration mission
-    through the gate was quickly assembled and successfully executed,
-    revealing an impossible promise. The infinite frontier. There were
-    more Eris Gates in the system on the other side and there were
-    worlds we knew how to terraform and live on. We believed we were
-    imminently free from territory scarcity and the oppressive
-    imperialism that has always meant. We somehow still believe we are
-    imminently free of it, even after discovering and expanding
-    through thousands of Eris Gates. We are, of course, as always,
-    still wrong.
-
-*** The Gift of Immortality
-
-    A contagious nano-implant infection infects about two percent of
-    those who pass through the Eris Gates. It has never been
-    understood, has no cure, spreads like a flu, and is eventually
-    lethal to anyone who does not regularly pass through Eris
-    gates. This is how we lost Earth. Each Eris gate is orbited by a
-    single satellite that somehow stores the memories of everyone who
-    passes through the gate. It regrows them---along with a small,
-    strange, but spacefaring capsule---if they die from anything other
-    than the nano-implant infection. Humanity's immortality for
-    Earth's doom.
-
-    We early explorers begat all of post earth humanity. About half of
-    an immprtal's children do not inherit the infection. Those that do
-    join their parents in immortality, those that don’t have the
-    option to settle whatever planets we’ve been able to terraform. Of
-    course the further out from their birthplace they go, the more
-    likely they are to be infected by the Eris Gates. We have never
-    been able to outpace our own population growth with expansion, and
-    thus have never escaped the perpetual territorial conflicts that
-    started on Earth.
-
-** The Players Become Immortal
-*** Name
-
-    Choose, make up, or roll for a name. If you roll, Roll once and
-    take the first name then again and take the last name. Immortals
-    often end up with fantastic strange names.
-    * Kali Mars
-    * Titus Afranius
-    * Calamity Rat
-    * Minnie Rambunctious
-    * Justice Lovely
-    * Once Twice
-
-*** Pronouns
-
-    Roll from this list, or choose any pronouns you want, you can
-    change them any time.
-    * zie/hir/hir/hirs/hirself
-    * xe/xem/xyr/xyrs/xemself
-    * they/them/their/theirs/themself
-    * ve/ver/vis/vis/verself
-    * ey/em/eir/eirs/eirself
-    * fae/faer/faer/faers/faerself
-
-*** Look
-
-    Choose or make up one (or two, or three) looks. Describe them
-    breifly.
-    * Face Tats
-    * Gorgeous
-    * Goth
-    * Severe
-    * Gutterpunk
-    * Clean Cut
-
-*** Goal
-
-    Choose or make up a personal long term goal
-    * Command a Fleet
-    * Found a nation
-    * Start a revolution
-    * Become known and beloved (or feared)
-    * Bring an enemy to ruin (name the enemy)
-    * Get filthy rich
-
-*** Skills
-
-    1. Assign 4 skill points to Frigate
-    2. Choose the most badass and assign three skill points to it
-       * Laser Combat Operations
-       * Missile Combat Operations
-       * Flak Cannon Combat Operations
-    3. Choose the most badass and assign 2 skill points to it
-       * Shield Defense
-       * Armor Defense
-    4. Assign 1 skill point each to Overheating and Warp Jamming
-
-*** Spaceship
-
-    Everyone fill out a Peice of Shit Frigate sheet
-    1. Fill in the weapon you chose in one weapons hardpoint
-       * If you chose Lasers write "Small Laser"
-       * If you chose Missiles write "Small Missile Battery"
-       * If you chose Flak Cannons write "Small Flak Cannon"
-    2. Write "Warp Jammer" in another weapons hardpoint
-    3. Fill in a defense module hardpoint with "Small Shield
-       Generator" or "Small Armor Plates"
-    4. Give your ship a name and a look
-
-** The Space Conductor Establishes the Adversary
-
-   While the players are creating their characters, The Space
-   Conductor creates an NPC Frigate Squadron to use in the next phase.
-
-   Get through at least step 2 and do as much more as you have time
-   for until the players finishe their characters
-
-   1. Roll Xd6 where X is the number of players
-   2. Create an one NPC Frigate for each player and one NPC Frigate
-      for each hit on that roll (instructions below)
-   3. Give each pilot and ship a name and look
-   4. Name their gang
-   5. Deside what their gang and personal goals are
-   6. Belt out Space Opera into the gang
-
-*** Create an NPC Frigate
-
-    1. Roll 2d6 for the Frigates size
-    2. Roll 2d6-5 for the NPC Rank (they have all basic skills at this rank)
-    3. Assign Size to Sensors, Engines, Weapons, and Defense
-    4. Choose and write down Gear following the instructions for
-       creating a character (but leave the name and look for once
-       you've made all the Frigates)
-
-** Execute a Frigate Squadron Operation
-
-   The SC facilitates a discussion to establish a scene about a small
-   frigate operation. Perhaps its a currier job, mining an astroid, or
-   a salvage mission. This discussion will include telling the whole
-   group information that none of their characers know. This is
-   fine. Don't metagame. Be an adult.
-
-   Each player says a reason that their character openly admits to for
-   being here and the real reason they are here.
-
-   Decide what's to gain (consider Cash or Gear), what it costs
-   (consider Cash, time, and opportunity cost), and what's at stake
-   for the group
-
-   Each player breifly describes the last nice thing and the last mean
-   thing their character did or said to another protagonist. Be
-   clear about which characters are aware of this.
-
-   Each player says what their charcter was doing just before the
-   scene starts
-
-   The SC describes the ad is showing on what screen on the nearest
-   space station just before the scene starts
-
-   Play out the scene, say what happens, have the conversation. Warp
-   around the system, jump through some gates, carry out your
-   operation. When the time is right The SC will introduce an enemy
-   squadron and you'll use the space combat rules to play out the
-   fight. You might lose your ships but that's okay. You can afford to
-   replace it. Starting ships are Cheap and Available at every
-   station.
-
-   Quickly finish up the narration of the operation and decide what
-   was gained, what it cost, and what stakes were lost
+* Another possible setting
+
+  Humanity has spread to Mars and the belt. The belters (find a
+  different name), knowing that Jupiter kept the rocks in the belt
+  from combining and forming into the plannet they would have, see
+  their desitny as combining the rocks into their own plannet.
+
+  Martians are oppulant as fuck because Mars is the subburb that the
+  rich fled to and earth was the urban sprawl left behind. Punks
+  anarchists and workers ended up at the belt
+
+* Breif
+** Big idea
+
+   Alistar Reynolds, Peter F. Hamilton, and EVE Online
+   * Spaceships
+   * Huge far future sandbox
+   * Immortality
+   * Strategic and tactical combat
+   * Social organization (corperations, enterprises, pirate gangs,
+     sovereignty, alliances, etc.)
+   * Politics
+   * Industry
+   * Economics
+
+** Ideal play experience
+
+   * Loadout theorycrafting for
+   * Tactical space combat in order to
+   * Defend and advance your industrial and economic enterprise to
+   * Achieve grand self determined aspirations in a
+   * Vast, hostile, and dangerious universe
+
+** Broad concepts
+
+   * Sandbox
+   * Space Combat
+   * Politics
+   * Industry
+   * Economics
+   * Factions
+
+** Constraints
+
+   * Playable at the table with dice, cards, rulebooks, pen, and
+     paper
+   * Get a mix of play in a 2-4 hour session. Some combat, industry,
+     politics, social RP etc.
+   * 3+ players
+   * Small core game, very expandable, metadata driven
+
+* Dice
+
+  The rules will often call for rolling some dice to see how
+  something turns out. Always roll d6s. Roll them in pools with a
+  number of dice determined by a stat. A pool might be 1d6 or 20d6
+  depending on the situation. Either get lots of dice of a few
+  different colors (I reccomend 12mm dice so you can hold a lot of
+  them) or use an online dice roller.
+
+  Every roll references a table---or tables---listing up to 6
+  possible outcomes. When you roll, you'll assign up to your---or
+  your ships---rank in dice to those outcomes.
+
+  For example. Say you are in a rank 2 ship, and you are trying to
+  get a target lock on an enemy ship. Your ship description lists its
+  built in targeting table as follows
+
+  | roll | effect         |
+  |------+----------------|
+  |    1 | lose all locks |
+  |    2 | lose 2 locks   |
+  |    3 | none           |
+  |    4 | none           |
+  |    5 | gain 1 lock    |
+  |    6 | gain 2 locks   |
+
+  You have the targeting computer skill at rank 3 which lists a
+  targeting table as follows.
+
+  | roll | effect       |
+  |------+--------------|
+  |    1 | lose 2 locks |
+  |    2 | none         |
+
+  Following the rules for Combat below, you determine that your pool
+  for this roll is 3 dice. Your roll comes up [1, 1, 5]. Since your
+  rank is 2, you chose two of the rolls effects to occur (in any
+  order). You choose a 1 and the 5. First you assign the 1 to the 1
+  effect from the targeting computer skill and "lose 2 locks" then
+  assign the 5 to the ships built in targeting computer table and
+  gain 1 lock.
+
+  Next round you roll for locks and get [1, 2, 6]. You chose the 2
+  and the 6 to assign, assigning the two to the targeting computer
+  skill table (none) and the 6 to the ship targeting computer table
+  and gain targeting locks on 2 ships.
 
 * Experience and Skills
 
@@ -489,4 +264,69 @@ humanity
    Thick plates of graphine epoxy-fullerene laminate and concrete
    bolted to the exterrior of the ship. Heavy and reliable
 
-* The Basic Moves
+* Space Combat
+** Engage
+
+   When enemy ships are in your local area you may *engage* them, or
+   they may *engage* you. Both sides of the engagement follow the
+   procedure simultaneously with each each step informing the
+   following steps.
+
+   When you start an engagement or new ships join, establish the
+   range between you and the other ships. Every player rolls a number
+   of d6s equal to their engines pool. the SC does the same for every
+   enemy ship. Whatever side did not initiate the engagement assigns
+   a die from their roll to each ship that they can. The other side
+   may then assign dice from their pool to either add to or subtract
+   from the opposing assignment to a max of 6 and a minimum of 1. If
+   there are not enough dice to assign to all the ships the initiator
+   may choose starting ranges for ships that did not assign dice to
+   them.
+
+   An engagement occurs in rounds with 4 phases each. Everyone
+   executes each phase in order simultaniously. When order matters
+   for effects, the piolot of the affected ship chooses the order of
+   effects.
+
+   *Sensors*
+   * Describe the engagement
+   * Say what is obvious
+   * Roll Sensors
+
+   *Engineering*
+   * Assign Engineeting dice to Speed, Maneuverability, Repair, and Warp
+     pools then roll them
+
+   *Designers Note* Speed tables let you manipulate range,
+   Maneuverability tables let you effect opponents Damage or Sensors
+   tables for a round and Repair tables let you repair the ship. The
+   Warp table works in steps. The "Prepare for warp" effect adds
+   "Warp off" options to the Warp tables so it takes a round to
+   prepare then you can try to warp off. Warp jammers
+
+   *Attack*
+   * Assign Gunnery dice to Damage and Accuracy pools then roll.
+
+   *Designers Note* Damage tables do more damage but are susceptible
+   to manuvering. Accuracy tables are not susceptible to anything but
+   the most extreme maneuvering. Missiles have identical damage and
+   accuracy tables, but may be outrun.
+
+   *Defenses*
+   * Note what damage types each hit causes and roll Defenses. For
+     each assignment chose the column matching the damage type you
+     want to effect.
+
+   *Designers Note* Defenses come with 3 tables, one for Shields, one
+   for Armor, and one for Hull. Shields effects will tend to effect
+   future shield rolls in the same way that maneuverability can
+   affect Damage and Sensors. Armor tracks an amount of armor that
+   works like hit points, and hull damage starts to reduce your dice
+   pools.
+
+* /Industry/
+* /Enterprise/
+* /Politics/
+* /Sovereignty/
+
+
