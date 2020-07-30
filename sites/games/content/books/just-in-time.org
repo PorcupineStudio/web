@@ -1,0 +1,69 @@
++++
+title = "Doomsday Book"
+subtitle = ""
+date = 2020-07-27T14:11:09-05:00
+draft = true
+categories = [
+  "Games",
+]
++++
+
+The object of Doomsday Book is to map your world, survive, and thrive
+together after the apocolypse but you might not because the world is
+dangerous and society is fragile.
+
+* Brief
+
+** The big idea
+
+   Explore, survive, and thrive together
+
+** Ideal play experience
+
+   * Plan and progress projects making life better for your group of
+     survivors.
+   * Explore and discover important places, supplies, and knowledge
+     that will help the group of survivors to thrive.
+   * Survey a site for future projects and to rebuild our base of knowledge
+   * Defend against threats to the groups survival.
+   * Work through social issues within the group. Especially as the
+     group gets bigger.
+
+** Constraints
+
+   * Everything just in time. Lazy everything. Lots of meta prompts.
+   * Character back stories developed as needed or as prompted.
+   * Violence as a defense of the group. No conquest.
+
+* Premise
+
+  You are one of a group of survivors of the apocalypse and are
+  rebuilding. In order to do so you are compiling a Doomsday Book of
+  all the knowledge you could have used after everything fell apart.
+  Everyone in the new society has a copy and new information when
+  compiled is kept by everyone. If it happens again, we'll have enough
+  information to rebuild.
+
+  The book contains what we've learned so far about how to rebuild
+  from scrap.
+  * How to create standards of weights and measures
+  * Tool making techniques
+  * Machines
+  * Geographic surveys
+  * How to conduct geographic surveys
+
+
+
+* Lazy generation of everything
+** The terrain
+
+   Keep a hex map of the area and an index card for each hex.
+
+*** Biomes
+*** Points of interest
+*** Encounters
+
+* License
+
+This work is licensed under a Creative Commons Attribution 4.0
+International License (http://creativecommons.org/licenses/by/4.0/).
