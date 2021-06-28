@@ -1,0 +1,868 @@
++++
+title = "Trophysworn"
+subtitle = ""
+date = 2020-07-30T08:33:25-05:00
+draft = true
+categories = [
+  "System Refrence Documents",
+  "Games",
+  "Micro Games",
+  "Zines",
+  "Playtest Document",
+]
++++
+
+The object of Trophysworn is to heroically rid the world of
+monstrosity but you might not because humankind is seduced by its
+monsters, people are tragic, and this game is a horror allegory.
+
+* Name options
+
+  - A darkness in the town
+  - Beasts in the Garden
+  - Monstrosity
+
+* Brief
+** The Big Idea
+
+   Horror Brechtian epic allegory
+
+   We are tragic and heroic, beguiled by monstrosity we wishfully
+   treat as just power. We fight to rid the world of monstrosity but
+   must flirt with monstrosity to have a chance.
+
+** Ideal play experience
+
+   Just trying to live your life, but...
+
+   Simple, intense, and frightening horror OSR style play punctuated by
+   verfremdungseffekt.
+
+   Strategizing long term battles against monstrosity
+
+   Hard fought slow going progress against monstrosity in the world
+   and in ourselves
+
+   Pressing of luck risking tragic ends (see Greek tragedies) in
+   pursuit of justice
+
+   Struggle to maintain humanity against becoming the monsters we fight
+
+** Constraints
+
+   Good fit for The West Marches and adult schedules
+   - Complete excursions in less than 2 hours
+   - Very low or no GM prep (perhaps this means no GM?)
+
+   No evil campaigns (all PCs are "good")
+
+   No dice other than d6es
+
+   The point should always be players talking about the real world,
+   how to fight injustice and how they can do it without loosing
+   themselves
+   - No mechanical money or wealth just progress and setback against
+     monstrosity
+
+   No attributes. people are people. some get better at different
+   things but we aren't playing with natural differences here.
+
+* Notes
+** Start with all the Ironsworn and Delve moves
+*** Write your epilogue
+
+    keep track of *epic heroism* and *tragic flaw* for each
+    character. These influence the chances for a heroic or tragic
+    epilogue.
+
+    Throughout play the other players rate your characters actions as
+    heroic or tragic
+
+*** Combat moves
+
+    Probably works as stated though sets of moves to weaken the
+    monstrosity should be added as options before entering the
+    fray. Entering the fray earlier than you wanted should be one of
+    the failure modes of the strategies
+
+*** Quest moves
+
+    These should be rewritten perhaps with a custom long term progress
+    system
+
+*** Changes from Ironsworn
+
+    * No ability scores
+    * No momentum
+    * Stress not Spirit
+    * No experience
+
+    * Vows are monsters to find, understand, and defeat
+    * Moves always affect your relationship with some monster or
+      another. If you are trying to compel someone for some free play
+      role play reason, some monster is affected. Monsters are made of
+      our choices and deeds
+
+** Add in the Trophy Gold mechanics
+
+   When rolling for a move use trophy gold's rules for a risk roll
+
+** Add in blades like structured phases
+** Change combat to be like monster hunter
+
+   * moves for tracking the monstrosity
+     * that slowly reveals its nature (asking the players questions
+       about the real world problems and creating metaphor for them
+       into the monstrosity)
+   * moves for different engagement strategies to weaken the
+     monstrosity
+     * Tiring it out
+     * Kiting
+     * Trapping
+     * Sneaking
+     * Distracting
+     * gorilla warfare
+     * Toe to toe, face to face
+     * etc.
+   * Moves for defeating it once and for all
+
+** Complications
+
+   Rather than momentum, keep track of "compounding complications"
+   The more complications there are the worse failures are.
+
+* Rolls
+
+  When your character makes a move. Take one die for each rank in the
+  move your character has.
+
+  You may *push yourself*
+
+  Some moves may say "hold X dice for some purpose". You may add one
+  of the dice you are holding when making a move for that purpose.
+
+  Roll the dice. If your highest die is a:
+  | 1–3 | Miss       |
+  | 4–5 | Weak hit   |
+  | 6   | Strong hit |
+
+  You add as many risk dice as you want. For each one you must assign
+  a die from the roll to the appropriate risk table depending on the
+  risk you take.
+
+  | Roll | If you risk harm | If you risk humanity | If you risk progress |
+  |------+------------------+----------------------+----------------------|
+  |    1 | Suffer 2 harm    | Lose 2 humanity      | Lose 2 progress      |
+  |    2 | Suffer 1 harm    | Lose 1 humanity      | Lose 1 progress      |
+  |    3 | Suffer 1 stress  | Suffer 1 stress      | Suffer 1 stress      |
+  |    4 | Suffer 1 stress  | Suffer 1 stress      | Suffer 1 stress      |
+  |    5 | -                | -                    | -                    |
+  |    6 | -                | -                    | -                    |
+
+  If there are 2 or more 6es that's a critical hit.
+
+  Some powerful monstrosities need to be critically hit (possibly with
+  more than 2 sixes!) for more than a certain amount of progress to be
+  made against them.
+
+  If you took extra dice and you roll doubles lower than your current
+  Humanity subtract 1 from your Humanity and work with the GM to
+  describe the decline of your character’s mind and body as body
+  horror allegories for the decline.
+
+  If your humanity is at 1 describe the monstrosity your character
+  becomes and turn control over to the GM. Make a new character.
+
+* Moves
+
+  [[https://docs.google.com/document/d/11ypqt6GfLuBhGDJuBGWKlHa-Ru48Tf3G_6zbrYKmXgY/edit#heading=h.4vvbp1bocxwg][Pull this in from the Ironsworn SRD]]
+
+  Characters start with 1 rank in each move
+
+** Adventure Moves
+*** Face Danger
+
+    When you attempt something risky or react to an imminent threat,
+    envision your action and roll. If you act...
+
+    * With speed, agility, or precision: Roll +edge.
+    * With charm, loyalty, or courage: Roll +heart.
+    * With aggressive action, forceful defense, strength, or
+      endurance: Roll +iron.
+    * With deception, stealth, or trickery: Roll +shadow.
+    * With expertise, insight, or observation: Roll +wits.
+
+    * On a strong hit, you are successful. Take +1 momentum.
+    * On a weak hit, you succeed, but face a troublesome cost. Choose
+      one.
+      * You are delayed, lose advantage, or face a new danger: Suffer
+        -1 momentum.
+      * You are tired or hurt: Endure Harm (1 harm).
+      * You are dispirited or afraid: Endure Stress (1 stress).
+      * You sacrifice resources: Suffer -1 supply.
+    * On a miss, you fail, or your progress is undermined by a
+      dramatic and costly turn of events. Pay the Price.
+
+*** Secure an Advantage
+
+    When you assess a situation, make preparations, or attempt to gain
+    leverage, envision your action and roll. If you act...
+
+    With speed, agility, or precision: Roll +edge.
+    With charm, loyalty, or courage: Roll +heart.
+    With aggressive action, forceful defense, strength, or endurance: Roll +iron.
+    With deception, stealth, or trickery: Roll +shadow.
+    With expertise, insight, or observation: Roll +wits.
+
+    * On a strong hit, you gain advantage. Choose one.
+      * Take control: Make another move now (not a progress move);
+        when you do, add +1.
+      * Prepare to act: Take +2 momentum.
+    * On a weak hit, your advantage is short-lived. Take +1 momentum.
+    * On a miss, you fail or your assumptions betray you. Pay the Price.
+
+*** Gather Information
+
+    When you search an area, ask questions, conduct an investigation,
+    or follow a track, roll +wits. If you act within a community or
+    ask questions of a person with whom you share a bond, add +1.
+
+    * On a strong hit, you discover something helpful and
+      specific. The path you must follow or action you must take to
+      make progress is made clear. Envision what you learn (Ask the
+      Oracle if unsure), and take +2 momentum.
+    * On a weak hit, the information complicates your quest or
+      introduces a new danger. Envision what you discover (Ask the
+      Oracle if unsure), and take +1 momentum.
+    * On a miss, your investigation unearths a dire threat or reveals
+      an unwelcome truth that undermines your quest. Pay the Price.
+
+*** Heal
+
+    When you treat an injury or ailment, roll +wits. If you are
+    mending your own wounds, roll +wits or +iron, whichever is lower.
+
+    * On a strong hit, your care is helpful. If you (or the ally under
+      your care) have the wounded condition, you may clear it. Then,
+      take or give up to +2 health.
+    * On a weak hit, as above, but you must suffer -1 supply or -1
+      momentum (your choice).
+    * On a miss, your aid is ineffective. Pay the Price.
+
+*** Resupply
+
+    When you hunt, forage, or scavenge, roll +wits.
+
+    * On a strong hit, you bolster your resources. Take +2 supply.
+    * On a weak hit, take up to +2 supply, but suffer -1 momentum for
+      each.
+    * On a miss, you find nothing helpful. Pay the Price.
+
+*** Make Camp
+
+    When you rest and recover for several hours in the wild, roll
+    +supply.
+
+    * On a strong hit, you and your allies may each choose two. On a
+      weak hit, choose one.
+      * Recuperate: Take +1 health for you and any companions.
+      * Partake: Suffer -1 supply and take +1 health for you and any
+        companions.
+      * Relax: Take +1 spirit.
+      * Focus: Take +1 momentum.
+      * Prepare: When you break camp, add +1 if you Undertake a
+        Journey.
+    * On a miss, you take no comfort. Pay the Price.
+
+*** Undertake a Journey
+
+    When you travel across hazardous or unfamiliar lands, first set
+    the rank of your journey.
+
+    Troublesome journey: 3 progress per waypoint.
+    Dangerous journey: 2 progress per waypoint.
+    Formidable journey: 1 progress per waypoint.
+    Extreme journey: 2 ticks per waypoint.
+    Epic journey: 1 tick per waypoint.
+
+    Then, for each segment of your journey, roll +wits. If you are
+    setting off from a community with which you share a bond, add +1
+    to your initial roll.
+
+    * On a strong hit, you reach a waypoint. If the waypoint is
+      unknown to you, envision it (Ask the Oracle if unsure). Then,
+      choose one.
+      * You make good use of your resources: Mark progress.
+      * You move at speed: Mark progress and take +1 momentum, but
+        suffer -1 supply.
+    * On a weak hit, you reach a waypoint and mark progress, but
+      suffer -1 supply.
+    * On a miss, you are waylaid by a perilous event. Pay the Price.
+
+      *NO REACH YOUR DESTINATION* Progress is just progress. when you
+      fill the track you make it to your destination
+
+** Relationship Moves
+*** Compel
+
+    When you attempt to persuade someone to do something, envision
+    your approach and roll. Charm, pacify, barter, convince,
+    Threaten, incite, Lie, or swindle
+
+    * On a strong hit, they’ll do what you want or share what they
+      know.
+    * On a weak hit, as above, but they ask something of you in
+      return. Envision what they want (Ask the Oracle if unsure).
+    * On a miss, they refuse or make a demand which costs you
+      greatly. Pay the Price..
+
+*** Sojourn
+
+    When you spend time in a community seeking assistance, roll
+    +heart. If you share a bond, add +1.
+
+    On strong hit, you and your allies may each choose two from
+    within the categories below. On a weak hit, choose one. If you
+    share a bond, choose one more.
+
+    On a hit, you and your allies may each focus on one of your chosen
+    recover actions and roll +heart again. If you share a bond, add
+    +1. On a strong hit, take +2 more for that action. On a weak hit,
+    take +1 more. On a miss, it goes badly and you lose all benefits
+    for that action.
+
+    Clear a Condition
+    * Mend: Clear a wounded debility and take +1 health.
+    * Hearten: Clear a shaken debility and take +1 spirit.
+    * Equip: Clear an unprepared debility and take +1 supply.
+
+    Recover
+    * Recuperate: Take +2 health for yourself and any companions.
+    * Consort: Take +2 spirit.
+    * Provision: Take +2 supply.
+    * Plan: Take +2 momentum.
+
+    Provide Aid
+    * Take a quest: Envision what this community needs, or what
+      trouble it is facing (Ask the Oracle if unsure). If you chose
+      to help, Swear an Iron Vow and add +1.
+
+    On a miss, you find no help here. Pay the Price.
+
+*** Forge a Bond
+
+    When you spend significant time with a person or community, stand
+    together to face hardships, or make sacrifices for their cause,
+    you can attempt to create a bond. When you do, roll +heart. If you
+    make this move after you successfully Fulfill Your Vow to their
+    benefit, you may reroll any dice.
+
+    * On a strong hit, make note of the bond, mark a tick on your bond
+      progress track, and choose one.
+      * Take +1 spirit.
+      * Take +2 momentum.
+    * On a weak hit, they ask something more of you first. Envision
+      what it is (Ask the Oracle if unsure), do it (or Swear an Iron
+      Vow), and mark the bond. If you decline or fail, Pay the Price.
+    * On a miss, you are refused. Pay the Price.
+
+*** Test Your Bond
+
+    When your bond is tested through conflict, betrayal, or
+    circumstance, roll +heart.
+
+    * On a strong hit, this test has strengthened your bond. Choose one.
+      * Take +1 spirit.
+      * Take +2 momentum.
+    * On a weak hit, your bond is fragile and you must prove your
+      loyalty. Envision what they ask of you (Ask the Oracle if
+      unsure), and do it (or Swear an Iron Vow). If you decline or
+      fail, clear the bond and Pay the Price.
+    * On a miss, or if you have no interest in maintaining this
+      relationship, clear the bond and Pay the Price.
+
+*** Aid Your Ally
+
+    When you Secure an Advantage in direct support of an ally, and
+    score a hit, they (instead of you) can take the benefits of the
+    move. If you are in combat and score a strong hit, you and your
+    ally have initiative.
+
+*** Write Your Epilogue
+
+    Progress Move
+
+    When you retire from your life as Ironsworn, envision two things:
+    What you hope for, and what you fear. Then, roll the challenge
+    dice and compare to your bonds. Momentum is ignored on this roll.
+
+    * On a strong hit, things come to pass as you hoped.
+    * On a weak hit, your life takes an unexpected turn, but not
+      necessarily for the worse. You find yourself spending your days
+      with someone or in a place you did not foresee. Envision it (Ask
+      the Oracle if unsure).
+    * On a miss, your fears are realized.
+
+** Combat Moves
+*** Enter the Fray
+
+    When you enter into combat, first set the rank of each of your foes.
+
+    It's difficulty - the progress you've made against it
+
+    Then, roll to determine who is in control.
+
+    * On a strong hit, hold 2 dice for this combat. You have initiative.
+    * On a weak hit, choose one.
+      * Bolster your position: Hold 2 dice for this combat
+      * Prepare to act: Take initiative.
+    * On a miss, combat begins with you at a disadvantage. Pay the
+      Price. Your foe has initiative.
+
+*** Strike
+
+    When you have initiative and attack in close quarters, roll +iron
+    When you have initiative and attack at range, roll +edge.
+
+    * On a strong hit, inflict +1 harm. You retain initiative.
+    * On a weak hit, inflict your harm and lose initiative.
+    * On a miss, your attack fails and you must Pay the Price. Your
+      foe has initiative.
+
+*** Clash
+
+    When your foe has initiative and you fight with them in close
+    quarters, roll +iron. When you exchange a volley at range, or
+    shoot at an advancing foe, roll +edge.
+
+    * On a strong hit, inflict your harm and choose one. You have the
+      initiative.
+      * You bolster your position: Take +1 momentum.
+      * You find an opening: Inflict +1 harm.
+    * On a weak hit, inflict your harm, but then Pay the Price. Your
+      foe has initiative.
+    * On a miss, you are outmatched and must Pay the Price. Your foe
+      has initiative.
+
+*** Turn the Tide
+
+    Once per fight, when you risk it all, you may steal initiative
+    from your foe to make a move (not a progress move). When you do,
+    add +1 die and hold 1 die for the combat on a hit.
+
+    If you fail to score a hit on that move, you must suffer a dire
+    outcome. Pay the Price.
+
+*** End the Fight
+
+    Progress Move
+
+    When you make a move to take decisive action, and score a strong
+    hit, you may resolve the outcome of this fight. If you do, roll
+    the challenge dice and compare to your progress. Momentum is
+    ignored on this roll.
+
+    * On a strong hit, this foe is no longer in the fight. They are
+      killed, out of action, flee, or surrender as appropriate to the
+      situation and your intent (Ask the Oracle if unsure).
+    * On a weak hit, as above, but you must also choose one.
+      * It’s worse than you thought: Endure Harm.
+      * You are overcome: Endure Stress.
+      * Your victory is short-lived: A new danger or foe appears, or
+        an existing danger worsens.
+      * You suffer collateral damage: Something of value is lost or
+        broken, or someone important must pay the cost.
+      * You’ll pay for it: An objective falls out of reach.
+      * Others won’t forget: You are marked for vengeance.
+    * On a miss, you have lost this fight. Pay the Price.
+
+*** Battle
+
+    maybe we don't need the abstracted fight mechanic
+
+** Suffer Moves
+
+*** Endure Harm
+    
+    When you face physical damage, suffer -health equal to your foe’s
+    rank or as appropriate to the situation. If your health is 0,
+    suffer -momentum equal to any remaining -health.
+
+    Then, roll +health or +iron, whichever is higher.
+
+    * On a strong hit, choose one.
+      * Shake it off: If your health is greater than 0, suffer -1
+        momentum in exchange for +1 health.
+      * Embrace the pain: Take +1 momentum.
+    * On a weak hit, you press on.
+    * On a miss, also suffer -1 momentum. If you are at 0 health, you
+      must mark wounded or maimed (if currently unmarked) or roll on
+      the following table.
+
+
+    |  Roll | Result                                                                                                                                                                                                                       |
+    |-------+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+    |  1-10 | The harm is mortal. Face Death.                                                                                                                                                                                              |
+    | 11-20 | You are dying. You need to Heal within an hour or two, or Face Death.                                                                                                                                                        |
+    | 21-35 | You are unconscious and out of action. If left alone, you come back to your senses in an hour or two. If you are vulnerable to a foe not inclined to show mercy, Face Death.                                                 |
+    | 36-50 | You are reeling and fighting to stay conscious. If you engage in any vigorous activity (such as running or fighting) before taking a breather for a few minutes, roll on this table again (before resolving the other move). |
+    | 51-00 | You are battered but still standing.                                                                                                                                                                                         |
+
+*** Face Death
+
+    When you are brought to the brink of death, and glimpse the world
+    beyond, roll +heart.
+
+    * On a strong hit, death rejects you. You are cast back into the
+      mortal world.
+    * On a weak hit, choose one.
+      * You die, but not before making a noble sacrifice. Envision
+        your final moments.
+      * Death desires something of you in exchange for your
+        life. Envision what it wants (Ask the Oracle if unsure), and
+        Swear an Iron Vow (formidable or extreme) to complete that
+        quest. If you fail to score a hit when you Swear an Iron Vow,
+        or refuse the quest, you are dead. Otherwise, you return to
+        the mortal world and are now cursed. You may only clear the
+        cursed debility by completing the quest.
+    * On a miss, you are dead.
+
+*** Companion endure harm
+
+    Maybe add in the companion rules later?
+
+*** Endure Stress
+
+    Use a BitD system for stress
+
+*** Out of Supply
+
+    Do supplies like Trophy Gold
+
+*** Face a Setback
+
+    Not using momentum
+
+** Quest moves
+
+   None of these seem to be relevant. All quests are hunting and
+   killing monsters
+
+*** Advance
+
+    Use some other system for XP (gold as XP maybe?)
+
+** Fate Moves
+*** Pay the Price
+
+    When you suffer the outcome of a move, choose one.
+
+    Make the most obvious negative outcome happen.
+
+    Envision two negative outcomes. Rate one as ‘likely’, and Ask the Oracle using the yes/no table. On a ‘yes’, make that outcome happen. Otherwise, make it the other.
+
+    Roll on the following table. If you have difficulty interpreting the result to fit the current situation, roll again.
+
+    |  Roll | Result                                                                                                                                                                                                  |
+    |-------+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+    |   1-2 | Roll again and apply that result but make it worse. If you roll this result yet again, think of something dreadful that changes the course of your quest (Ask the Oracle if unsure) and make it happen. |
+    |   3-5 | A person or community you trusted loses faith in you, or acts against you.                                                                                                                              |
+    |   6-9 | A person or community you care about is exposed to danger.                                                                                                                                              |
+    | 10-16 | You are separated from something or someone.                                                                                                                                                            |
+    | 17-23 | Your action has an unintended effect.                                                                                                                                                                   |
+    | 24-32 | Something of value is lost or destroyed.                                                                                                                                                                |
+    | 33-41 | The current situation worsens.                                                                                                                                                                          |
+    | 42-50 | A new danger or foe is revealed.                                                                                                                                                                        |
+    | 51-59 | It causes a delay or puts you at a disadvantage.                                                                                                                                                        |
+    | 60-68 | It is harmful.                                                                                                                                                                                          |
+    | 69-77 | It is stressful.                                                                                                                                                                                        |
+    | 78-85 | A surprising development complicates your quest.                                                                                                                                                        |
+    | 86-90 | It wastes resources.                                                                                                                                                                                    |
+    | 91-94 | It forces you to act against your best intentions.                                                                                                                                                      |
+    | 95-98 | A friend, companion, or ally is put in harm’s way (or you are, if alone).                                                                                                                               |
+    | 99-00 | Roll twice more on this table. Both results occur. If they are the same result, make it worse.                                                                                                          |
+
+*** Ask the Oracle
+
+    When you seek to resolve questions, discover details in the world,
+    determine how other characters respond, or trigger encounters or
+    events, you may…
+
+    * Draw a conclusion: Decide the answer based on the most
+      interesting and obvious result.
+    * Ask a yes/no question: Decide the odds of a ‘yes’, and roll on
+      the table below to check the answer.
+    * Pick two: Envision two options. Rate one as ‘likely’, and roll
+      on the table below to see if it is true. If not, it is the
+      other.
+    * Spark an idea: Brainstorm or use a random prompt.
+
+    | Odds           | The answer is ‘yes’ if you roll... |
+    | Almost Certain | 11 or greater                      |
+    | Likely         | 26 or greater                      |
+    | 50/50          | 51 or greater                      |
+    | Unlikely       | 76 or greater                      |
+    | Small Chance   | 91 or greater                      |
+
+    On a match, an extreme result or twist has occurred
+
+** Meta Moves
+*** Advance
+
+    /downtime/
+
+    When you rest up and reflect on your experiences you may spend
+    marked experience on the next rank of a move. Ranks cost their
+    level in experience so to go from a rank 2 move to a rank 3 move
+    costs 3 experience marked against that move.
+
+*** Push Yourself
+
+    When you make a move and push yourself past your sustainable level
+    of effort, suffer 2 stress, add +1d to your roll, and mark
+    experience in that move.
+
+*** Resist Consequences
+
+    Roll when your character suffers a consequence they don't want to
+    accept
+
+    Change a miss to a weak hit or a weak hit to a strong hit then roll
+
+    You cannot resist consequences of this move
+
+    * On a critical hit: clear 1 stress
+    * On a strong hit: suffer 1 stress
+    * On a weak hit: suffer 3 stress
+    * On a miss: suffer 5 stress
+
+* Stress
+
+  Characters have a special reserve called stress. When they suffer a
+  consequence that they don’t want to accept, they can take stress
+  instead. The result of the resistance roll determines how much
+  stress it costs to avoid a bad outcome.
+
+  Your character suffers 6 stress when they resist, minus the highest
+  die result from the resistance roll. So, if you rolled a 4, you’d
+  suffer 2 stress. If you rolled a 6, you’d suffer zero stress. If you
+  get a critical result, you also clear 1 stress.
+
+* In Town Moves (Downtime (Vice))
+
+  Probably rewrite vice to be more like cutting loose, which should be
+  pointed out can include vices.
+
+  These can all be done as flashbacks
+
+** Stress Relief
+
+   Your characters are a special lot. They push themselves further
+   than ordinary people are willing to go. But this comes at a
+   cost. Their life is one of constant stress and struggles withe
+   their own monstrosity. Indulging a vice helps relieve their stress
+   and to remember their humanity
+
+*** Vice Roll
+
+    *Rewrite this as a move*
+
+    Roll
+
+    Clear stress equal to your highest die result. If you clear more
+    stress levels than you had marked, you overindulge---choose one
+    overindulgence from this list.
+
+    *this might be pay the price*
+    * Lose 2 progress against a monstrosity
+    * Lose 1 Humanity
+    * Lose supplies
+    * Test a bond
+    * Pay the price
+
+*** Indulging Your Vice
+
+    When you indulge your vice, you clear some stress from your
+    character’s stress track. Say how your character indulges their
+    vice, including which purveyor of vice they use to satisfy their
+    needs. This indulgence takes time, so it can only be done when the
+    crew has downtime. Alternately, you may choose to release your
+    character to be “lost in their vice” during a game session,
+    allowing them to indulge off-camera while you play a different
+    PC. A gang member, friend, or contact of the crew might be created
+    as an alternate character to play, thus fleshing out the landscape
+    of PCs.
+
+    You roll to find out how much stress relief your character
+    receives. A vice roll is like a resistance roll in reverse—rather
+    than gaining stress levels, you clear stress levels. The
+    effectiveness of your indulgence depends upon your character’s
+    worst attribute rating. It’s their weakest quality (Insight,
+    Prowess, or Resolve) that is most in thrall to vice.
+
+    Make an attribute roll using your character’s lowest attribute
+    rating (if there’s a tie, that’s fine—simply use that
+    rating). Clear stress equal to the highest die result.
+
+*** Overindulgence
+
+    If your vice roll clears more stress levels than you had marked,
+    you overindulge. A vice is not a reliable, controllable
+    habit. It’s a risk—and one that can drive your character to act
+    against their own best interests.
+
+    When you overindulge, you make a bad call because of your vice—in
+    acquiring it or while under its influence. To bring the effect of
+    this bad decision into the game, select an overindulgence from the
+    list:
+
+    * Attract Trouble. Select or roll an additional entanglement.
+    * Brag about your exploits. +2 heat.
+    * Lost. Your character vanishes for a few weeks. Play a different
+      character until this one returns from their bender. When your
+      character returns, they’ve also healed any harm they had.
+    * Tapped. Your current purveyor cuts you off. Find a new source
+      for your vice.
+
+*** Notes
+
+    Take on Trophy Gold style burdens like Household or Library to
+    improve your character and gain downtime options.
+
+
+** Acquire an asset
+
+   When you seek to gain use of an asset for an excursion:
+   * One special item or set of common items
+   * A cohort
+   * A vehicle
+   * A service (transport, muscle, a scholar or expert, tracker)
+
+   Spend one coin and roll
+
+   * On a Strong Hit you acquire the asset
+   * On a Weak Hit you may acquire the asset but it comes at an
+     unexpected cost. Choose one:
+     * Spend one more coin
+     * Pay the price
+     * Suffer 2 stress
+     * Endure Harm
+     * Don't acquire the asset
+   * On a Miss you don't acquire the asset
+
+
+* Character sheet
+
+  - Name
+  - Experience marks and ranks
+  - Mission, Vision
+
+
+* Start In Medias Res
+
+  You are out on and excursion, roll to determine the situation.
+
+  You start engaged with a monster work out the situation
+
+  1. What's the surroundings? roll on biome craw.  Follow the prompts
+     for the biome to set the scene. Describe details of the
+     surroundings before turning to your character
+  2. Roll 2d6 to see if you are in pursuit, in stalemate, or being pursued
+
+     |   2-6 | Being pursued |
+     |   7-9 | In stalemate  |
+     | 10-12 | In pursuit    |
+
+     Follow the prompts to describe some basic details of your
+     character. Describe what matters to you about them.
+     - these are details like demeanor, stature, gender, style,
+       impression, etc. choose the prompts that matter to you and go
+       with whatever draws you in.
+     - Details of them in this situation with the monster
+
+  3. Why are they here in this position with a monster? UNE is a good
+     resource for prompts about this
+
+  4. *Distance yourself* What is the monster an allegory for
+
+  5. Describe the monster
+     * Roll for it's difficulty rating or level or whatever. The
+       amount of progress you need to make to defeat it
+     * Roll for how much progress you've already made against it
+     * roll 3d6 twice. the lower is how much progress you made, the
+       higher is the difficulty
+
+  6. play out the scene filling in the characters mission and vision
+     if inspiration strikes.
+
+  7. Fill in the details on the sheet as they become relevant. choose
+     what weapon you have with you when you want to describe it. once
+     you chose that detail becomes fixed.
+
+  8. Finish the fight and either defeat the monster, flee, or be
+     defeated. You should reasonably be able to flee unless you really
+     stay and fight too long.
+
+  9. Determine where home is and fill in details of the town.
+     - Do I live alone?
+     - Own/rent/or work for my home? Homeless? Migratory?
+     - What is my name mission and vision?
+
+
+* Play test notes
+
+  Town is stable and safe you have a home there It is also however
+  monstrous. The monstrosity in town is not life threatening, it's not
+  physical. It is social, subdued, implicit, structural, unspoken,
+  implied, tacit, dog whistled, behind a gas lighting smile.
+
+  The wilderness is unstable and full of explicit physically violent
+  monstrosity.
+
+  The two are allegories of each other as this game is an allegory of
+  us.
+
+  To defeat the monstrosities one must:
+  1. Kill them in the wilderness
+     - Make progress against it to weaken it either in town or in the
+       wilderness then enter the fray to take it down
+  2. Bring their carcasses into town for their town counterpart to witness
+  3. Publicly confront and call out the monstrosity in town
+     - This needs to be some sort of progress roll
+
+  When you make a move as part of a strategy against a monstrosity
+  either in Town or in the Wilderness.
+  * On a strong hit make 2 progress
+  * On a weak hit make 1 progress
+  * On a miss lose 2 progress
+
+* Influences
+
+  Sleepytime Gorilla Museum
+
+* License
+
+  This work is licensed under a Creative Commons Attribution 4.0
+  International License (http://creativecommons.org/licenses/by/4.0/).
+
+  This work is based on Ironsworn (found at www.ironswornrpg.com),
+  created by Shawn Tomkin, and licensed for our use under the Creative
+  Commons Attribution 4.0 International License
+  (https://creativecommons.org/licenses/by/4.0/).
+
+  This work is based on Trophy (trophyrpg.com), product of Jesse Ross
+  and Hedgemaze Press, and licensed for our use under the Creative
+  Commons Attribution 4.0 License
+  (https://creativecommons.org/licenses/by/4.0/). Trophy is adapted
+  from Cthulhu Dark with permission of Graham Walmsley. Trophy is also
+  based on Blades in the Dark (found at
+  http://www.bladesinthedark.com/), product of One Seven Design,
+  developed and authored by John Harper, and licensed for our use
+  under the Creative Commons Attribution 3.0 Unported license
+  (http://creativecommons.org/licenses/by/3.0/).
+
+  This work is based on Blades in the Dark (found at
+  http://www.bladesinthedark.com/), product of One Seven Design,
+  developed and authored by John Harper, and licensed for our use
+  under the Creative Commons Attribution 3.0 Unported license
+  (http://creativecommons.org/licenses/by/3.0/).

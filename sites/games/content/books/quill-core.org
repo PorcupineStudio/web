@@ -489,8 +489,9 @@ you might not because the world is full of *danger*,
 *** Counterattack(weapon)
 
     Roll with advantage when an opponent exposes themselves to a
-    counterattack and you are in a position to do so. For example, you
-    can't counterattack a ranged opponent without a ranged weapon.
+    counterattack and you are in a position to take advantage. For
+    example, you can't counterattack a ranged opponent without a
+    ranged weapon.
 
     Difficulty: the target's defense
 
